@@ -57,9 +57,13 @@ Woodhead, Leslie. 2013. *How the Beatles Rocked the Kremlin: The Untold Story of
 * Find on [WorldCat](http://www.worldcat.org/oclc/795174334)
 * Borrow digitized copy from [Internet Archive](https://archive.org/details/howbeatlesrocked0000wood)
 
+Zhuk, Sergei I. 2010. *Rock and Roll in the Rocket City: The West, Identity, and Ideology in Soviet Dniepropetrovsk, 1960–1985*. Washington, D.C: Woodrow Wilson Center Press.
+
+* Find on [WorldCat](https://www.worldcat.org/oclc/468972516)  
+
 ### Edited Collections
 
-Blüml, Jan, Yvetta Kajanová and Rüdiger Ritter, eds. 2019. *Popular Music in Communist and Post-Communist Europe*. Switzerland: Peter Lang. 
+Blüml, Jan, Yvetta Kajanová, and Rüdiger Ritter, eds. 2019. *Popular Music in Communist and Post-Communist Europe*. Switzerland: Peter Lang. 
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/1090283753)
 * DOI: https://doi.org/10.3726/b15374
@@ -90,6 +94,7 @@ Zaitsev, Igor, ed. 1990. *Soviet Rock: 25 Years in the Underground + 5 Years of 
 Friedman, Julia P., and Adam Weiner. 1999. “Between a Rock and a Hard Place: Holy Rus’ and Its Alternatives in Russian Rock Music.” In *Consuming Russia: Popular Culture, Sex, and Society Since Gorbachev*, edited by Adele Marie Barker, 110-37. Durham: Duke University Press. 
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/1148134281)
+* Borrow digitized copy from [Internet Archive](https://archive.org/details/consumingrussia00adel/)
 
 Glossop, Nicholas. 1998. “On the Peculiarities of Soviet Rock and Roll.” In *Intersections and Transpositions: Russian Music, Literature, and Society*, edited by Andrew Wachtel, 274-98. Evanston: Northwestern University Press.
 
@@ -124,7 +129,9 @@ Yoffe, Mark. 2005. “Conceptual Carnival: National Elements in Russian National
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/799947320)
 
-## Scholarly Articles
+## Articles
+
+### Academic Journal Articles
 
 Amico, Stephen. 2014. “‘The Most Martian of Martianesses’: Zhanna Aguzarova, (Post-)Soviet Rock ‘n’ Roll, and the Musico-Linguistic Creation of the ‘Outside’.” *Popular Music*, 33 (2): 243-67. 
 
@@ -193,6 +200,10 @@ Trottier, Veronika. 2019. “A Digital Voice for Russian Rock: Perspectives on D
 
 * DOI: https://doi.org/10.1080/15228886.2019.1628499
 
+Von Faust, Boris. 2016. “Let There Be Rock: ‘Western’ Heavy Metal in Soviet Press and Public Opinion During the Soviet Union’s Final Decade.” *Metal Music Studies* 2 (3): 377-93.
+
+* DOI: https://doi.org/10.1386/mms.2.3.377_1
+
 Wickström, David-Emil, and Yngvar B. Steinholt. 2009. “Visions of the (Holy) Motherland in Contemporary Russian Popular Music: Nostalgia, Patriotism, Religion and *Russkii Rok*.” *Popular Music and Society*, 32(3): 313-30. 
 
 * DOI: https://doi.org/10.1080/03007760902985668
@@ -200,3 +211,91 @@ Wickström, David-Emil, and Yngvar B. Steinholt. 2009. “Visions of the (Holy) 
 Yoffe, Mark. 2013. “The *Stiob* of Ages: Carnivalesque Traditions in Soviet Rock and Related Counterculture.” *Russian Literature*, 74 (1-2): 207-25.
 
 * DOI: https://doi.org/10.1016/j.ruslit.2013.10.010
+
+Yoffe, Mark. 2020. “Soviet Rock Collection and International Counterculture
+Archive at the Global Resources Center of the George Washington University Libraries.” *Slavic &
+East European Information Resources*, 21 (1-2): 112-132.
+
+*  DOI: https://doi.org/10.1080/15228886.2020.1756943
+
+Zaporozhets, Oksana, and Alexandra Kolesnik. 2020. “Music Geography in Russia: Non-Auratic Places and Institutionalization “in Becoming.”” *Journal of Cultural Geography*, 37 (1): 1-25.
+
+* DOI: https://doi.org/10.1080/08873631.2019.1703450
+
+### Newspaper/Magazine Articles
+
+Bennetts, Marc. 2014. “Raging in the cold: the Siberian punk who changed the face of Russian music.” *The Calvert Journal*. September 23. https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb
+
+* Archive link: https://web.archive.org/web/20200812165313/https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb
+
+Schreck, Carl. 2014. “A Brief History of Soviet Rock and Roll.” *The Atlantic*. April 21. https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/
+
+* Archive link: https://web.archive.org/web/20161012071431/https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/
+
+Fedorova, Anastasiia. 2017. “Remembering Viktor Tsoi: why the rebellious rock poet is still a hero for our time.” *The Calvert Journal*. August 15. https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music (accessed 11 August 2020)
+
+* Archive link: https://web.archive.org/web/20170903070854/https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music
+
+Kan, Alexander. 2014. “Underground sound: Alexander Kan’s favourite tracks from 1980s Leningrad.” May 8. https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino (accessed 12 August 2020)
+
+* Archive link: https://web.archive.org/web/20140516041400/https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino
+
+Raspopina, Sasha. 2016. “Rock in the USSR: new photos of the Leningrad underground during perestroika.” *The Calvert Journal*. August 16. https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi (accessed 12 August 2020)
+
+* Archive link: https://web.archive.org/web/20160817144853/https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi
+
+### Theses and Dissertations
+
+Kveberg, Gregory R. 2012. “Moscow by Night: Musical Subcultures, Identity Formation, and Cultural Evolution in Russia, 1977-2008.” PhD diss. University of Illinois at Urbana Champaign. 
+
+* https://core.ac.uk/display/10208580
+* OAI: oai:www.ideals.illinois.edu:2142/42317
+
+Tite, Matthew Charles Everingham. 2007. “The Discursive Construction of Punk: Language and Identity in Russia’s Punk-Rock ‘Subculture’.” MA thesis. University of Waterloo.
+
+* https://uwspace.uwaterloo.ca/handle/10012/2779
+
+Von Faust, Boris. 2014. “Banned in the USSR: Counterculture, State Media, and Public Opinion during the Soviet Union's Final Decade.” MA diss. Rutgers, The State University of New Jersey.
+
+* https://rucore.libraries.rutgers.edu/rutgers-lib/43919/
+* DOI: https://doi.org/doi:10.7282/T39P2ZX7
+
+Whalen, Allie. 2015. ““I Will Counterrevolution / I Will Stop All The Motion”: Archiving Exile, Samizdat, and Underground Audio from the Eastern Bloc.” MA thesis. New York University.
+
+* https://www.nyu.edu/tisch/preservation/program/student_work/2015spring/15s_3490_whalen_thesis_final.pdf
+
+### Interviews
+
+Coates, Stephen. 2016. “The secret history of the Soviet X-ray vinyl black market.” By Alice Nicolov. *Dazed Digital*. https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union
+
+* Archive link: https://web.archive.org/web/20160805054854/https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union
+
+Mukhin, Igor. 2016. “Capturing the Soviet Union’s rock kids of the 1980s.” By Alice Nicolov. *Dazed Digital*. https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth
+
+* Archive link: https://web.archive.org/web/20160902143629/https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth
+
+Stingray, Joanna. 2019. “'For whatever reason in the cosmos, I’m connected to Russia again.': Joanna Stingray brought Soviet rock to the West. We asked her about her old friends and her new book.” By Maria Lashcheva and Hilah Kohen. *Meduza*. https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again
+
+* Archive link: https://web.archive.org/web/20190417042846/https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again
+
+## Audio Resources
+
+### Podcasts
+
+“Rock the USSR (with Tom Garza).” 2019. The Slavic Connexion. *Texas Podcast Network*, October 28. https://www.slavxradio.com/sovietskyrock
+
+“Rock the USSR Part 2 (with Artemy Troitsky and Tom Garza).” 2020. The Slavic Connexion. *Texas Podcast Network*, April 8. https://www.slavxradio.com/rocktheussr2
+
+“Bureau Of Lost Culture - A Short History of Soviet Counterculture (26/04/2020).” 2020. Interview with Artemy Troitsky. Soho Radio. *Mixcloud*, April 26. https://www.mixcloud.com/sohoradio/bureau-of-lost-culture-a-short-history-of-soviet-counterculture-26042020/
+
+### Radio Programs
+
+McCarthy, Brigid. “How Rock and Roll Brought the Soviet Union Down.” 2011. The World. *PRI*, May 19. https://www.pri.org/stories/2011-05-19/how-rock-and-roll-brought-soviet-union-down
+
+* Note: interview with Sergei Zhuk, promoting *Rock and Roll in the Rocket City*
+
+## Websites
+
+[Unearthing the Music: Sound and Creative Experimentation in Non-democratic Europe](https://unearthingthemusic.eu/)
+
+[X-Ray Audio](https://www.x-rayaudio.com)
