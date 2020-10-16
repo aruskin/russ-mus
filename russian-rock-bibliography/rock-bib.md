@@ -31,6 +31,10 @@ Steinholt, Yngvar Bordewich. 2005. *Rock in the Reservation: Songs from Leningra
 * Find on [WorldCat](http://www.worldcat.org/oclc/165872118)
 * [Open Access](http://hdl.handle.net/10037/3704)
 
+Stingray, Joanna, and Madison Stingray. 2020. *Red Wave: An American in the Soviet Music Underground.* Los Angeles: DoppelHouse Press.
+
+* Find on [WorldCat](http://www.worldcat.org/oclc/1142340352)
+
 Stites, Richard. 1992. *Russian Popular Culture: Entertainment and Society Since 1900*. Cambridge: Cambridge University Press.
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/24431153)
