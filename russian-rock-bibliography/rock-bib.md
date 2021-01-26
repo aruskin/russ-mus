@@ -95,6 +95,11 @@ Zaitsev, Igor, ed. 1990. *Soviet Rock: 25 Years in the Underground + 5 Years of 
 
 ### Book Chapters
 
+Easton, Paul. 1989.“The Rock Music Community.” In *Soviet Youth Culture*, edited by James Riordan, 45-82. Bloomington: Indiana University Press.
+
+* Find on [WorldCat](http://www.worldcat.org/oclc/18327428)
+* Borrow digitized copy from [HathiTrust](https://hdl.handle.net/2027/uva.x001605987)
+
 Friedman, Julia P., and Adam Weiner. 1999. “Between a Rock and a Hard Place: Holy Rus’ and Its Alternatives in Russian Rock Music.” In *Consuming Russia: Popular Culture, Sex, and Society Since Gorbachev*, edited by Adele Marie Barker, 110-37. Durham: Duke University Press. 
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/1148134281)
