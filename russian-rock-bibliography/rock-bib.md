@@ -8,6 +8,10 @@ Cushman, Thomas. 1995. *Notes from Underground: Rock Music Counterculture in Rus
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/31937131)
 
+Herbert, Alexander. 2019. *What About Tomorrow?: An Oral History of Russian Punk from the Soviet Era to Pussy Riot*. Portland: Microcosm Publishing.
+
+* Find on [WorldCat](http://www.worldcat.org/oclc/1091235351)
+
 MacFadyen, David. 2001. *Red Stars: Personality and the Soviet Popular Song, 1955-1991*. Montreal: McGill-Queen's University Press. 
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/45485871)
