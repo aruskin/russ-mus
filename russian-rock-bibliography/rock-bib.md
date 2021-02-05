@@ -95,7 +95,7 @@ Zaitsev, Igor, ed. 1990. *Soviet Rock: 25 Years in the Underground + 5 Years of 
 
 ### Book Chapters
 
-Easton, Paul. 1989.“The Rock Music Community.” In *Soviet Youth Culture*, edited by James Riordan, 45-82. Bloomington: Indiana University Press.
+Easton, Paul. 1989. “The Rock Music Community.” In *Soviet Youth Culture*, edited by James Riordan, 45-82. Bloomington: Indiana University Press.
 
 * Find on [WorldCat](http://www.worldcat.org/oclc/18327428)
 * Borrow digitized copy from [HathiTrust](https://hdl.handle.net/2027/uva.x001605987)
@@ -205,7 +205,7 @@ Steinholt, Yngvar B. 2003. “You Can't Rid a Song of Its Words: Notes on the He
 Steinholt, Yngvar B. 2012. “Siberian Punk Shall Emerge Here: Egor Letov and Grazhdanskaia Oborona.” *Popular Music*, 31 (3): 401-15. 
 * JSTOR stable link: https://www.jstor.org/stable/23325785
 
-Trottier, Veronika. 2019. “A Digital Voice for Russian Rock: Perspectives on Digitization of Russian Rock *Zines*.” *Slavic & East European Information Resources*, 20 (1-2): 31-8.  
+Trotter, Veronika. 2019. “A Digital Voice for Russian Rock: Perspectives on Digitization of Russian Rock *Zines*.” *Slavic & East European Information Resources*, 20 (1-2): 31-8.  
 
 * DOI: https://doi.org/10.1080/15228886.2019.1628499
 
