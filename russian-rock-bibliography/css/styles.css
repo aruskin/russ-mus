@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aquamarine;
+}
+
+.citation {
+	text-indent: -36px;
+	padding-left: 36px;
+}
+
+.mono-title {
+	font-style: italic;
+}
