@@ -36,7 +36,7 @@
         <forename>Lisa</forename>
         <surname>Mullins</surname>
       </my:host>
-      <my:interviewee>
+      <my:interviewee ref="authors.xml#zhuk.s">
         <forename>Sergei</forename>
         <surname>Zhuk</surname>
       </my:interviewee>
@@ -58,7 +58,7 @@
   <biblStruct type="podcast" xml:id="troitsky2020b">
     <monogr>
       <title level="m">Bureau Of Lost Culture - A Short History of Soviet Counterculture (26/04/2020)</title>
-      <my:interviewee>
+      <my:interviewee ref="authors.xml#troitsky.a">
         <forename>Artemy</forename>
         <surname>Troitsky</surname>
       </my:interviewee>
@@ -116,15 +116,15 @@
   <biblStruct type="magazineArticle" xml:id="lashcheva2019">
     <analytic>
       <title level="a"><q>For whatever reason in the cosmos, I’m connected to Russia again.</q> Joanna Stingray brought Soviet rock to the West. We asked her about her old friends and her new book</title>
-      <author>
+      <author ref="authors.xml#lashcheva.m">
         <forename>Maria</forename>
         <surname>Lashcheva</surname>
       </author>
-      <author>
+      <author ref="authors.xml#kohen.h">
         <forename>Hilah</forename>
         <surname>Kohen</surname>
       </author>
-      <my:interviewee>
+      <my:interviewee ref="authors.xml#stingray.j">
         <forename>Joanna</forename>
         <surname>Stingray</surname>
       </my:interviewee>
@@ -144,7 +144,7 @@
   <biblStruct type="magazineArticle" xml:id="nicolov2016a">
     <analytic>
       <title level="a">Capturing the Soviet Union’s rock kids of the 1980s</title>
-      <author>
+      <author ref="authors.xml#nicolov.a">
         <forename>Alice</forename>
         <surname>Nicolov</surname>
       </author>
@@ -168,11 +168,11 @@
   <biblStruct type="magazineArticle" xml:id="nicolov2016b">
     <analytic>
       <title level="a">The secret history of the Soviet X-ray vinyl black market</title>
-      <author>
+      <author ref="authors.xml#nicolov.a"> 
         <forename>Alice</forename>
         <surname>Nicolov</surname>
       </author>
-      <my:interviewee>
+      <my:interviewee ref="authors.xml#coates.s">
         <forename>Stephen</forename>
         <surname>Coates</surname>
       </my:interviewee>
@@ -192,7 +192,7 @@
   <biblStruct type="thesis" xml:id="whalen2015">
     <monogr>
       <title level="m"><q>I Will Counterrevolution / I Will Stop All The Motion</q>: Archiving Exile, Samizdat, and Underground Audio from the Eastern Bloc</title>
-      <author>
+      <author ref="authors.xml#whalen.a">
         <forename>Allie</forename>
         <surname>Whalen</surname>
       </author>
@@ -207,7 +207,7 @@
   <biblStruct type="thesis" xml:id="tite2007">
     <monogr>
       <title level="m">The Discursive Construction of Punk: Language and Identity in Russia’s Punk-Rock <q>Subculture</q></title>
-      <author>
+      <author ref="authors.xml#tite.m">
         <forename>Matthew Charles Everingham</forename>
         <surname>Tite</surname>
       </author>
@@ -225,7 +225,7 @@
   <biblStruct type="thesis" xml:id="kveberg2012">
     <monogr>
       <title level="m">Moscow by Night: Musical Subcultures, Identity Formation, and Cultural Evolution in Russia, 1977&#8211;2008</title>
-      <author>
+      <author ref="authors.xml#kveberg.g">
         <forename>Gregory</forename>
         <surname>Kveberg</surname>
       </author>
@@ -243,7 +243,7 @@
   <biblStruct type="magazineArticle" xml:id="raspopina2016">
     <analytic>
       <title level="a">Rock in the USSR: new photos of the Leningrad underground during perestroika</title>
-      <author>
+      <author ref="authors.xml#raspopina.s">
         <forename>Sasha</forename>
         <surname>Raspopina</surname>
       </author>
@@ -263,7 +263,7 @@
   <biblStruct type="magazineArticle" xml:id="kan2014">
     <analytic>
       <title level="a">Underground sound: Alexander Kan’s favourite tracks from 1980s Leningrad</title>
-      <author>
+      <author ref="authors.xml#kan.a">
         <forename>Alexander</forename>
         <surname>Kan</surname>
       </author>
@@ -283,7 +283,7 @@
   <biblStruct type="magazineArticle" xml:id="fedorova2017">
     <analytic>
       <title level="a">Remembering Viktor Tsoi: why the rebellious rock poet is still a hero for our time</title>
-      <author>
+      <author ref="authors.xml#fedorova.a">
         <forename>Anastasiia</forename>
         <surname>Fedorova</surname>
       </author>
@@ -302,7 +302,7 @@
   <biblStruct type="magazineArticle" xml:id="schreck2014">
     <analytic>
       <title level="a">A Brief History of Soviet Rock and Roll</title>
-      <author>
+      <author ref="authors.xml#schreck.c">
         <forename>Carl</forename>
         <surname>Schreck</surname>
       </author>
@@ -321,7 +321,7 @@
   <biblStruct type="magazineArticle" xml:id="bennetts2014">
     <analytic>
       <title level="a">Raging in the cold: the Siberian punk who changed the face of Russian music</title>
-      <author>
+      <author ref="authors.xml#bennetts.m">
         <forename>Marc</forename>
         <surname>Bennetts</surname>
       </author>
@@ -341,14 +341,14 @@
   <biblStruct type="bookSection" xml:id="yoffe2005">
     <analytic>
       <title level="a">Conceptual Carnival: National Elements in Russian Nationalist Rock Music</title>
-      <author>
+      <author ref="authors.xml#yoffe.m">
         <forename>Mark</forename>
         <surname>Yoffe</surname>
       </author>
     </analytic>
     <monogr>
       <title level="m">Rock &amp; Roll and Nationalism: A Multinational Perspective</title>
-      <editor>
+      <editor ref="authors.xml#yoffe.m">
         <forename>Mark</forename>
         <surname>Yoffe</surname>
       </editor>
@@ -371,7 +371,7 @@
   <biblStruct type="bookSection" xml:id="sosin1975">
     <analytic>
       <title level="a">Magnitizdat: The Uncensored Songs of Dissent</title>
-      <author>
+      <author ref="authors.xml#sosin.g">
         <forename>Gene</forename>
         <surname>Sosin</surname>
       </author>
@@ -400,7 +400,7 @@
   <biblStruct type="bookSection" xml:id="mcmichael2008a">
     <analytic>
       <title level="a">Imagining Soviet Rock: Akvarium’s <hi rend="italics">Triangle</hi></title>
-      <author>
+      <author ref="authors.xml#mcmichael.p">
         <forename>Polly</forename>
         <surname>McMichael</surname>
       </author>
@@ -432,7 +432,7 @@
   <biblStruct type="bookSection" xml:id="gololobov2015">
     <analytic>
       <title level="a">Russian Punk in ‘the Biggest Village on Earth’</title>
-      <author>
+      <author ref="authors.xml#gololobov.i">
         <forename>Ivan</forename>
         <surname>Gololobov</surname>
       </author>
@@ -469,7 +469,7 @@
   <biblStruct type="bookSection" xml:id="glossop1998">
     <analytic>
       <title level="a">On the Peculiarities of Soviet Rock and Roll</title>
-      <author>
+      <author ref="authors.xml#glossop.n">
         <forename>Nicholas</forename>
         <surname>Glossop</surname>
       </author>
@@ -509,11 +509,11 @@
   <biblStruct type="bookSection" xml:id="friedman1999">
     <analytic>
       <title level="a">Between a Rock and a Hard Place: Holy Rus’ and Its Alternatives in Russian Rock Music</title>
-      <author>
+      <author ref="authors.xml#friedman.j">
         <forename>Julia P.</forename>
         <surname>Friedman</surname>
       </author>
-      <author>
+      <author ref="authors.xml#weiner.a">
         <forename>Adam</forename>
         <surname>Weiner</surname>
       </author>
@@ -541,7 +541,7 @@
   <biblStruct type="bookSection" xml:id="pilkington2014">
     <analytic>
       <title level="a">Sounds of a ‘Rotting City’: Punk in Russia’s Arctic Hinterland</title>
-      <author>
+      <author ref="authors.xml#pilkington.h">
         <forename>Hilary</forename>
         <surname>Pilkington</surname>
       </author>
@@ -581,7 +581,7 @@
   <biblStruct type="bookSection" xml:id="pilkington2016">
     <analytic>
       <title level="a"><q>If You Want to Live, You Better Know How to Fight</q>: Fighting Masculinity on the Russian Punk Scene</title>
-      <author>
+      <author ref="authors.xml#pilkington.h">
         <forename>Hilary</forename>
         <surname>Pilkington</surname>
       </author>
@@ -611,7 +611,7 @@
   <biblStruct type="thesis" xml:id="vonfaust2014">
     <monogr>
       <title level="m">Banned in the USSR: Counterculture, State Media, and Public Opinion During the Soviet Union's Final Decade</title>
-      <author>
+      <author ref="authors.xml#vonfaust.b">
         <forename>Boris</forename>
         <surname>Von Faust</surname>
       </author>
@@ -629,11 +629,11 @@
   <biblStruct type="journalArticle" xml:id="zaporozhets2020">
     <analytic>
       <title level="a">Music Geography in Russia: Non-Auratic Places and Institutionalization <q>in Becoming</q></title>
-      <author>
+      <author ref="authors.xml#zaporozhets.o">
         <forename>Oksana</forename>
         <surname>Zaporozhets</surname>
       </author>
-      <author>
+      <author ref="authors.xml#kolesnik.a">
         <forename>Alexandra</forename>
         <surname>Kolesnik</surname>
       </author>
@@ -662,7 +662,7 @@
   <biblStruct type="journalArticle" xml:id="yoffe2020">
     <analytic>
       <title level="a">Soviet Rock Collection and International Counterculture Archive at the Global Resources Center of the George Washington University Libraries</title>
-      <author>
+      <author ref="authors.xml#yoffe.m">
         <forename>Mark</forename>
         <surname>Yoffe</surname>
       </author>
@@ -688,7 +688,7 @@
   <biblStruct type="journalArticle" xml:id="yoffe2013">
     <analytic>
       <title level="a">The <hi rend="italics">Stiob</hi> of Ages: Carnivalesque Traditions in Soviet Rock and Related Counterculture</title>
-      <author>
+      <author ref="authors.xml#yoffe.m">
         <forename>Mark</forename>
         <surname>Yoffe</surname>
       </author>
@@ -717,11 +717,11 @@
   <biblStruct type="journalArticle" xml:id="wickstrom2009">
     <analytic>
       <title level="a">Visions of the (Holy) Motherland in Contemporary Russian Popular Music: Nostalgia, Patriotism, Religion and <hi rend="italics">Russkii Rok</hi></title>
-      <author>
+      <author ref="authors.xml#wickstrom.d">
         <forename>David-Emil</forename>
         <surname>Wickström</surname>
       </author>
-      <author>
+      <author ref="authors.xml#steinholt.y">
         <forename>Yngvar B.</forename>
         <surname>Steinholt</surname>
       </author>
@@ -752,7 +752,7 @@
   <biblStruct type="journalArticle" xml:id="vonfaust2016">
     <analytic>
       <title level="a">Let There Be Rock: <q>Western</q> Heavy Metal in Soviet Press and Public Opinion During the Soviet Union’s Final Decade</title>
-      <author>
+      <author ref="authors.xml#vonfaust.b">
         <forename>Boris</forename>
         <surname>Von Faust</surname>
       </author>
@@ -777,7 +777,7 @@
   <biblStruct type="journalArticle" xml:id="trotter2019">
     <analytic>
       <title level="a">A Digital Voice for Russian Rock: Perspectives on Digitization of Russian Rock <hi rend="italics">Zines</hi></title>
-      <author>
+      <author ref="authors.xml#trotter.v">
         <forename>Veronika</forename>
         <surname>Trotter</surname>
       </author>
@@ -807,7 +807,7 @@
   <biblStruct type="journalArticle" xml:id="steinholt2012">
     <analytic>
       <title level="a">Siberian Punk Shall Emerge Here: Egor Letov and Grazhdanskaia Oborona</title>
-      <author>
+      <author ref="authors.xml#steinholt.y">
         <forename>Yngvar B.</forename>
         <surname>Steinholt</surname>
       </author>
@@ -833,7 +833,7 @@
   <biblStruct type="journalArticle" xml:id="steinholt2003">
     <analytic>
       <title level="a">You Can't Rid a Song of Its Words: Notes on the Hegemony of Lyrics in Russian Rock Songs</title>
-      <author>
+      <author ref="authors.xml#steinholt.y">
         <forename>Yngvar B.</forename>
         <surname>Steinholt</surname>
       </author>
@@ -862,7 +862,7 @@
   <biblStruct type="journalArticle" xml:id="six2008">
     <analytic>
       <title level="a"><q>Born in the USSR</q>: Searching High and Low for Post-Soviet Identity</title>
-      <author>
+      <author ref="authors.xml#six.i">
         <forename>Irina</forename>
         <surname>Six</surname>
       </author>
@@ -887,11 +887,11 @@
   <biblStruct type="journalArticle" xml:id="rogatchevski2016">
     <analytic>
       <title level="a">Pussy Riot’s Musical Precursors? The National Bolshevik Party Bands, 1994&#8211;2007</title>
-      <author>
+      <author ref="authors.xml#rogatchevski.a">
         <forename>Andrei</forename>
         <surname>Rogatchevski</surname>
       </author>
-      <author>
+      <author ref="authors.xml#steinholt.y">
         <forename>Yngvar B.</forename>
         <surname>Steinholt</surname>
       </author>
@@ -916,7 +916,7 @@
   <biblStruct type="journalArticle" xml:id="rayport1995">
     <analytic>
       <title level="a">Negotiating Identity in a World Turned Upside Down: Russian Youth Cultural Practice in Leningrad, 1990-1991</title>
-      <author>
+      <author ref="authors.xml#rayport.j">
         <forename>Jennifer S.</forename>
         <surname>Rayport</surname>
       </author>
@@ -947,11 +947,11 @@
   <biblStruct type="journalArticle" xml:id="ramet1990">
     <analytic>
       <title level="a">The Soviet Rock Scene</title>
-      <author>
+      <author ref="authors.xml#ramet.s">
         <forename>Pedro</forename>
         <surname>Ramet</surname>
       </author>
-      <author>
+      <author ref="authors.xml#zamascikov.s">
         <forename>Sergei</forename>
         <surname>Zamascikov</surname>
       </author>
@@ -978,7 +978,7 @@
   <biblStruct type="journalArticle" xml:id="pond1987">
     <analytic>
       <title level="a">Soviet Rock Lyrics: Their Content and Poetics</title>
-      <author>
+      <author ref="authors.xml#pond.i">
         <forename>Irina</forename>
         <surname>Pond</surname>
       </author>
@@ -1003,7 +1003,7 @@
   <biblStruct type="journalArticle" xml:id="mcmichael2009">
     <analytic>
       <title level="a">Prehistories and Afterlives: The Packaging and Re-packaging of Soviet Rock</title>
-      <author>
+      <author ref="authors.xml#mcmichael.p">
         <forename>Polly</forename>
         <surname>McMichael</surname>
       </author>
@@ -1040,7 +1040,7 @@
   <biblStruct type="journalArticle" xml:id="mcmichael2008b">
     <analytic>
       <title level="a">Translation, Authorship and Authenticity in Soviet Rock Songwriting</title>
-      <author>
+      <author ref="authors.xml#mcmichael.p">
         <forename>Polly</forename>
         <surname>McMichael</surname>
       </author>
@@ -1065,7 +1065,7 @@
   <biblStruct type="journalArticle" xml:id="mcmichael2005">
     <analytic>
       <title level="a"><q>After All, You're a Rock and Roll Star (At Least, That's What They Say)</q>: <hi rend="italics">Roksi</hi> and the Creation of the Soviet Rock Musician</title>
-      <author>
+      <author ref="authors.xml#mcmichael.p">
         <forename>Polly</forename>
         <surname>McMichael</surname>
       </author>
@@ -1137,7 +1137,7 @@
   <biblStruct type="journalArticle" xml:id="glossop1991">
     <analytic>
       <title level="a">Recent Developments in Soviet Record Production</title>
-      <author>
+      <author ref="authors.xml#glossop.n">
         <forename>Nicholas</forename>
         <surname>Glossop</surname>
       </author>
@@ -1163,7 +1163,7 @@
   <biblStruct type="journalArticle" xml:id="macfadyen2010">
     <analytic>
       <title level="a">The Russian <q>Rockumentary</q>: Documentary Films and Rock, Pop, and Chanson</title>
-      <author>
+      <author ref="authors.xml#macfadyen.d">
         <forename>David</forename>
         <surname>Macfadyen</surname>
       </author>
@@ -1188,7 +1188,7 @@
   <biblStruct type="journalArticle" xml:id="furst2014">
     <analytic>
       <title level="a">Love, Peace and Rock ’n’ Roll on Gorky Street: The ‘Emotional Style’ of the Soviet Hippie Community</title>
-      <author>
+      <author ref="authors.xml#furst.j">
         <forename>Juliane</forename>
         <surname>Fürst</surname>
       </author>
@@ -1213,7 +1213,7 @@
   <biblStruct type="journalArticle" xml:id="dobrotvorskaja1992">
     <analytic>
       <title level="a">Soviet Teens of the 1970s: Rock Generation, Rock Refusal, Rock Context</title>
-      <author>
+      <author ref="authors.xml#dobrotvorskaja.e">
         <forename>Ekaterina</forename>
         <surname>Dobrotvorskaja</surname>
       </author>
@@ -1239,7 +1239,7 @@
   <biblStruct type="journalArticle" xml:id="daughtry2009">
     <analytic>
       <title level="a"><q>Sonic Samizdat</q>: Situating Unofficial Recording in the Post-Stalinist Soviet Union</title>
-      <author>
+      <author ref="authors.xml#daughtry.j">
         <forename>J. Martin</forename>
         <surname>Daughtry</surname>
       </author>
@@ -1264,7 +1264,7 @@
   <biblStruct type="journalArticle" xml:id="amico2014">
     <analytic>
       <title level="a"><q>The Most Martian of Martianesses</q>: Zhanna Aguzarova, (Post-)Soviet Rock ‘n’ Roll, and the Musico-Linguistic Creation of the ‘Outside’</title>
-      <author>
+      <author ref="authors.xml#amico.s">
         <forename>Stephen</forename>
         <surname>Amico</surname>
       </author>
@@ -1426,7 +1426,7 @@
   <biblStruct type="editedCollection" xml:id="ramet1994">
     <monogr>
       <title level="m">Rocking the State: Rock Music and Politics in Eastern Europe and Russia</title>
-      <editor>
+      <editor ref="authors.xml#ramet.s">
         <forename>Sabrina P.</forename>
         <surname>Ramet</surname>
       </editor>
@@ -1457,15 +1457,15 @@
   <biblStruct type="editedCollection" xml:id="gololobov2016">
     <monogr>
       <title level="m">Punk in Russia: Cultural Mutation from the 'Useless' to the 'Moronic'</title>
-      <editor>
+      <editor ref="authors.xml#gololobov.i">
         <forename>Ivan</forename>
         <surname>Gololobov</surname>
       </editor>
-      <editor>
+      <editor ref="authors.xml#pilkington.h">
         <forename>Hilary</forename>
         <surname>Pilkington</surname>
       </editor>
-      <editor>
+      <editor ref="authors.xml#steinholt.y">
         <forename>Yngvar Bordewich</forename>
         <surname>Steinholt</surname>
       </editor>
@@ -1487,7 +1487,7 @@
   <biblStruct type="editedCollection" xml:id="furst2017">
     <monogr>
       <title level="m">Dropping Out of Socialism: the Creation of Alternative Spheres in the Soviet Bloc</title>
-      <editor>
+      <editor ref="authors.xml#furst.j">
         <forename>Juliane</forename>
         <surname>Fürst</surname>
       </editor>
@@ -1541,7 +1541,7 @@
   <biblStruct type="book" xml:id="zhuk2010">
     <monogr>
       <title level="m">Rock and Roll in the Rocket City: The West, Identity, and Ideology in Soviet Dniepropetrovsk, 1960–1985</title>
-      <author>
+      <author ref="authors.xml#zhuk.s">
         <forename>Sergei I.</forename>
         <surname>Zhuk</surname>
       </author>
@@ -1574,7 +1574,7 @@
   <biblStruct type="book" xml:id="woodhead2013">
     <monogr>
       <title level="m">How the Beatles Rocked the Kremlin: The Untold Story of a Noisy Revolution</title>
-      <author>
+      <author ref="authors.xml#woodhead.l">
         <forename>Leslie</forename>
         <surname>Woodhead</surname>
       </author>
@@ -1606,7 +1606,7 @@
   <biblStruct type="book" xml:id="wickstrom2011">
     <monogr>
       <title level="m">Rocking St. Petersburg: Transcultural Flows and Identity Politics in Post-Soviet Popular Music</title>
-      <author>
+      <author ref="authors.xml#wickstrom.d">
         <forename>David-Emil</forename>
         <surname>Wickström</surname>
       </author>
@@ -1643,7 +1643,7 @@
   <biblStruct type="book" xml:id="tsipursky2016">
     <monogr>
       <title level="m">Socialist Fun: Youth, Consumption, and State-Sponsored Popular Culture in the Soviet Union, 1945-1970</title>
-      <author>
+      <author ref="authors.xml#tsipursky.g">
         <forename>Gleb</forename>
         <surname>Tsipursky</surname>
       </author>
@@ -1685,7 +1685,7 @@
   <biblStruct type="book" xml:id="troitsky1990">
     <monogr>
       <title level="m">Tusovka: Who's Who in the New Soviet Rock Culture</title>
-      <author>
+      <author ref="authors.xml#troitsky.a">
         <forename>Artemy</forename>
         <surname>Troitsky</surname>
       </author>
@@ -1714,7 +1714,7 @@
   <biblStruct type="book" xml:id="troitsky1987">
     <monogr>
       <title level="m">Back in the USSR: The True Story of Rock in Russia</title>
-      <author>
+      <author ref="authors.xml#troitsky.a">
         <forename>Artemy</forename>
         <surname>Troitsky</surname>
       </author>
@@ -1745,7 +1745,7 @@
   <biblStruct type="book" xml:id="stites1992">
     <monogr>
       <title level="m">Russian Popular Culture: Entertainment and Society Since 1900</title>
-      <author>
+      <author ref="authors.xml#stites.r">
         <forename>Richard</forename>
         <surname>Stites</surname>
       </author>
@@ -1777,11 +1777,11 @@
   <biblStruct type="book" xml:id="stingray2020">
     <monogr>
       <title level="m">Red Wave: An American in the Soviet Music Underground</title>
-      <author>
+      <author ref="authors.xml#stingray.j">
         <forename>Joanna</forename>
         <surname>Stingray</surname>
       </author>
-      <author>
+      <author ref="authors.xml#stingray.m">
         <forename>Madison</forename>
         <surname>Stingray</surname>
       </author>
@@ -1801,7 +1801,7 @@
   <biblStruct type="book" xml:id="steinholt2005">
     <monogr>
       <title level="m">Rock in the Reservation: Songs from Leningrad Rock Club 1981-86</title>
-      <author>
+      <author ref="authors.xml#steinholt.y">
         <forename>Yngvar Bordewich</forename>
         <surname>Steinholt</surname>
       </author>
@@ -1826,7 +1826,7 @@
   <biblStruct type="book" xml:id="ryback1990">
     <monogr>
       <title level="m">Rock Around the Bloc: A History of Rock Music in Eastern Europe and the Soviet Union</title>
-      <author>
+      <author ref="authors.xml#ryback.t">
         <forename>Timothy W.</forename>
         <surname>Ryback</surname>
       </author>
@@ -1855,7 +1855,7 @@
   <biblStruct type="book" xml:id="pierobon2014">
     <monogr>
       <title level="m">Music and Political Youth Organizations in Russia</title>
-      <author>
+      <author ref="authors.xml#pierobon.c">
         <forename>Chiara</forename>
         <surname>Pierobon</surname>
       </author>
@@ -1877,7 +1877,7 @@
   <biblStruct type="book" xml:id="pelyushonok2004">
     <monogr>
       <title level="m">Strings for a Beatle Bass: The Beatles Generation in the USSR</title>
-      <author>
+      <author ref="authors.xml#pelyushonok.y">
         <forename>Yury</forename>
         <surname>Pelyushonok</surname>
       </author>
@@ -1901,7 +1901,7 @@
   <biblStruct type="book" xml:id="macfadyen2001">
     <monogr>
       <title level="m">Red Stars: Personality and the Soviet Popular Song, 1955-1991</title>
-      <author>
+      <author ref="authors.xml#macfadyen.d">
         <forename>David</forename>
         <surname>MacFadyen</surname>
       </author>
@@ -1939,7 +1939,7 @@
   <biblStruct type="book" xml:id="cushman1995">
     <monogr>
       <title level="m">Notes from Underground: Rock Music Counterculture in Russia</title>
-      <author>
+      <author ref="authors.xml#cushman.t">
         <forename>Thomas</forename>
         <surname>Cushman</surname>
       </author>
@@ -1974,7 +1974,11 @@
   </biblStruct>
   <biblStruct type="newspaper" xml:id="christgau">
     <analytic>
-      <title level="a">Robert Christgau: Perestroika, Glasnost, Art-Rock</title>
+      <author ref="authors.xml#christgau.r">
+        <forename>Robert</forename>
+        <surname>Christgau</surname>
+      </author>
+      <title level="a">Perestroika, Glasnost, Art-Rock</title>
     </analytic>
     <monogr>
       <title level="m">The Village Voice</title>
@@ -1991,7 +1995,7 @@
   <biblStruct type="bookSection" xml:id="easton1989">
     <analytic>
       <title level="a">The Rock Music Community</title>
-      <author>
+      <author ref="authors.xml#easton.p">
         <forename>P.</forename>
         <surname>Easton</surname>
       </author>
@@ -2011,6 +2015,7 @@
       <my:access>
         <idno type="ISBN">978-1-349-19932-7</idno>
         <idno type="OCLC">18327428</idno>
+        <my:url type="InternetArchive">https://archive.org/details/sovietyouthcultu00rior</my:url>
       </my:access>
     </monogr>
     <note type="tags">
@@ -2024,7 +2029,7 @@
   <biblStruct type="journalArticle" xml:id="cushman1991">
     <analytic>
       <title level="a">Rich Rastas and Communist Rockers: A Comparative Study of the Origin, Diffusion and Defusion of Revolutionary Musical Codes</title>
-      <author>
+      <author ref="authors.xml#cushman.t">
         <forename>Thomas</forename>
         <surname>Cushman</surname>
       </author>
@@ -2046,7 +2051,7 @@
   <biblStruct type="thesis" xml:id="grabarchuk2015">
     <monogr>
       <title level="m">The Soundtrack of Stagnation: Paradoxes within Soviet Rock and Pop of the 1970s</title>
-      <author>
+      <author ref="authors.xml#grabarchuk.a">
         <forename>Alexandra</forename>
         <surname>Grabarchuk</surname>
       </author>
@@ -2090,7 +2095,7 @@
   <biblStruct type="thesis" xml:id="cornish2020">
     <monogr>
       <title level="m">Sounding Socialist, Sounding Modern: Music, Technology, and Everyday Life in the Soviet Union, 1956-1975</title>
-      <author>
+      <author ref="authors.xml#cornish.g">
         <forename>Gabrielle</forename>
         <surname>Cornish</surname>
       </author>
@@ -2115,7 +2120,7 @@
   <biblStruct type="newspaperArticle" xml:id="bohlen1993">
     <analytic>
       <title level="a">In Russia's Free Market, Cultural Piracy Thrives</title>
-      <author>
+      <author ref="authors.xml#bohlen.c">
         <forename>Celestine</forename>
         <surname>Bohlen</surname>
       </author>
@@ -2148,7 +2153,7 @@
   <biblStruct type="thesis" xml:id="anderson2006">
     <monogr>
       <title level="m">Viktor Tsoi: Rock Star as Soviet Hero: Individual Resistance in the Lermontov Tradition</title>
-      <author>
+      <author ref="authors.xml#anderson.r">
         <forename>Rebecca Diane</forename>
         <surname>Anderson</surname>
       </author>
@@ -2168,13 +2173,13 @@
     </note>
     <my:references my:complete="no"/>
   </biblStruct>
-  <biblStruct type="book" xml:id="herbert2019">
+  <biblStruct type="editedCollection" xml:id="herbert2019">
     <monogr>
       <title level="m">What about Tomorrow?: An Oral History of Russian Punk from the Soviet Era to Pussy Riot</title>
-      <author>
+      <editor ref="authors.xml#herbert.a">
         <forename>Alexander</forename>
         <surname>Herbert</surname>
-      </author>
+      </editor>
       <imprint>
         <pubPlace>Portland, OR</pubPlace>
         <publisher>Microcosm Publishing</publisher>
@@ -2193,7 +2198,7 @@
   <biblStruct type="editedCollection" xml:id="coates2015">
     <monogr>
       <title level="m">X-ray Audio: The Strange Story of Soviet Music on the Bone</title>
-      <editor>
+      <editor ref="authors.xml#coates.s">
         <forename>Stephen</forename>
         <surname>Coates</surname>
       </editor>
@@ -2222,7 +2227,7 @@
           <surname>Kravchinsky</surname>
         </persName>
       </respStmt>
-      <respStmt>
+      <respStmt ref="authors.xml#troitsky.a">
         <resp>contributor</resp>
         <persName>
           <forename>Artemy</forename>
@@ -2262,7 +2267,7 @@
   <biblStruct type="radioBroadcast" xml:id="coates2019">
     <monogr>
       <title level="m">Bone Music</title>
-      <respStmt>
+      <respStmt ref="authors.xml#coates.s">
         <resp>contributor</resp>
         <persName>
           <forename>Stephen</forename>

@@ -45,6 +45,20 @@
   </persName>
   <idno type="viaf">40151110623837062136</idno>
 </person>
+<person xml:id="christgau.r">
+  <persName>
+    <forename>Robert</forename>
+    <surname>Christgau</surname>
+  </persName>
+  <idno type="viaf">91295400</idno>
+</person>
+<person xml:id="coates.s">
+  <persName>
+    <forename>Stephen</forename>
+    <surname>Coates</surname>
+  </persName>
+  <idno type="viaf">193145541818996601218</idno>
+</person>
 <person xml:id="cornish.g">
   <persName>
     <forename>Gabrielle</forename>

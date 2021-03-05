@@ -12,10 +12,6 @@ Cushman, Thomas. 1995. _Notes from Underground: Rock Music Counterculture in Rus
 
 *   Find on [WorldCat](http://www.worldcat.org/oclc/31937131)
 
-Herbert, Alexander. 2019. _What about Tomorrow?: An Oral History of Russian Punk from the Soviet Era to Pussy Riot_. Portland, OR: Microcosm Publishing.
-
-*   Find on [WorldCat](http://www.worldcat.org/oclc/1089890883)
-
 MacFadyen, David. 2001. _Red Stars: Personality and the Soviet Popular Song, 1955-1991_. Montreal: McGill-Queen's University Press.
 
 *   Find on [WorldCat](http://www.worldcat.org/oclc/45485871)
@@ -93,6 +89,10 @@ Fürst, Juliane, and Josie McLellan, eds. 2017. _Dropping Out of Socialism: the 
 Gololobov, Ivan, Hilary Pilkington, and Yngvar Bordewich Steinholt, eds. 2016. _Punk in Russia: Cultural Mutation from the 'Useless' to the 'Moronic'_. London, New York: Routledge.
 
 *   Find on [WorldCat](http://www.worldcat.org/oclc/960836447)
+
+Herbert, Alexander, ed. 2019. _What about Tomorrow?: An Oral History of Russian Punk from the Soviet Era to Pussy Riot_. Portland, OR: Microcosm Publishing.
+
+*   Find on [WorldCat](http://www.worldcat.org/oclc/1089890883)
 
 Ramet, Sabrina P., ed. 1994. _Rocking the State: Rock Music and Politics in Eastern Europe and Russia_. Boulder: Westview Press.
 
