@@ -50,7 +50,7 @@
 		<hr />
 		<h2>Newspaper/Magazine Articles</h2>
 		<xsl:apply-templates
-			select="tei:biblStruct[@type='magazineArticle']">
+			select="tei:biblStruct[@type=('magazineArticle', 'newspaperArticle')]">
 			<xsl:sort select="@xml:id" />
 		</xsl:apply-templates>
 		<hr />
@@ -246,7 +246,7 @@
 	</xsl:template>
 
 	<xsl:template name="citeMagazineArticle"
-		match="tei:biblStruct[@type='magazineArticle']">
+		match="tei:biblStruct[@type=('magazineArticle', 'newspaperArticle')]">
 		<div class="citation-container" id="{@xml:id}">
 			<div class="citation">
 				<p>

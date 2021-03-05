@@ -1972,22 +1972,23 @@
       <my:citedBy>amico2014</my:citedBy>
     </my:referencedBy>
   </biblStruct>
-  <biblStruct type="newspaper" xml:id="christgau">
+  <biblStruct type="newspaperArticle" xml:id="christgau">
     <analytic>
       <author ref="authors.xml#christgau.r">
         <forename>Robert</forename>
         <surname>Christgau</surname>
       </author>
       <title level="a">Perestroika, Glasnost, Art-Rock</title>
+      <my:access>
+        <my:url type="main" my:accessDate="2021-01-20">https://www.robertchristgau.com/xg/rock/russia-91.php</my:url>
+        <my:url type="Wayback" my:archiveDate="2002-03-23">https://web.archive.org/web/20020323005700/https://www.robertchristgau.com/xg/rock/russia-91.php</my:url>
+      </my:access>
     </analytic>
     <monogr>
       <title level="m">The Village Voice</title>
       <imprint>
         <date>1991-01-15</date>
       </imprint>
-      <my:access>
-        <my:url type="copy" my:accessDate="2021-01-20">https://www.robertchristgau.com/xg/rock/russia-91.php</my:url>
-      </my:access>
     </monogr>
     <my:references my:complete="no"/>
     <my:referencedBy/>

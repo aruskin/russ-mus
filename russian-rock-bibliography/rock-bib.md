@@ -286,6 +286,10 @@ Newspaper/Magazine Articles
 
 Bennetts, Marc. 2014-09-23. “Raging in the cold: the Siberian punk who changed the face of Russian music.” _The Calvert Journal_. [https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb](https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb)
 
+Bohlen, Celestine. 1993. “In Russia's Free Market, Cultural Piracy Thrives.” _The New York Times_. [https://www.nytimes.com/1993/07/02/world/no-headline-951293.html](https://www.nytimes.com/1993/07/02/world/no-headline-951293.html)
+
+Christgau, Robert. 1991-01-15. “Perestroika, Glasnost, Art-Rock.” _The Village Voice_. [https://www.robertchristgau.com/xg/rock/russia-91.php](https://www.robertchristgau.com/xg/rock/russia-91.php)
+
 Fedorova, Anastasiia. 2017-08-15. “Remembering Viktor Tsoi: why the rebellious rock poet is still a hero for our time.” _The Calvert Journal_. [https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music](https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music)
 
 Kan, Alexander. 2014-05-08. “Underground sound: Alexander Kan’s favourite tracks from 1980s Leningrad.” _The Calvert Journal_. [https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino](https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino)
