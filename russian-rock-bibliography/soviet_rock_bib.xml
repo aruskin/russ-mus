@@ -392,6 +392,7 @@
         <idno type="ISBN">978-0-8018-1838-7</idno>
         <idno type="ISBN">978-0-8018-1661-1</idno>
         <idno type="OCLC">3419256</idno>
+        <my:url type="InternetArchive">https://archive.org/details/dissentinussrpol0000unse_k0k5/</my:url>
       </my:access>
     </monogr>
     <my:references my:complete="no"/>
@@ -1022,7 +1023,19 @@
         <idno type="ISSN">0300-7766, 1740-1712</idno>
       </my:access>
     </monogr>
-    <my:references my:complete="no"/>
+    <my:references my:complete="no">
+      <my:cite>cushman1995</my:cite>
+      <my:cite>glossop1991</my:cite>
+      <my:cite>mcmichael2008a</my:cite>
+      <my:cite>smith1984</my:cite>
+      <my:cite>sosin1975</my:cite>
+      <my:cite>steinholt2005</my:cite>
+      <my:cite>troitsky1987</my:cite>
+      <my:cite>troitsky1990</my:cite>
+      <my:cite>wickstrom2009</my:cite>
+      <my:cite>yurchak2005</my:cite>
+      <my:cite>yurchak1999</my:cite>
+    </my:references>
   </biblStruct>
   <biblStruct type="journalArticle" xml:id="mcmichael2008b">
     <analytic>
@@ -1746,6 +1759,7 @@
         <idno type="ISBN">978-0-521-36986-2</idno>
         <idno type="callNumber">DK266.4 .S76 1992</idno>
         <idno type="OCLC">24431153</idno>
+        <my:url type="InternetArchive">https://archive.org/details/russianpopularcu00stit</my:url>
       </my:access>
     </monogr>
     <series>
@@ -1825,6 +1839,7 @@
         <idno type="ISBN">978-0-19-505633-4</idno>
         <idno type="callNumber">ML3534 .R9 1990</idno>
         <idno type="OCLC">19623657</idno>
+        <my:url type="InternetArchive">https://archive.org/details/rockaroundblochi0000ryba</my:url>
       </my:access>
     </monogr>
     <note type="tags">
