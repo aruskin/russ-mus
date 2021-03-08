@@ -13,6 +13,7 @@
 		<body>
 			<head>Soviet Rock Bands</head>
 			<listOrg>
+				<!---
 				<org xml:id="">
 					<orgName xml:lang="ru-Cyrl" type="original"></orgName>
 					<orgName xml:lang="ru-Latn" type="transliteration iso-9"></orgName>
@@ -20,7 +21,7 @@
 						source="rock_bib.xml#troitsky1987"></orgName>
 					<idno type="MBID"></idno>
 					<place source="rock_bib.xml#troitsky1987"></place>
-				</org>
+				</org>-->
 				<org xml:id="alisa">
 					<orgName xml:lang="ru-Cyrl" type="original">Алиса</orgName>
 					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Alisa</orgName>
