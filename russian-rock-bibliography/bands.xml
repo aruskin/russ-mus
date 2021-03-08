@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soviet Rock Bands</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Soviet Rock Bands</head>
+			<listOrg>
+				<org xml:id="">
+					<orgName xml:lang="ru-Cyrl" type="original"></orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9"></orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987"></orgName>
+					<idno type="MBID"></idno>
+					<place source="rock_bib.xml#troitsky1987"></place>
+				</org>
+				<org xml:id="alisa">
+					<orgName xml:lang="ru-Cyrl" type="original">Алиса</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Alisa</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Alisa</orgName>
+					<idno type="MBID">a1f0bd3b-6977-4ab2-8d5c-2464bada895d</idno>
+					<place>
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="antis">
+					<orgName xml:lang="lt" type="original"
+						source="rock_bib.xml#troitsky1987">Antis</orgName>
+					<idno type="MBID">db7bb413-9e53-40e4-8d73-3726fac48f9e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Lithuania</country>
+					</place>
+				</org>
+				<org xml:id="apelsin">
+					<orgName xml:lang="ee" type="original"
+						source="rock_bib.xml#troitsky1987">Apelsin</orgName>
+					<idno type="MBID">0f6a9099-6380-4cbd-a9a3-6d720f3793b3</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="akvarium">
+					<orgName xml:lang="ru-Cyrl" type="original">Аквариум</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Akvarium</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Aquarium</orgName>
+					<idno type="MBID">8d741103-d319-4cc8-9f4f-9926b5bf112a</idno>
+					<place>
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="alpha">
+					<orgName xml:lang="ru-Cyrl" type="original">Альфа</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Alʹfa</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Alpha</orgName>
+					<idno type="MBID">4f0c2d21-3b39-4142-8eb6-b386b6711409</idno>
+				</org>
+				<org xml:id="araks">
+					<orgName xml:lang="ru-Cyrl" type="original">Аракс</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Araks</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Arax</orgName>
+					<idno type="MBID">e74f1233-cd33-44e8-b472-ce47429a8009</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="argo">
+					<orgName xml:lang="lt" type="original"
+						source="rock_bib.xml#troitsky1987">Argo</orgName>
+					<idno type="MBID">cfd7a560-a932-4531-837e-f19ba8f2a917</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Lithuania</country>
+					</place>
+				</org>
+				<org xml:id="aria">
+					<orgName xml:lang="ru-Cyrl" type="original">Ария</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Arija</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Aria</orgName>
+					<idno type="MBID">1f36a3a2-9687-4819-ac55-54d7ff0b8b88</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="arsenal">
+					<orgName xml:lang="ru-Cyrl" type="original">Арсенал</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Arsenal</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Arsenal</orgName>
+					<idno type="MBID">f291e0f8-e293-4e98-b5a0-7c0698301110</idno>
+				</org>
+				<org xml:id="avia">
+					<orgName xml:lang="ru-Cyrl" type="original">АВИА</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">AVIA</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">AVIA</orgName>
+					<idno type="MBID">477bf5fd-7d5e-4692-9f3b-7902fb692894</idno>
+				</org>
+				<org xml:id="avtograf">
+					<orgName xml:lang="ru-Cyrl" type="original">Автограф</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Avtograf</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Autograph</orgName>
+					<idno type="MBID">893fc9da-17f0-412e-a3c1-a0e5dda6cb27</idno>
+				</org>
+				<org xml:id="au">
+					<orgName xml:lang="ru-Cyrl" type="original">Автоматические
+						удовлетворители
+					</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Avtomatičeskie
+						udovletvoriteli
+					</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Automatic Satisfiers</orgName>
+					<idno type="MBID">07b4d890-c4f4-4c02-bfb2-79a05babb4a9</idno>
+				</org>
+				<org xml:id="bumerang">
+					<orgName xml:lang="ru-Cyrl" type="original">Бумеранг</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Bumerang</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Boomerang</orgName>
+					<idno type="MBID">bb69edc8-9029-4693-a7e4-1711750fbbc6</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Kazakhstan</country>
+					</place>
+				</org>
+				<org xml:id="bravo">
+					<orgName xml:lang="ru-Cyrl" type="original">Браво</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Bravo</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Bravo</orgName>
+					<idno type="MBID">e6f3cd0d-1998-408d-9fd8-c765370af42d</idno>
+				</org>
+				<org xml:id="karnaval">
+					<orgName xml:lang="ru-Cyrl" type="original">Карнавал</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Karnaval</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Carnival</orgName>
+					<idno type="MBID">b4574727-694b-4c4c-874f-a8fb3fbb1680</idno>
+				</org>
+				<org xml:id="cement">
+					<orgName xml:lang="ru-Cyrl" type="original">Цемент</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Cement</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Cement</orgName>
+					<idno type="MBID">c2c83f3a-c19b-4369-a276-e585400777f5</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Riga</settlement>
+					</place>
+				</org>
+				<org xml:id="centre">
+					<orgName xml:lang="ru-Cyrl" type="original">Центр</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Centr</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Centre</orgName>
+					<idno type="MBID">096fbaf5-c275-4c0e-91ad-af678f3541ca</idno>
+					<place>
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="credo">
+					<orgName xml:lang="lv" type="original"
+						source="rock_bib.xml#troitsky1987">Credo</orgName>
+					<idno type="MBID">d2693422-78fe-49b3-af69-676f7e567d43</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Latvia</country>
+					</place>
+				</org>
+				<org xml:id="krematory">
+					<orgName xml:lang="ru-Cyrl" type="original">Крематорий</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Krematorij</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Crematorium</orgName>
+					<idno type="MBID">9b135e33-2fbc-4155-b351-cc2a39997975</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="oblachnykray">
+					<orgName xml:lang="ru-Cyrl" type="original">Облачный край</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Oblačnyj kraj</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Cloud Area</orgName>
+					<idno type="MBID">1a4f3fca-dcff-4674-ba12-e01c284cafe5</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Arkhangelsk</settlement>
+					</place>
+				</org>
+				<org xml:id="kruiz">
+					<orgName xml:lang="ru-Cyrl" type="original">Круиз</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Kruiz</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Cruise</orgName>
+					<idno type="MBID">50eaf061-e265-434a-937f-09289270d08a</idno>
+				</org>
+				<org xml:id="ddt">
+					<orgName xml:lang="ru-Cyrl" type="original">ДДТ</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">DDT</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">DDT</orgName>
+					<idno type="MBID">f7456b5b-e5a5-454e-b5db-047308210c8e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Ufa</settlement>
+					</place>
+				</org>
+				<org xml:id="dialog">
+					<orgName xml:lang="ru-Cyrl" type="original">Диалог</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Dialog</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Dialogue</orgName>
+					<idno type="MBID">fb394cdf-40c6-4a42-b718-529dff1dd2bd</idno>
+				</org>
+				<org xml:id="doktorkinchev">
+					<orgName xml:lang="ru-Cyrl" type="original">Доктор Кинчев и группа
+						«Стиль»
+					</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Doktor Kinčev i gruppa
+						«Stilʹ»
+					</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Dr. Kinchev &amp; The Style</orgName>
+					<idno type="MBID">a80b8ae7-e757-405e-9308-2e4336acb31f</idno>
+				</org>
+				<org xml:id="dk">
+					<orgName xml:lang="ru-Cyrl" type="original">ДК</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">DK</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">DK</orgName>
+					<idno type="MBID">ce1a8de1-d9f4-442c-97d6-d07e06172966</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="">
+					<orgName xml:lang="ru-Cyrl" type="original">Динамик</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Dinamik</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Dynamic (The Speaker)</orgName>
+					<idno type="MBID">e7fd1d13-bc37-4fbe-8199-150739d701ab</idno>
+				</org>
+				<org xml:id="gorizont">
+					<orgName xml:lang="ru-Cyrl" type="original">Горизонт</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Gorizont</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Horizon</orgName>
+					<idno type="MBID">a490aff6-a063-4362-97d2-96e2a5b211d6</idno>
+				</org>
+				<org xml:id="gunesh">
+					<orgName xml:lang="ru-Cyrl" type="original">Гунеш</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Guneš</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Gunesh</orgName>
+					<idno type="MBID">3f26b6ce-45ae-4aa5-bf91-7f78ce1553d4</idno>
+				</org>
+				<org xml:id="inspe">
+					<orgName xml:lang="ee" type="original"
+						source="rock_bib.xml#troitsky1987">In Spe</orgName>
+					<idno type="MBID">2c3ef15a-75bb-4208-b184-8d8fda50b627</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="kalinovmost">
+					<orgName xml:lang="ru-Cyrl" type="original">Калинов Мост</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Kalinov Most</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Kalinov Bridge</orgName>
+					<idno type="MBID">98c74230-3a02-4f96-8b09-805958663527</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<region>Siberia</region>
+					</place>
+				</org>
+				<org xml:id="karavan">
+					<orgName xml:lang="ee" type="original"
+						source="rock_bib.xml#troitsky1987">Karavan</orgName>
+					<idno type="MBID">b73d0a75-f6fa-46c8-a710-943fadca3480</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="kaseke">
+					<orgName xml:lang="ee" type="original"
+						source="rock_bib.xml#troitsky1987">Kaseke</orgName>
+					<idno type="MBID">839a2dad-24b9-46b7-ac80-57f700dcc15f</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="kino">
+					<orgName xml:lang="ru-Cyrl" type="original">Кино</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Kino</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Kino</orgName>
+					<idno type="MBID">064db6e8-fdfb-4acb-a327-fc2de75b37de</idno>
+				</org>
+				<org xml:id="livi">
+					<orgName xml:lang="lv" type="original">Līvi</orgName>
+					<orgName xml:lang="en" type="transliteraion"
+						source="rock_bib.xml#troitsky1987">Livi</orgName>
+					<idno type="MBID">e695947f-ec86-4ad1-a0a7-8edceab85814</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Latvia</country>
+					</place>
+				</org>
+				<org xml:id="magneticband">
+					<orgName xml:lang="en" type="original"
+						source="rock_bib.xml#troitsky1987">Magnetic Band</orgName>
+					<idno type="MBID">0d56fb92-b486-46a8-ab6d-0d6d4c852b0a</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="manufaktura">
+					<orgName xml:lang="ru-Cyrl" type="original">Мануфактура</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Manufaktura</orgName>
+					<orgName xml:lang="en" source="rock_bib.xml#troitsky1987">Manufactura</orgName>
+					<idno type="MBID">8ac29945-ba92-4175-8f14-2c8956b0e20e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="mashina">
+					<orgName xml:lang="ru-Cyrl" type="original">Машина времени</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Mašina vremeni</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration">Mashina vremeni</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Time Machine</orgName>
+					<orgName xml:lang="en" type="translation abbreviation"
+						source="rock_bib.xml#troitsky1987">TM</orgName>
+					<idno type="MBID">1b67ca7b-3da9-4607-a5aa-93ed56034924</idno>
+				</org>
+				<org xml:id="moskva">
+					<orgName xml:lang="ru-Cyrl" type="original">Москва</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Moskva</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Moscow</orgName>
+					<idno type="MBID">b155369b-cdf0-41e8-b725-a6da4e4d9592</idno>
+				</org>
+				<org xml:id="mozaika">
+					<orgName xml:lang="ru-Cyrl" type="original">Мозаика</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Mozaika</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Mosaic</orgName>
+					<idno type="MBID">321fba96-f01a-4f1e-be65-d96609de0f1f</idno>
+					<place>
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="muhomor">
+					<orgName xml:lang="ru-Cyrl" type="original">Мухомор</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Muhomor</orgName>
+					<orgName xml:lang="en" source="rock_bib.xml#troitsky1987">Muhomor (Fly-Agaric)
+					</orgName>
+					<idno type="MBID">a33cb8a3-a7a7-4cbe-8330-0d4acec8aeec</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="musicseif">
+					<orgName xml:lang="ee" type="original">Muusik Seif</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Music-Seif</orgName>
+					<idno type="MBID">d7ccef98-987f-4cd9-99c3-39beadde0726</idno>
+					<place>
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="mify">
+					<orgName xml:lang="ru-Cyrl" type="original">Мифы</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Mify</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">The Myths</orgName>
+					<idno type="MBID">40009c73-9f54-4474-a5ba-a1af34319b2c</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="nautilus">
+					<orgName xml:lang="ru-Cyrl" type="original">Наутилус Помпилиус
+					</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Nautilus Pompilius
+					</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Nautilus</orgName>
+					<idno type="MBID">247efe0f-80f1-477c-a4a0-b5cb1b8c832e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Sverdlovsk</settlement>
+					</place>
+				</org>
+				<org xml:id="nikolaykopernik">
+					<orgName xml:lang="ru-Cyrl" type="original">Николай Коперник</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Nikolaj Kopernik</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Nicolai Copernicus</orgName>
+					<idno type="MBID">75bdcdf7-7620-43bd-b502-6ac9c604950f</idno>
+				</org>
+				<org xml:id="nochnoyprospekt">
+					<orgName xml:lang="ru-Cyrl" type="original">Ночной Проспект</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Nočnoj Prospekt</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Night Avenue</orgName>
+					<idno type="MBID">f2daee37-a505-4098-9948-3024a5fffefa</idno>
+				</org>
+				<org xml:id="novyekompozitory">
+					<orgName xml:lang="ru-Cyrl" type="original">Новые композиторы
+					</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Novye kompozitory
+					</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">New Composers</orgName>
+					<idno type="MBID">6966553e-ddb9-4b2f-a8fa-9c3c1d49f7ec</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="obyektnasmeshek">
+					<orgName xml:lang="ru-Cyrl" type="original">Объект насмешек</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Obʺekt nasmešek</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">The Object of Mockery</orgName>
+					<idno type="MBID">55b46fa9-2da1-48fc-8af6-764c6792c4f4</idno>
+				</org>
+				<org xml:id="piknik">
+					<orgName xml:lang="ru-Cyrl" type="original">Пикник</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Piknik</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Picnic</orgName>
+					<idno type="MBID">eabd8df4-03cd-4644-8ad1-f50fb952c567</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="vezhlivyotkaz">
+					<orgName xml:lang="ru-Cyrl" type="original">Вежливый отказ</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Vežlivyj otkaz</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Polite Refusal</orgName>
+					<idno type="MBID">36d535a3-92a7-4696-9480-ec576f38be80</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Moscow</settlement>
+					</place>
+				</org>
+				<org xml:id="gruppastasnamina">
+					<orgName xml:lang="ru-Cyrl" type="original">Группа Стаса Намина
+					</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Gruppa Stasa Namina
+					</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Stas Namin Group</orgName>
+					<idno type="MBID">5c456591-c7f2-4077-b75d-8c03b3a8c03e</idno>
+				</org>
+				<org xml:id="radar">
+					<orgName type="original" source="rock_bib.xml#troitsky1987">Radar</orgName>
+					<idno type="MBID">5a6b2909-7f30-48fd-8338-5fdce2dee4c5</idno>
+					<place>
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="rockhotel">
+					<orgName xml:lang="en" type="original">Rock Hotel</orgName>
+					<orgName xml:lang="en" type="variant"
+						source="rock_bib.xml#troitsky1987">Rock-Hotel</orgName>
+					<idno type="MBID">52801485-8fbe-4823-a201-ade9e7a67903</idno>
+					<place>
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="rossiane">
+					<orgName xml:lang="ru-Cyrl" type="original">Россияне</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Rossiâne</orgName>
+					<orgName xml:lang="en" type="transliteration"
+						source="rock_bib.xml#troitsky1987">Rossiyanye</orgName>
+					<idno type="MBID">0f9fc621-b939-476a-9c32-b2eaca61a18e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="ruja">
+					<orgName xml:lang="ee" type="original">Ruja</orgName>
+					<orgName source="rock_bib.xml#troitsky1987">Ruya</orgName>
+					<idno type="MBID">bac75c73-9d3b-4819-800c-0e1050eb8ff0</idno>
+					<place>
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="sekret">
+					<orgName xml:lang="ru-Cyrl" type="original">Секрет</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Sekret</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Secret</orgName>
+					<idno type="MBID">d67b79c0-a026-43ee-9e5f-68141ef31018</idno>
+					<place>
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="sonans">
+					<orgName xml:lang="ru-Cyrl" type="original">Сонанс</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Sonans</orgName>
+					<orgName xml:lang="en" type="transliteration"
+						source="rock_bib.xml#troitsky1987">Sonans</orgName>
+					<idno type="MBID">b2dd3080-e59f-4837-97e3-fb2deaf11e1e</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Sverdlovsk</settlement>
+					</place>
+				</org>
+				<org xml:id="stereozoldat">
+					<orgName xml:lang="ru-Cyrl" type="original">Stereo Зольдат</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Stereo Zolʹdat</orgName>
+					<orgName xml:lang="en" type="transliteration"
+						source="rock_bib.xml#troitsky1987">Stereo-Zoldat</orgName>
+					<idno type="MBID">cfa41db7-0649-4c9f-a42f-cfe9dafcc9bf</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="strannyeigry">
+					<orgName xml:lang="ru-Cyrl" type="original">Странные игры</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Strannye igry</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Strange Games</orgName>
+					<idno type="MBID">75db21e1-f27d-4b67-9900-46b76751daaa</idno>
+				</org>
+				<org xml:id="synopsis">
+					<orgName type="original" source="rock_bib.xml#troitsky1987">Synopsis</orgName>
+					<idno type="MBID">639fe5b3-c833-4587-a881-0883c1e41fd5</idno>
+				</org>
+				<org xml:id="tamburin">
+					<orgName xml:lang="ru-Cyrl" type="original">Тамбурин</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Tamburin</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Tambourine</orgName>
+					<idno type="MBID">c6660a90-8cf1-40f1-acbe-3507198086e9</idno>
+				</org>
+				<org xml:id="televizor">
+					<orgName xml:lang="ru-Cyrl" type="original">Телевизор</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Televizor</orgName>
+					<orgName xml:lang="en" type="transliteration"
+						source="rock_bib.xml#troitsky1987">Televisor</orgName>
+					<idno type="MBID">f5fe834e-4e6e-434c-8233-fcab919f8b67</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Leningrad</settlement>
+					</place>
+				</org>
+				<org xml:id="trek">
+					<orgName xml:lang="ru-Cyrl" type="original">Трек</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Trek</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Trek</orgName>
+					<idno type="MBID">b6cc9cdb-5ba6-4126-813b-df2761480232</idno>
+				</org>
+				<org xml:id="trubnyzov">
+					<orgName xml:lang="ru-Cyrl" type="original">Трубный Зов</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Trubnyj Zov</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">The Bugle Call</orgName>
+					<idno type="MBID">ee9af106-759f-4782-84dc-cb9b4ec8481a</idno>
+				</org>
+				<org xml:id="urfinjuice">
+					<orgName xml:lang="ru-Cyrl" type="original">Урфин Джюс</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Urfin Džûs</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Urfin Juice</orgName>
+					<idno type="MBID">f5e37795-565d-440b-b821-155e45cf34c1</idno>
+				</org>
+				<org xml:id="vitamiin">
+					<orgName xml:lang="ee" type="original">Vitamiin</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Vitamin</orgName>
+					<idno type="MBID">c2cab48e-453e-4573-b41f-24b8565aaa94</idno>
+					<place>
+						<country>Estonia</country>
+					</place>
+				</org>
+				<org xml:id="voskresenye">
+					<orgName xml:lang="ru-Cyrl" type="original">Воскресение</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Voskresenie</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Sunday</orgName>
+					<idno type="MBID">2dce2a7b-ea6e-4adf-bb8c-e973dad5a605</idno>
+				</org>
+				<org xml:id="vovasiny">
+					<orgName xml:lang="ru-Cyrl" type="original">Вова Синий</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Vova Sinij</orgName>
+					<orgName xml:lang="en" type="transliteration"
+						source="rock_bib.xml#troitsky1987">Vova Sinij</orgName>
+					<idno type="MBID">e149051a-f583-4834-b460-268a7d768d6f</idno>
+					<place source="rock_bib.xml#troitsky1987">
+						<settlement>Chelyabinsk</settlement>
+					</place>
+				</org>
+				<org xml:id="visokosnoeleto">
+					<orgName xml:lang="ru-Cyrl" type="original">Високосное лето</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Visokosnoe leto</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Visokosnoye Leto (Leap Year Summer)</orgName>
+					<idno type="MBID">c2b4fa58-4087-4c5f-bd61-109f3f935036</idno>
+				</org>
+				<org xml:id="yellowpostmen">
+					<orgName xml:lang="lv" type="original">Dzeltenie Pastnieki</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Yellow Postmen</orgName>
+					<idno type="MBID">07223b8f-fbde-4789-b32b-0f6549d6dfc7</idno>
+					<place>
+						<country>Latvia</country>
+					</place>
+				</org>
+				<org xml:id="zodiac">
+					<orgName xml:lang="lv" type="original">Zodiaks</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Zodiac</orgName>
+					<idno type="MBID">505894dc-27fa-4dea-b802-963bf19c3cd6</idno>
+					<place>
+						<country>Latvia</country>
+					</place>
+				</org>
+				<org xml:id="zoopark">
+					<orgName xml:lang="ru-Cyrl" type="original">Зоопарк</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9">Zoopark</orgName>
+					<orgName xml:lang="en" type="translation"
+						source="rock_bib.xml#troitsky1987">Zoo</orgName>
+					<idno type="MBID">1a1b87e2-8aa5-4c16-a2ae-c14d978be3e0</idno>
+				</org>
+				<org xml:id="zvukimu">
+					<orgName xml:lang="ru-Cyrl" type="original">Звуки Му</orgName>
+					<orgName xml:lang="ru-Latn" type="transliteration iso-9"
+						source="rock_bib.xml#troitsky1987">Zvuki Mu</orgName>
+					<idno type="MBID">d88d05da-e1a3-463a-97b1-245482550dfd</idno>
+				</org>
+			</listOrg>
+		</body>
+	</text>
+</TEI>
