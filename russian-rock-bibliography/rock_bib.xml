@@ -1,2299 +1,1708 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="bibtransform.xsl"?>
-<listBibl xmlns="http://www.tei-c.org/ns/1.0" xmlns:my="http://example.com/bibmod">
-  <biblStruct type="website" xml:id="xray">
-    <monogr>
-      <title level="m">X-Ray Audio</title>
-      <imprint>
-        <date>©2019</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://www.x-rayaudio.com</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes"/>
-  </biblStruct>
-  <biblStruct type="website" xml:id="unearthing">
-    <monogr>
-      <title level="m">Unearthing the Music: Sound and Creative Experimentation in Non-democratic Europe</title>
-      <imprint>
-        <date>©2021</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://unearthingthemusic.eu/</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes"/>
-  </biblStruct>
-  <biblStruct type="radioBroadcast" xml:id="zhuk2011">
-    <monogr>
-      <title level="m">How Rock and Roll Brought the Soviet Union Down</title>
-      <my:reporter>
-        <forename>Brigid</forename>
-        <surname>McCarthy</surname>
-      </my:reporter>
-      <my:host>
-        <forename>Lisa</forename>
-        <surname>Mullins</surname>
-      </my:host>
-      <my:interviewee ref="authors.xml#zhuk.s">
-        <forename>Sergei</forename>
-        <surname>Zhuk</surname>
-      </my:interviewee>
-      <imprint>
-        <date>2011-05-19</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://www.pri.org/stories/2011-05-19/how-rock-and-roll-brought-soviet-union-down</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s" type="program">The World</title>
-      <imprint>
-        <publisher>Public Radio International</publisher>
-      </imprint>
-    </series>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="podcast" xml:id="troitsky2020b">
-    <monogr>
-      <title level="m">Bureau Of Lost Culture - A Short History of Soviet Counterculture (26/04/2020)</title>
-      <my:interviewee ref="authors.xml#troitsky.a">
-        <forename>Artemy</forename>
-        <surname>Troitsky</surname>
-      </my:interviewee>
-      <imprint>
-        <date>2020-04-26</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://www.mixcloud.com/sohoradio/bureau-of-lost-culture-a-short-history-of-soviet-counterculture-26042020/</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s" type="alternative">Soho Radio</title>
-      <imprint>
-        <publisher>Mixcloud</publisher>
-      </imprint>
-    </series>
-    <my:references my:complete="yes"/>
-  </biblStruct>
-  <biblStruct type="podcast" xml:id="troitsky2019">
-    <monogr>
-      <title level="m">ROCK THE USSR (with Tom Garza)</title>
-      <imprint>
-        <date>2019-10-28</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://www.slavxradio.com/sovietskyrock</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s" type="alternative">The Slavic Connexion</title>
-      <imprint>
-        <publisher>Texas Podcast Network</publisher>
-      </imprint>
-    </series>
-    <my:references my:complete="yes"/>
-  </biblStruct>
-  <biblStruct type="podcast" xml:id="troitsky2020a" corresp="http://zotero.org/users/5870041/items/VGQ83ATN">
-    <monogr>
-      <title level="m">Rock the USSR Part 2 (with Artemy Troitsky and Tom Garza)</title>
-      <imprint>
-        <date>2020-04-08</date>
-      </imprint>
-      <my:access>
-        <my:url my:accessDate="2021-01-16">https://www.slavxradio.com/rocktheussr2</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s" type="alternative">The Slavic Connexion</title>
-      <imprint>
-        <publisher>Texas Podcast Network</publisher>
-      </imprint>
-    </series>
-    <my:references my:complete="yes"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="lashcheva2019">
-    <analytic>
-      <title level="a"><q>For whatever reason in the cosmos, I’m connected to Russia again.</q> Joanna Stingray brought Soviet rock to the West. We asked her about her old friends and her new book</title>
-      <author ref="authors.xml#lashcheva.m">
-        <forename>Maria</forename>
-        <surname>Lashcheva</surname>
-      </author>
-      <author ref="authors.xml#kohen.h">
-        <forename>Hilah</forename>
-        <surname>Kohen</surname>
-      </author>
-      <my:interviewee ref="authors.xml#stingray.j">
-        <forename>Joanna</forename>
-        <surname>Stingray</surname>
-      </my:interviewee>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again</my:url>
-        <my:url type="Wayback" my:archiveDate="2019-04-17">https://web.archive.org/web/20190417042846/https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">Meduza</title>
-      <imprint>
-        <date>2019-04-16</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="nicolov2016a">
-    <analytic>
-      <title level="a">Capturing the Soviet Union’s rock kids of the 1980s</title>
-      <author ref="authors.xml#nicolov.a">
-        <forename>Alice</forename>
-        <surname>Nicolov</surname>
-      </author>
-      <my:interviewee>
-        <forename>Igor</forename>
-        <surname>Mukhin</surname>
-      </my:interviewee>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth</my:url>
-        <my:url type="Wayback" my:archiveDate="2016-09-02">https://web.archive.org/web/20160902143629/https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">Dazed</title>
-      <imprint>
-        <date>2016-09-01</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="nicolov2016b">
-    <analytic>
-      <title level="a">The secret history of the Soviet X-ray vinyl black market</title>
-      <author ref="authors.xml#nicolov.a"> 
-        <forename>Alice</forename>
-        <surname>Nicolov</surname>
-      </author>
-      <my:interviewee ref="authors.xml#coates.s">
-        <forename>Stephen</forename>
-        <surname>Coates</surname>
-      </my:interviewee>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union</my:url>
-        <my:url type="Wayback" my:archiveDate="2016-08-05">https://web.archive.org/web/20160805054854/https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">Dazed</title>
-      <imprint>
-        <date>2016-08-03</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="whalen2015">
-    <monogr>
-      <title level="m"><q>I Will Counterrevolution / I Will Stop All The Motion</q>: Archiving Exile, Samizdat, and Underground Audio from the Eastern Bloc</title>
-      <author ref="authors.xml#whalen.a">
-        <forename>Allie</forename>
-        <surname>Whalen</surname>
-      </author>
-      <imprint>
-        <date>2015</date>
-        <my:thesisType my:degree="MA" my:label="thesis"/>
-        <my:institution>New York University</my:institution>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="tite2007">
-    <monogr>
-      <title level="m">The Discursive Construction of Punk: Language and Identity in Russia’s Punk-Rock <q>Subculture</q></title>
-      <author ref="authors.xml#tite.m">
-        <forename>Matthew Charles Everingham</forename>
-        <surname>Tite</surname>
-      </author>
-      <imprint>
-        <date>2007</date>
-        <my:thesisType my:degree="MA" my:label="thesis"/>
-        <my:institution>University of Waterloo</my:institution>
-      </imprint>
-      <my:access>
-        <my:url type="instRepo" my:repo="UWSpace">http://hdl.handle.net/10012/2779</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="kveberg2012">
-    <monogr>
-      <title level="m">Moscow by Night: Musical Subcultures, Identity Formation, and Cultural Evolution in Russia, 1977&#8211;2008</title>
-      <author ref="authors.xml#kveberg.g">
-        <forename>Gregory</forename>
-        <surname>Kveberg</surname>
-      </author>
-      <imprint>
-        <date>2012</date>
-        <my:thesisType my:degree="PhD" my:label="dissertation"/>
-        <my:institution>University of Illinois at Urbana Champaign</my:institution>
-      </imprint>
-      <my:access>
-        <my:url type="instRepo" my:repo="IDEALS">http://hdl.handle.net/2142/42317</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="raspopina2016">
-    <analytic>
-      <title level="a">Rock in the USSR: new photos of the Leningrad underground during perestroika</title>
-      <author ref="authors.xml#raspopina.s">
-        <forename>Sasha</forename>
-        <surname>Raspopina</surname>
-      </author>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi</my:url>
-        <my:url type="Wayback" my:archiveDate="2016-08-17">https://web.archive.org/web/20160817144853/https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Calvert Journal</title>
-      <imprint>
-        <date>2016-08-16</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="kan2014">
-    <analytic>
-      <title level="a">Underground sound: Alexander Kan’s favourite tracks from 1980s Leningrad</title>
-      <author ref="authors.xml#kan.a">
-        <forename>Alexander</forename>
-        <surname>Kan</surname>
-      </author>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino</my:url>
-        <my:url type="Wayback" my:archiveDate="2014-05-16">https://web.archive.org/web/20140516041400/https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Calvert Journal</title>
-      <imprint>
-        <date>2014-05-08</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="fedorova2017">
-    <analytic>
-      <title level="a">Remembering Viktor Tsoi: why the rebellious rock poet is still a hero for our time</title>
-      <author ref="authors.xml#fedorova.a">
-        <forename>Anastasiia</forename>
-        <surname>Fedorova</surname>
-      </author>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Calvert Journal</title>
-      <imprint>
-        <date>2017-08-15</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="schreck2014">
-    <analytic>
-      <title level="a">A Brief History of Soviet Rock and Roll</title>
-      <author ref="authors.xml#schreck.c">
-        <forename>Carl</forename>
-        <surname>Schreck</surname>
-      </author>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-16">https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Atlantic</title>
-      <imprint>
-        <date>2014-04-21</date>
-      </imprint>
-      <my:references my:complete="no"/>
-    </monogr>
-  </biblStruct>
-  <biblStruct type="magazineArticle" xml:id="bennetts2014">
-    <analytic>
-      <title level="a">Raging in the cold: the Siberian punk who changed the face of Russian music</title>
-      <author ref="authors.xml#bennetts.m">
-        <forename>Marc</forename>
-        <surname>Bennetts</surname>
-      </author>
-      <my:access>
-        <my:url type="main" accessDate="2021-01-16">https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb</my:url>
-        <my:url type="Wayback" archiveDate="2020-08-12">https://web.archive.org/web/20200812165313/https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Calvert Journal</title>
-      <imprint>
-        <date>2014-09-23</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="yoffe2005">
-    <analytic>
-      <title level="a">Conceptual Carnival: National Elements in Russian Nationalist Rock Music</title>
-      <author ref="authors.xml#yoffe.m">
-        <forename>Mark</forename>
-        <surname>Yoffe</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Rock &amp; Roll and Nationalism: A Multinational Perspective</title>
-      <editor ref="authors.xml#yoffe.m">
-        <forename>Mark</forename>
-        <surname>Yoffe</surname>
-      </editor>
-      <editor>
-        <forename>Andrea</forename>
-        <surname>Collins</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Newcastle-upon-Tyne</pubPlace>
-        <publisher>Cambridge Scholars Press</publisher>
-        <date>2005</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-904303-56-5</idno>
-        <idno type="OCLC">799947320</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="sosin1975">
-    <analytic>
-      <title level="a">Magnitizdat: The Uncensored Songs of Dissent</title>
-      <author ref="authors.xml#sosin.g">
-        <forename>Gene</forename>
-        <surname>Sosin</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Dissent in the USSR: Politics, Ideology, and People</title>
-      <editor>
-        <forename>Rudolf L.</forename>
-        <surname>Tőkés</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Baltimore, MD</pubPlace>
-        <biblScope unit="page">276&#8211;309</biblScope>
-        <publisher>Johns Hopkins University Press</publisher>
-        <date>1975</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8018-1838-7</idno>
-        <idno type="ISBN">978-0-8018-1661-1</idno>
-        <idno type="OCLC">3419256</idno>
-        <my:url type="InternetArchive">https://archive.org/details/dissentinussrpol0000unse_k0k5/</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="mcmichael2008a">
-    <analytic>
-      <title level="a">Imagining Soviet Rock: Akvarium’s <hi rend="italics">Triangle</hi></title>
-      <author ref="authors.xml#mcmichael.p">
-        <forename>Polly</forename>
-        <surname>McMichael</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Picturing Russia: Explorations in Visual Culture</title>
-      <editor>
-        <forename>Valerie A.</forename>
-        <surname>Kivelson</surname>
-      </editor>
-      <editor>
-        <forename>Joan</forename>
-        <surname>Neuberger</surname>
-      </editor>
-      <imprint>
-        <pubPlace>New Haven, CT</pubPlace>
-        <biblScope unit="page">239&#8211;42</biblScope>
-        <publisher>Yale University Press</publisher>
-        <date>2008</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-300-16421-3</idno>
-        <idno type="ISBN">978-0-300-11961-9</idno>
-        <idno type="OCLC">1150935598</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="gololobov2015">
-    <analytic>
-      <title level="a">Russian Punk in ‘the Biggest Village on Earth’</title>
-      <author ref="authors.xml#gololobov.i">
-        <forename>Ivan</forename>
-        <surname>Gololobov</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Hopeless Youth!</title>
-      <editor>
-        <forename>Francisco</forename>
-        <surname>Martínez</surname>
-      </editor>
-      <editor>
-        <forename>Pille</forename>
-        <surname>Runnel</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Tartu</pubPlace>
-        <biblScope unit="page">331&#8211;48</biblScope>
-        <publisher>Estonian National Museum</publisher>
-        <date>2015</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-9949-548-10-1</idno>
-        <idno type="callNumber">HQ796 .H657 2015</idno>
-        <idno type="OCLC">938596374</idno>
-        <my:url type="instRepo" my:repo="University of Helsinki Research Portal">https://researchportal.helsinki.fi/en/publications/hopeless-youth</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Subculture</note>
-      <note type="tag">Youth</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="glossop1998">
-    <analytic>
-      <title level="a">On the Peculiarities of Soviet Rock and Roll</title>
-      <author ref="authors.xml#glossop.n">
-        <forename>Nicholas</forename>
-        <surname>Glossop</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Intersections and Transpositions: Russian Music, Literature, and Society</title>
-      <editor>
-        <forename>Andrew</forename>
-        <surname>Wachtel</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Evanston, IL</pubPlace>
-        <biblScope unit="page">274&#8211;98</biblScope>
-        <publisher>Northwestern University Press</publisher>
-        <date>1998</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8101-1580-4</idno>
-        <idno type="callNumber">ML3849 .I6 1998</idno>
-        <idno type="OCLC">38474619</idno>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s">Studies in Russian literature and theory</title>
-    </series>
-    <note type="tags">
-      <note type="tag">History and criticism</note>
-      <note type="tag">Music</note>
-      <note type="tag">Music and literature</note>
-      <note type="tag">Music in literature</note>
-      <note type="tag">Russia (Federation)</note>
-      <note type="tag">Russian literature</note>
-      <note type="tag">Social aspects</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="friedman1999">
-    <analytic>
-      <title level="a">Between a Rock and a Hard Place: Holy Rus’ and Its Alternatives in Russian Rock Music</title>
-      <author ref="authors.xml#friedman.j">
-        <forename>Julia P.</forename>
-        <surname>Friedman</surname>
-      </author>
-      <author ref="authors.xml#weiner.a">
-        <forename>Adam</forename>
-        <surname>Weiner</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Consuming Russia: Popular Culture, Sex, and Society Since Gorbachev</title>
-      <editor>
-        <forename>Adele Marie</forename>
-        <surname>Barker</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Durham</pubPlace>
-        <biblScope unit="page">110&#8211;37</biblScope>
-        <publisher>Duke University Press</publisher>
-        <date>1999</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8223-9641-3</idno>
-        <idno type="OCLC">1148134281</idno>
-        <my:url type="InternetArchive">https://archive.org/details/consumingrussia00adel/</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="pilkington2014">
-    <analytic>
-      <title level="a">Sounds of a ‘Rotting City’: Punk in Russia’s Arctic Hinterland</title>
-      <author ref="authors.xml#pilkington.h">
-        <forename>Hilary</forename>
-        <surname>Pilkington</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1057/9781137283115_10</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">Sounds and the City</title>
-      <editor>
-        <forename>Brett</forename>
-        <surname>Lashua</surname>
-      </editor>
-      <editor>
-        <forename>Karl</forename>
-        <surname>Spracklen</surname>
-      </editor>
-      <editor>
-        <forename>Stephen</forename>
-        <surname>Wagg</surname>
-      </editor>
-      <imprint>
-        <pubPlace>London</pubPlace>
-        <biblScope unit="page">162&#8211;82</biblScope>
-        <publisher>Palgrave Macmillan</publisher>
-        <date>2014</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-349-44890-6</idno>
-        <idno type="ISBN">978-1-137-28311-5</idno>
-        <idno type="OCLC">1023129998</idno>
-        <idno type="DOI">10.1057/9781137283115</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="pilkington2016">
-    <analytic>
-      <title level="a"><q>If You Want to Live, You Better Know How to Fight</q>: Fighting Masculinity on the Russian Punk Scene</title>
-      <author ref="authors.xml#pilkington.h">
-        <forename>Hilary</forename>
-        <surname>Pilkington</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.7765/9781847799616.00010</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">Fight Back: Punk, Politics and Resistance</title>
-      <editor>
-        <forename>The</forename>
-        <surname>Subcultures Network</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Manchester</pubPlace>
-        <publisher>Manchester University Press</publisher>
-        <date>2016</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-84779-961-6</idno>
-        <idno type="OCLC">992548960</idno>
-        <idno type="DOI">10.7765/9781847799616</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="vonfaust2014">
-    <monogr>
-      <title level="m">Banned in the USSR: Counterculture, State Media, and Public Opinion During the Soviet Union's Final Decade</title>
-      <author ref="authors.xml#vonfaust.b">
-        <forename>Boris</forename>
-        <surname>Von Faust</surname>
-      </author>
-      <imprint>
-        <date>2014</date>
-        <my:thesisType my:degree="MA" my:label="dissertation"/>
-        <my:institution>Rutgers, The State University of New Jersey</my:institution>
-      </imprint>
-      <my:access>
-        <idno type="DOI">10.7282/T39P2ZX7</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="zaporozhets2020">
-    <analytic>
-      <title level="a">Music Geography in Russia: Non-Auratic Places and Institutionalization <q>in Becoming</q></title>
-      <author ref="authors.xml#zaporozhets.o">
-        <forename>Oksana</forename>
-        <surname>Zaporozhets</surname>
-      </author>
-      <author ref="authors.xml#kolesnik.a">
-        <forename>Alexandra</forename>
-        <surname>Kolesnik</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/08873631.2019.1703450</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Journal of Cultural Geography</title>
-      <imprint>
-        <biblScope unit="volume">37</biblScope>
-        <biblScope unit="issue">1</biblScope>
-        <biblScope unit="page">1&#8211;25</biblScope>
-        <date>2020</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0887-3631, 1940-6320</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>gololobov2016</my:cite>
-      <my:cite>taylor1997</my:cite>
-      <my:cite>wickstrom2009</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="yoffe2020">
-    <analytic>
-      <title level="a">Soviet Rock Collection and International Counterculture Archive at the Global Resources Center of the George Washington University Libraries</title>
-      <author ref="authors.xml#yoffe.m">
-        <forename>Mark</forename>
-        <surname>Yoffe</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/15228886.2020.1756943</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Slavic &amp; East European Information Resources</title>
-      <imprint>
-        <biblScope unit="volume">21</biblScope>
-        <biblScope unit="issue">1-2</biblScope>
-        <biblScope unit="page">112&#8211;132</biblScope>
-        <date>2020</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">1522-8886, 1522-9041</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes"/>
-    <!-- No references, just Yoffe's memories-->
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="yoffe2013">
-    <analytic>
-      <title level="a">The <hi rend="italics">Stiob</hi> of Ages: Carnivalesque Traditions in Soviet Rock and Related Counterculture</title>
-      <author ref="authors.xml#yoffe.m">
-        <forename>Mark</forename>
-        <surname>Yoffe</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1016/j.ruslit.2013.10.010</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Russian Literature</title>
-      <imprint>
-        <biblScope unit="volume">74</biblScope>
-        <biblScope unit="issue">1&#8211;2</biblScope>
-        <biblScope unit="page">207&#8211;25</biblScope>
-        <date>2013</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">03043479</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>yurchak1999</my:cite>
-      <my:cite>yoffe2005</my:cite>
-      <my:cite>troitsky1990</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="wickstrom2009">
-    <analytic>
-      <title level="a">Visions of the (Holy) Motherland in Contemporary Russian Popular Music: Nostalgia, Patriotism, Religion and <hi rend="italics">Russkii Rok</hi></title>
-      <author ref="authors.xml#wickstrom.d">
-        <forename>David-Emil</forename>
-        <surname>Wickström</surname>
-      </author>
-      <author ref="authors.xml#steinholt.y">
-        <forename>Yngvar B.</forename>
-        <surname>Steinholt</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/03007760902985668</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music and Society</title>
-      <imprint>
-        <biblScope unit="volume">32</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">313&#8211;330</biblScope>
-        <date>2009</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0300-7766, 1740-1712</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>boym2001</my:cite>
-      <my:cite>steinholt2005</my:cite>
-    </my:references>
-    <my:referencedBy>
-      <my:citedBy>zaporozhets2020</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="vonfaust2016">
-    <analytic>
-      <title level="a">Let There Be Rock: <q>Western</q> Heavy Metal in Soviet Press and Public Opinion During the Soviet Union’s Final Decade</title>
-      <author ref="authors.xml#vonfaust.b">
-        <forename>Boris</forename>
-        <surname>Von Faust</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1386/mms.2.3.377_1</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Metal Music Studies</title>
-      <imprint>
-        <biblScope unit="volume">2</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">377&#8211;393</biblScope>
-        <date>2016</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">2052-3998</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="trotter2019">
-    <analytic>
-      <title level="a">A Digital Voice for Russian Rock: Perspectives on Digitization of Russian Rock <hi rend="italics">Zines</hi></title>
-      <author ref="authors.xml#trotter.v">
-        <forename>Veronika</forename>
-        <surname>Trotter</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/15228886.2019.1628499</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Slavic &amp; East European Information Resources</title>
-      <imprint>
-        <biblScope unit="volume">20</biblScope>
-        <biblScope unit="issue">1-2</biblScope>
-        <biblScope unit="page">31&#8211;8</biblScope>
-        <date>2019</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">1522-8886, 1522-9041</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>mcmichael2005</my:cite>
-      <my:cite>kushnir1994</my:cite>
-      <my:cite>kushnir1999</my:cite>
-      <my:cite>steinholt2005</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="steinholt2012">
-    <analytic>
-      <title level="a">Siberian Punk Shall Emerge Here: Egor Letov and Grazhdanskaia Oborona</title>
-      <author ref="authors.xml#steinholt.y">
-        <forename>Yngvar B.</forename>
-        <surname>Steinholt</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1017/s0261143012000311</idno>
-        <my:url type="JSTOR">https://www.jstor.org/stable/23325785</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music</title>
-      <imprint>
-        <biblScope unit="volume">31</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">401&#8211;15</biblScope>
-        <date>2012</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0261-1430</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="steinholt2003">
-    <analytic>
-      <title level="a">You Can't Rid a Song of Its Words: Notes on the Hegemony of Lyrics in Russian Rock Songs</title>
-      <author ref="authors.xml#steinholt.y">
-        <forename>Yngvar B.</forename>
-        <surname>Steinholt</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1017/S0261143003003064</idno>
-        <my:url type="JSTOR">https://www.jstor.org/stable/853558</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music</title>
-      <imprint>
-        <biblScope unit="volume">22</biblScope>
-        <biblScope unit="issue">1</biblScope>
-        <biblScope unit="page">89&#8211;108</biblScope>
-        <date>2003</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0261-1430</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>amico2014</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="six2008">
-    <analytic>
-      <title level="a"><q>Born in the USSR</q>: Searching High and Low for Post-Soviet Identity</title>
-      <author ref="authors.xml#six.i">
-        <forename>Irina</forename>
-        <surname>Six</surname>
-      </author>
-      <my:access>
-        <my:url type="JSTOR">https://www.jstor.org/stable/25748190</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Ulbandus Review</title>
-      <imprint>
-        <biblScope unit="volume">11</biblScope>
-        <biblScope unit="issue">2008</biblScope>
-        <biblScope unit="page">232&#8211;51</biblScope>
-        <date>2008</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0163-450X</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="rogatchevski2016">
-    <analytic>
-      <title level="a">Pussy Riot’s Musical Precursors? The National Bolshevik Party Bands, 1994&#8211;2007</title>
-      <author ref="authors.xml#rogatchevski.a">
-        <forename>Andrei</forename>
-        <surname>Rogatchevski</surname>
-      </author>
-      <author ref="authors.xml#steinholt.y">
-        <forename>Yngvar B.</forename>
-        <surname>Steinholt</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/03007766.2015.1088287</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music and Society</title>
-      <imprint>
-        <biblScope unit="volume">39</biblScope>
-        <biblScope unit="issue">4</biblScope>
-        <biblScope unit="page">448&#8211;64</biblScope>
-        <date>2016</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0300-7766, 1740-1712</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="rayport1995">
-    <analytic>
-      <title level="a">Negotiating Identity in a World Turned Upside Down: Russian Youth Cultural Practice in Leningrad, 1990-1991</title>
-      <author ref="authors.xml#rayport.j">
-        <forename>Jennifer S.</forename>
-        <surname>Rayport</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1525/pol.1995.18.1.57</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">PoLAR: Political and Legal Anthropology Review</title>
-      <imprint>
-        <biblScope unit="volume">18</biblScope>
-        <biblScope unit="issue">1</biblScope>
-        <biblScope unit="page">57&#8211;62</biblScope>
-        <date>1995</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">1081-6976</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes">
-      <my:cite>bushnell1990</my:cite>
-      <my:cite>dunham1990</my:cite>
-      <my:cite>fitzpatrick1979</my:cite>
-      <my:cite>pilkington1994</my:cite>
-      <my:cite>sapir1949</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="ramet1990">
-    <analytic>
-      <title level="a">The Soviet Rock Scene</title>
-      <author ref="authors.xml#ramet.s">
-        <forename>Pedro</forename>
-        <surname>Ramet</surname>
-      </author>
-      <author ref="authors.xml#zamascikov.s">
-        <forename>Sergei</forename>
-        <surname>Zamascikov</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1111/j.0022-3840.1990.00149.x</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">The Journal of Popular Culture</title>
-      <imprint>
-        <biblScope unit="volume">24</biblScope>
-        <biblScope unit="issue">1</biblScope>
-        <biblScope unit="page">149&#8211;74</biblScope>
-        <date>1990</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">00223840</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>troitsky1987</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="pond1987">
-    <analytic>
-      <title level="a">Soviet Rock Lyrics: Their Content and Poetics</title>
-      <author ref="authors.xml#pond.i">
-        <forename>Irina</forename>
-        <surname>Pond</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/03007768708591298</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music and Society</title>
-      <imprint>
-        <biblScope unit="volume">11</biblScope>
-        <biblScope unit="issue">4</biblScope>
-        <biblScope unit="page">75&#8211;91</biblScope>
-        <date>1987</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0300-7766, 1740-1712</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="mcmichael2009">
-    <analytic>
-      <title level="a">Prehistories and Afterlives: The Packaging and Re-packaging of Soviet Rock</title>
-      <author ref="authors.xml#mcmichael.p">
-        <forename>Polly</forename>
-        <surname>McMichael</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/03007760902985791</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music and Society</title>
-      <imprint>
-        <biblScope unit="volume">32</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">331&#8211;50</biblScope>
-        <date>2009</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0300-7766, 1740-1712</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no">
-      <my:cite>cushman1995</my:cite>
-      <my:cite>glossop1991</my:cite>
-      <my:cite>mcmichael2008a</my:cite>
-      <my:cite>smith1984</my:cite>
-      <my:cite>sosin1975</my:cite>
-      <my:cite>steinholt2005</my:cite>
-      <my:cite>troitsky1987</my:cite>
-      <my:cite>troitsky1990</my:cite>
-      <my:cite>wickstrom2009</my:cite>
-      <my:cite>yurchak2005</my:cite>
-      <my:cite>yurchak1999</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="mcmichael2008b">
-    <analytic>
-      <title level="a">Translation, Authorship and Authenticity in Soviet Rock Songwriting</title>
-      <author ref="authors.xml#mcmichael.p">
-        <forename>Polly</forename>
-        <surname>McMichael</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1080/13556509.2008.10799256</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">The Translator</title>
-      <imprint>
-        <biblScope unit="volume">14</biblScope>
-        <biblScope unit="issue">2</biblScope>
-        <biblScope unit="page">201&#8211;28</biblScope>
-        <date>2008</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">1355-6509, 1757-0409</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="mcmichael2005">
-    <analytic>
-      <title level="a"><q>After All, You're a Rock and Roll Star (At Least, That's What They Say)</q>: <hi rend="italics">Roksi</hi> and the Creation of the Soviet Rock Musician</title>
-      <author ref="authors.xml#mcmichael.p">
-        <forename>Polly</forename>
-        <surname>McMichael</surname>
-      </author>
-      <my:access>
-        <my:url type="JSTOR">https://www.jstor.org/stable/4214174</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">The Slavonic and East European Review</title>
-      <imprint>
-        <biblScope unit="volume">83</biblScope>
-        <biblScope unit="issue">4</biblScope>
-        <biblScope unit="page">664&#8211;84</biblScope>
-        <date>2005</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0037-6795</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes">
-      <my:cite>troitsky1987</my:cite>
-      <my:cite>sagareva1992</my:cite>
-      <my:cite>rekshan1988</my:cite>
-      <my:cite>gakkel2000</my:cite>
-      <my:cite>rybin2001</my:cite>
-      <my:cite>cushman1995</my:cite>
-      <my:cite>edele2002</my:cite>
-      <my:cite>yurchak1999</my:cite>
-      <my:cite>kushnir1999</my:cite>
-      <my:cite>rybin2003</my:cite>
-      <my:cite>hopkins1969</my:cite>
-      <my:cite>smith1984</my:cite>
-      <my:cite>steinholt2005</my:cite>
-      <my:cite>gunitskii1991</my:cite>
-      <my:cite>boym2001</my:cite>
-      <my:cite>zamoyska1975</my:cite>
-      <my:cite>pospielovsky1978</my:cite>
-      <my:cite>oushakine2001</my:cite>
-      <my:cite>savitskii2002</my:cite>
-      <my:cite>komaromi2004</my:cite>
-      <my:cite>kushnir1994</my:cite>
-      <my:cite>severov</my:cite>
-      <my:cite>zhitinskii1990</my:cite>
-      <my:cite>severiukhin2003</my:cite>
-      <my:cite>khrenov1986</my:cite>
-      <my:cite>troitsky1990ru</my:cite>
-      <my:cite>mokienko2001</my:cite>
-      <my:cite>fain1991</my:cite>
-      <my:cite>zaitsev1990</my:cite>
-      <my:cite>leningradskaia1978</my:cite>
-      <my:cite>sotsiologicheskie1987</my:cite>
-      <my:cite>troitsky1990</my:cite>
-      <my:cite>pilkington1994</my:cite>
-      <my:cite>pilkington2002</my:cite>
-      <my:cite>matveev2001</my:cite>
-      <my:cite>corten1992</my:cite>
-      <my:cite>matizen1993</my:cite>
-      <my:cite>wilson1976</my:cite>
-      <my:cite>chekrygina1972</my:cite>
-      <my:cite>petrov1973</my:cite>
-      <my:cite>thornton1995</my:cite>
-      <my:cite>shneerson1974</my:cite>
-      <my:cite>petrushkin1974</my:cite>
-    </my:references>
-    <my:referencedBy>
-      <my:citedBy>trotter2019</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="glossop1991">
-    <analytic>
-      <title level="a">Recent Developments in Soviet Record Production</title>
-      <author ref="authors.xml#glossop.n">
-        <forename>Nicholas</forename>
-        <surname>Glossop</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1017/S0261143000004700</idno>
-        <my:url type="JSTOR">https://www.jstor.org/stable/853152</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music</title>
-      <imprint>
-        <biblScope unit="volume">10</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">347&#8211;49</biblScope>
-        <date>1991</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0261-1430</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="macfadyen2010">
-    <analytic>
-      <title level="a">The Russian <q>Rockumentary</q>: Documentary Films and Rock, Pop, and Chanson</title>
-      <author ref="authors.xml#macfadyen.d">
-        <forename>David</forename>
-        <surname>Macfadyen</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1111/j.1467-9434.2010.00586.x</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">The Russian Review</title>
-      <imprint>
-        <biblScope unit="volume">69</biblScope>
-        <biblScope unit="issue">4</biblScope>
-        <biblScope unit="page">670&#8211;88</biblScope>
-        <date>2010</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">00360341</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="furst2014">
-    <analytic>
-      <title level="a">Love, Peace and Rock ’n’ Roll on Gorky Street: The ‘Emotional Style’ of the Soviet Hippie Community</title>
-      <author ref="authors.xml#furst.j">
-        <forename>Juliane</forename>
-        <surname>Fürst</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1017/S0960777314000320</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Contemporary European History</title>
-      <imprint>
-        <biblScope unit="volume">23</biblScope>
-        <biblScope unit="issue">4</biblScope>
-        <biblScope unit="page">565&#8211;87</biblScope>
-        <date>2014</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0960-7773, 1469-2171</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="dobrotvorskaja1992">
-    <analytic>
-      <title level="a">Soviet Teens of the 1970s: Rock Generation, Rock Refusal, Rock Context</title>
-      <author ref="authors.xml#dobrotvorskaja.e">
-        <forename>Ekaterina</forename>
-        <surname>Dobrotvorskaja</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1111/j.0022-3840.1992.2603_145.x</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">The Journal of Popular Culture</title>
-      <imprint>
-        <biblScope unit="volume">26</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">145&#8211;50</biblScope>
-        <date>1992</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">00223840</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes"/>
-    <!--This article doesn't have any references-->
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="daughtry2009">
-    <analytic>
-      <title level="a"><q>Sonic Samizdat</q>: Situating Unofficial Recording in the Post-Stalinist Soviet Union</title>
-      <author ref="authors.xml#daughtry.j">
-        <forename>J. Martin</forename>
-        <surname>Daughtry</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1215/03335372-2008-002</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Poetics Today</title>
-      <imprint>
-        <biblScope unit="volume">30</biblScope>
-        <biblScope unit="issue">1</biblScope>
-        <biblScope unit="page">27&#8211;65</biblScope>
-        <date>2009</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0333-5372, 1527-5507</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="amico2014">
-    <analytic>
-      <title level="a"><q>The Most Martian of Martianesses</q>: Zhanna Aguzarova, (Post-)Soviet Rock ‘n’ Roll, and the Musico-Linguistic Creation of the ‘Outside’</title>
-      <author ref="authors.xml#amico.s">
-        <forename>Stephen</forename>
-        <surname>Amico</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1017/S0261143014000294</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Popular Music</title>
-      <imprint>
-        <biblScope unit="volume">33</biblScope>
-        <biblScope unit="issue">2</biblScope>
-        <biblScope unit="page">243&#8211;67</biblScope>
-        <date>2014</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0261-1430, 1474-0095</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="yes">
-      <my:cite>anderson1983</my:cite>
-      <my:cite>attali1985</my:cite>
-      <my:cite>bakhtin1986</my:cite>
-      <my:cite>barker1999</my:cite>
-      <my:cite>barthes1990</my:cite>
-      <my:cite>bennetts2010</my:cite>
-      <my:cite>beumers2005</my:cite>
-      <my:cite>billington2004</my:cite>
-      <my:cite>blacking1977</my:cite>
-      <my:cite>bogdanov1984</my:cite>
-      <my:cite>brett1994</my:cite>
-      <my:cite>brooks2000</my:cite>
-      <my:cite>chernin2007</my:cite>
-      <my:cite>cushman1995</my:cite>
-      <my:cite>doyle1995</my:cite>
-      <my:cite>duncan2005</my:cite>
-      <my:cite>easton1989</my:cite>
-      <my:cite>edmunds2004</my:cite>
-      <my:cite>feld1994</my:cite>
-      <my:cite>gasparian1993</my:cite>
-      <my:cite>gorham2003</my:cite>
-      <my:cite>grenoble2003</my:cite>
-      <my:cite>gudkov2004</my:cite>
-      <my:cite>james1987</my:cite>
-      <my:cite>kaplan1971</my:cite>
-      <my:cite>kon1993</my:cite>
-      <my:cite>korpe2006</my:cite>
-      <my:cite>kristeva1984</my:cite>
-      <my:cite>lenta2012</my:cite>
-      <my:cite>lerdahl2003</my:cite>
-      <my:cite>lerdahl1983</my:cite>
-      <my:cite>lidov2005</my:cite>
-      <my:cite>macfadyen2001</my:cite>
-      <my:cite>macfadyen2002</my:cite>
-      <my:cite>macfadyen2006</my:cite>
-      <my:cite>masaltsev</my:cite>
-      <my:cite>nelson2006</my:cite>
-      <my:cite>nercessian2004</my:cite>
-      <my:cite>nettl1995</my:cite>
-      <my:cite>olkhovsky1955</my:cite>
-      <my:cite>olson2004</my:cite>
-      <my:cite>pilkington1998</my:cite>
-      <my:cite>poggie1992</my:cite>
-      <my:cite>ramet1994</my:cite>
-      <my:cite>ramet2003</my:cite>
-      <my:cite>rouland2004</my:cite>
-      <my:cite>ryback1990</my:cite>
-      <my:cite>sarycheva2007</my:cite>
-      <my:cite>shcheglova2008</my:cite>
-      <my:cite>shklovskii1962</my:cite>
-      <my:cite>shklovskii1968</my:cite>
-      <my:cite>smith1984</my:cite>
-      <my:cite>smith1998</my:cite>
-      <my:cite>steiger2011</my:cite>
-      <my:cite>steinholt2003</my:cite>
-      <my:cite>swain1997</my:cite>
-      <my:cite>taruskin1997</my:cite>
-      <my:cite>taylor1997</my:cite>
-      <my:cite>todorov1984</my:cite>
-      <my:cite>troitsky1987</my:cite>
-      <my:cite>vygotsky1986</my:cite>
-      <my:cite>whiteley2000</my:cite>
-      <my:cite>zhdanov1969</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="zaitsev1990">
-    <monogr>
-      <title level="m">Soviet Rock: 25 Years in the Underground + 5 Years of Freedom</title>
-      <editor>
-        <forename>Igor</forename>
-        <surname>Zaitsev</surname>
-      </editor>
-      <translator>
-        <forename>Mark</forename>
-        <surname>Buser</surname>
-      </translator>
-      <translator>
-        <forename>Dmitry</forename>
-        <surname>Linnik</surname>
-      </translator>
-      <imprint>
-        <pubPlace>Moscow</pubPlace>
-        <publisher>Progress Publishers</publisher>
-        <date>1990</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-5-01-001983-9</idno>
-        <idno type="callNumber">ML3534 .S62 1990</idno>
-        <idno type="OCLC">26974356</idno>
-        <my:url type="InternetArchive">https://archive.org/details/sovietrock25year00zait</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Rock music</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>mcmichael2005</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="risch2015">
-    <monogr>
-      <title level="m">Youth and Rock in the Soviet Bloc: Youth Cultures, Music, and the State in Russia and Eastern Europe</title>
-      <editor>
-        <forename>William Jay</forename>
-        <surname>Risch</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Lanham, Maryland</pubPlace>
-        <publisher>Lexington Books</publisher>
-        <date>2014</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-7391-6693-2</idno>
-        <idno type="ISBN">978-0-7391-7823-2</idno>
-        <idno type="callNumber">ML3917.E852 Y68 2015</idno>
-        <idno type="OCLC">892055977</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">Cold War</note>
-      <note type="tag">Youth</note>
-      <note type="tag">Social aspects</note>
-      <note type="tag">20th century</note>
-      <note type="tag">Europe, Eastern</note>
-      <note type="tag">History</note>
-      <note type="tag">Music and state</note>
-      <note type="tag">Music and the war</note>
-      <note type="tag">Political aspects</note>
-      <note type="tag">Political aspects History</note>
-      <note type="tag">Popular music</note>
-      <note type="tag">Social aspects History</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="ramet1994">
-    <monogr>
-      <title level="m">Rocking the State: Rock Music and Politics in Eastern Europe and Russia</title>
-      <editor ref="authors.xml#ramet.s">
-        <forename>Sabrina P.</forename>
-        <surname>Ramet</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Boulder</pubPlace>
-        <publisher>Westview Press</publisher>
-        <date>1994</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8133-1762-5</idno>
-        <idno type="ISBN">978-0-8133-1763-2</idno>
-        <idno type="callNumber">ML3534 .R6384 1994</idno>
-        <idno type="OCLC">28798067</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Rock music</note>
-      <note type="tag">Europe, Eastern</note>
-      <note type="tag">Music and state</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>amico2014</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="gololobov2016">
-    <monogr>
-      <title level="m">Punk in Russia: Cultural Mutation from the 'Useless' to the 'Moronic'</title>
-      <editor ref="authors.xml#gololobov.i">
-        <forename>Ivan</forename>
-        <surname>Gololobov</surname>
-      </editor>
-      <editor ref="authors.xml#pilkington.h">
-        <forename>Hilary</forename>
-        <surname>Pilkington</surname>
-      </editor>
-      <editor ref="authors.xml#steinholt.y">
-        <forename>Yngvar Bordewich</forename>
-        <surname>Steinholt</surname>
-      </editor>
-      <imprint>
-        <pubPlace>London, New York</pubPlace>
-        <publisher>Routledge</publisher>
-        <date>2016</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-415-78810-6</idno>
-        <idno type="OCLC">960836447</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>zaporozhets2020</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="furst2017">
-    <monogr>
-      <title level="m">Dropping Out of Socialism: the Creation of Alternative Spheres in the Soviet Bloc</title>
-      <editor ref="authors.xml#furst.j">
-        <forename>Juliane</forename>
-        <surname>Fürst</surname>
-      </editor>
-      <editor>
-        <forename>Josie</forename>
-        <surname>McLellan</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Lanham</pubPlace>
-        <publisher>Lexington Books</publisher>
-        <date>2017</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-4985-2515-2 978-1-4985-2514-5</idno>
-        <idno type="OCLC">1100929536</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="bluml2019">
-    <monogr>
-      <title level="m">Popular Music in Communist and Post-Communist Europe</title>
-      <editor>
-        <forename>Jan</forename>
-        <surname>Blüml</surname>
-      </editor>
-      <editor>
-        <forename>Yvetta</forename>
-        <surname>Kajanová</surname>
-      </editor>
-      <editor>
-        <forename>Rüdiger</forename>
-        <surname>Ritter</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Switzerland</pubPlace>
-        <publisher>Peter Lang</publisher>
-        <date>2019</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-3-631-78401-3</idno>
-        <idno type="ISBN">978-3-631-78400-6</idno>
-        <idno type="ISBN">978-3-631-78402-0</idno>
-        <idno type="ISBN">978-3-631-77463-2</idno>
-        <idno type="DOI">10.3726/b15374</idno>
-        <idno type="OCLC">1090283753</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="zhuk2010">
-    <monogr>
-      <title level="m">Rock and Roll in the Rocket City: The West, Identity, and Ideology in Soviet Dniepropetrovsk, 1960–1985</title>
-      <author ref="authors.xml#zhuk.s">
-        <forename>Sergei I.</forename>
-        <surname>Zhuk</surname>
-      </author>
-      <imprint>
-        <pubPlace>Washington, D.C.</pubPlace>
-        <publisher>Woodrow Wilson Center Press</publisher>
-        <date>2010</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8018-9550-0</idno>
-        <idno type="callNumber">ML3917.R8 Z58 2010</idno>
-        <idno type="OCLC">468972516</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">20th century</note>
-      <note type="tag">Music and state</note>
-      <note type="tag">Political aspects</note>
-      <note type="tag">Political aspects History</note>
-      <note type="tag">Popular music</note>
-      <note type="tag">Music and youth</note>
-      <note type="tag">Popular culture</note>
-      <note type="tag">Ukraine Dnipro</note>
-      <note type="tag">Western influences</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="woodhead2013">
-    <monogr>
-      <title level="m">How the Beatles Rocked the Kremlin: The Untold Story of a Noisy Revolution</title>
-      <author ref="authors.xml#woodhead.l">
-        <forename>Leslie</forename>
-        <surname>Woodhead</surname>
-      </author>
-      <edition>1st U.S. ed</edition>
-      <imprint>
-        <pubPlace>New York</pubPlace>
-        <publisher>Bloomsbury</publisher>
-        <date>2013</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-60819-614-2</idno>
-        <idno type="callNumber">ML3534.R8 W66 2012</idno>
-        <idno type="OCLC">795174334</idno>
-        <my:url type="InternetArchive">https://archive.org/details/howbeatlesrocked0000wood</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Russia (Federation)</note>
-      <note type="tag">Rock music</note>
-      <note type="tag">Political aspects</note>
-      <note type="tag">Beatles</note>
-      <note type="tag">Influence</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="wickstrom2011">
-    <monogr>
-      <title level="m">Rocking St. Petersburg: Transcultural Flows and Identity Politics in Post-Soviet Popular Music</title>
-      <author ref="authors.xml#wickstrom.d">
-        <forename>David-Emil</forename>
-        <surname>Wickström</surname>
-      </author>
-      <imprint>
-        <pubPlace>Stuttgart</pubPlace>
-        <publisher>Ibidem Verlag</publisher>
-        <date>2011</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-3-8382-0100-9</idno>
-        <idno type="callNumber">ML3497.8.S25 W53 2011</idno>
-        <idno type="OCLC">888955842</idno>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s">Soviet and post-soviet politics and society</title>
-      <biblScope unit="volume">Vol. 101</biblScope>
-    </series>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Social aspects</note>
-      <note type="tag">Popular music</note>
-      <note type="tag">Germany</note>
-      <note type="tag">Identity politics</note>
-      <note type="tag">Music History and criticism</note>
-      <note type="tag">Russendisko</note>
-      <note type="tag">Russia (Federation) Saint Petersburg</note>
-      <note type="tag">Russians</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="tsipursky2016">
-    <monogr>
-      <title level="m">Socialist Fun: Youth, Consumption, and State-Sponsored Popular Culture in the Soviet Union, 1945-1970</title>
-      <author ref="authors.xml#tsipursky.g">
-        <forename>Gleb</forename>
-        <surname>Tsipursky</surname>
-      </author>
-      <imprint>
-        <pubPlace>Pittsburgh</pubPlace>
-        <publisher>University of Pittsburgh Press</publisher>
-        <date>2016</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-8229-6396-7</idno>
-        <idno type="callNumber">HQ799.S69 T76 2016</idno>
-        <idno type="OCLC">910334493</idno>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s">Pitt series in Russian and East European studies</title>
-    </series>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">Cold War</note>
-      <note type="tag">Youth</note>
-      <note type="tag">Social aspects</note>
-      <note type="tag">History</note>
-      <note type="tag">Social aspects History</note>
-      <note type="tag">Popular culture</note>
-      <note type="tag">1917-1970</note>
-      <note type="tag">Consumption (Economics)</note>
-      <note type="tag">Government policy History</note>
-      <note type="tag">HISTORY / Europe / Russia &amp; the Former Soviet Union</note>
-      <note type="tag">Relations</note>
-      <note type="tag">Social life and customs</note>
-      <note type="tag">Socialism</note>
-      <note type="tag">Societies and clubs History</note>
-      <note type="tag">Western countries</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="troitsky1990">
-    <monogr>
-      <title level="m">Tusovka: Who's Who in the New Soviet Rock Culture</title>
-      <author ref="authors.xml#troitsky.a">
-        <forename>Artemy</forename>
-        <surname>Troitsky</surname>
-      </author>
-      <imprint>
-        <pubPlace>London, New York</pubPlace>
-        <publisher>Omnibus Press</publisher>
-        <date>1990</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-7119-1469-8</idno>
-        <idno type="callNumber">ML3534 .T76 1990</idno>
-        <idno type="OCLC">26806394</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Rock music</note>
-      <note type="tag">1981-1990</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>mcmichael2005</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="book" xml:id="troitsky1987">
-    <monogr>
-      <title level="m">Back in the USSR: The True Story of Rock in Russia</title>
-      <author ref="authors.xml#troitsky.a">
-        <forename>Artemy</forename>
-        <surname>Troitsky</surname>
-      </author>
-      <imprint>
-        <pubPlace>London</pubPlace>
-        <publisher>Faber</publisher>
-        <date>1987</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-571-12997-3</idno>
-        <idno type="callNumber">ML3497 .T76 1988</idno>
-        <idno type="OCLC">758476375</idno>
-        <my:url type="InternetArchive">https://archive.org/details/backinussrtruest00troit</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Rock music</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>mcmichael2005</my:citedBy>
-      <my:citedBy>amico2014</my:citedBy>
-      <my:citedBy>ramet1990</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="book" xml:id="stites1992">
-    <monogr>
-      <title level="m">Russian Popular Culture: Entertainment and Society Since 1900</title>
-      <author ref="authors.xml#stites.r">
-        <forename>Richard</forename>
-        <surname>Stites</surname>
-      </author>
-      <imprint>
-        <pubPlace>Cambridge</pubPlace>
-        <publisher>Cambridge University Press</publisher>
-        <date>1992</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-521-36214-6</idno>
-        <idno type="ISBN">978-0-521-36986-2</idno>
-        <idno type="callNumber">DK266.4 .S76 1992</idno>
-        <idno type="OCLC">24431153</idno>
-        <my:url type="InternetArchive">https://archive.org/details/russianpopularcu00stit</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s">Cambridge Soviet paperbacks</title>
-      <biblScope unit="volume">7</biblScope>
-    </series>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">Popular culture</note>
-      <note type="tag">Civilization</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="stingray2020">
-    <monogr>
-      <title level="m">Red Wave: An American in the Soviet Music Underground</title>
-      <author ref="authors.xml#stingray.j">
-        <forename>Joanna</forename>
-        <surname>Stingray</surname>
-      </author>
-      <author ref="authors.xml#stingray.m">
-        <forename>Madison</forename>
-        <surname>Stingray</surname>
-      </author>
-      <imprint>
-        <pubPlace>Los Angeles</pubPlace>
-        <publisher>DoppelHouse Press</publisher>
-        <date>2020</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-73395-792-2</idno>
-        <idno type="OCLC">1142340352</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="steinholt2005">
-    <monogr>
-      <title level="m">Rock in the Reservation: Songs from Leningrad Rock Club 1981-86</title>
-      <author ref="authors.xml#steinholt.y">
-        <forename>Yngvar Bordewich</forename>
-        <surname>Steinholt</surname>
-      </author>
-      <imprint>
-        <pubPlace>New York</pubPlace>
-        <publisher>Mass Media Music Scholars' Press</publisher>
-        <date>2005</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-9701684-3-6</idno>
-        <idno type="OCLC">165872118</idno>
-        <my:url type="instRepo" my:repo="Munin">https://hdl.handle.net/10037/3704</my:url>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>mcmichael2005</my:citedBy>
-      <my:citedBy>wickstrom2009</my:citedBy>
-      <my:citedBy>trotter2019</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="book" xml:id="ryback1990">
-    <monogr>
-      <title level="m">Rock Around the Bloc: A History of Rock Music in Eastern Europe and the Soviet Union</title>
-      <author ref="authors.xml#ryback.t">
-        <forename>Timothy W.</forename>
-        <surname>Ryback</surname>
-      </author>
-      <imprint>
-        <pubPlace>New York</pubPlace>
-        <publisher>Oxford University Press</publisher>
-        <date>1990</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-19-505633-4</idno>
-        <idno type="callNumber">ML3534 .R9 1990</idno>
-        <idno type="OCLC">19623657</idno>
-        <my:url type="InternetArchive">https://archive.org/details/rockaroundblochi0000ryba</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">History and criticism</note>
-      <note type="tag">Rock music</note>
-      <note type="tag">Communist countries</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>amico2014</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="book" xml:id="pierobon2014">
-    <monogr>
-      <title level="m">Music and Political Youth Organizations in Russia</title>
-      <author ref="authors.xml#pierobon.c">
-        <forename>Chiara</forename>
-        <surname>Pierobon</surname>
-      </author>
-      <imprint>
-        <pubPlace>Wiesbaden</pubPlace>
-        <publisher>Springer VS</publisher>
-        <date>2014</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-3-658-04312-4</idno>
-        <idno type="ISBN">978-3-658-04313-1</idno>
-        <idno type="DOI">10.1007/978-3-658-04313-1</idno>
-        <idno type="OCLC">1066471465</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="pelyushonok2004">
-    <monogr>
-      <title level="m">Strings for a Beatle Bass: The Beatles Generation in the USSR</title>
-      <author ref="authors.xml#pelyushonok.y">
-        <forename>Yury</forename>
-        <surname>Pelyushonok</surname>
-      </author>
-      <translator>
-        <forename>Olga</forename>
-        <surname>Sansom</surname>
-      </translator>
-      <imprint>
-        <pubPlace>Ottawa</pubPlace>
-        <publisher>PLY Publisher</publisher>
-        <date>2004</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-9682258-8-2</idno>
-        <idno type="OCLC">56107984</idno>
-      </my:access>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="book" xml:id="macfadyen2001">
-    <monogr>
-      <title level="m">Red Stars: Personality and the Soviet Popular Song, 1955-1991</title>
-      <author ref="authors.xml#macfadyen.d">
-        <forename>David</forename>
-        <surname>MacFadyen</surname>
-      </author>
-      <imprint>
-        <pubPlace>Montreal</pubPlace>
-        <publisher>McGill-Queen's University Press</publisher>
-        <date>2001</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-7735-2106-3</idno>
-        <idno type="callNumber">ML3497 .M33 2001</idno>
-        <idno type="OCLC">45485871</idno>
-        <my:url type="JSTOR">https://www.jstor.org/stable/j.ctt811qw</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Soviet Union</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Social aspects</note>
-      <note type="tag">Popular music</note>
-      <note type="tag">Aspect social</note>
-      <note type="tag">Biographies</note>
-      <note type="tag">Biography</note>
-      <note type="tag">Chanteurs</note>
-      <note type="tag">Histoire et critique</note>
-      <note type="tag">Musique populaire</note>
-      <note type="tag">Singers</note>
-      <note type="tag">URSS</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>amico2014</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="book" xml:id="cushman1995">
-    <monogr>
-      <title level="m">Notes from Underground: Rock Music Counterculture in Russia</title>
-      <author ref="authors.xml#cushman.t">
-        <forename>Thomas</forename>
-        <surname>Cushman</surname>
-      </author>
-      <imprint>
-        <pubPlace>Albany</pubPlace>
-        <publisher>State University of New York Press</publisher>
-        <date>1995</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-7914-2543-5</idno>
-        <idno type="ISBN">978-0-7914-2544-2</idno>
-        <idno type="callNumber">ML3534 .C88 1995</idno>
-        <idno type="OCLC">31937131</idno>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s">SUNY series in the sociology of culture</title>
-    </series>
-    <note type="tags">
-      <note type="tag">Subculture</note>
-      <note type="tag">History and criticism</note>
-      <note type="tag">Music</note>
-      <note type="tag">Russia (Federation)</note>
-      <note type="tag">Social aspects</note>
-      <note type="tag">Rock music</note>
-    </note>
-    <my:references my:complete="no"/>
-    <my:referencedBy>
-      <my:citedBy>mcmichael2005</my:citedBy>
-      <my:citedBy>amico2014</my:citedBy>
-    </my:referencedBy>
-  </biblStruct>
-  <biblStruct type="newspaperArticle" xml:id="christgau">
-    <analytic>
-      <author ref="authors.xml#christgau.r">
-        <forename>Robert</forename>
-        <surname>Christgau</surname>
-      </author>
-      <title level="a">Perestroika, Glasnost, Art-Rock</title>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-01-20">https://www.robertchristgau.com/xg/rock/russia-91.php</my:url>
-        <my:url type="Wayback" my:archiveDate="2002-03-23">https://web.archive.org/web/20020323005700/https://www.robertchristgau.com/xg/rock/russia-91.php</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The Village Voice</title>
-      <imprint>
-        <date>1991-01-15</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-    <my:referencedBy/>
-  </biblStruct>
-  <biblStruct type="bookSection" xml:id="easton1989">
-    <analytic>
-      <title level="a">The Rock Music Community</title>
-      <author ref="authors.xml#easton.p">
-        <forename>P.</forename>
-        <surname>Easton</surname>
-      </author>
-    </analytic>
-    <monogr>
-      <title level="m">Soviet Youth Culture</title>
-      <editor>
-        <forename>James</forename>
-        <surname>Riordan</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Bloomington, IN</pubPlace>
-        <biblScope unit="page">45–82</biblScope>
-        <publisher>Indiana University Press</publisher>
-        <date>1989</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-349-19932-7</idno>
-        <idno type="OCLC">18327428</idno>
-        <my:url type="InternetArchive">https://archive.org/details/sovietyouthcultu00rior</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Political Science / General</note>
-      <note type="tag">Social Science / General</note>
-      <note type="tag">Social Science / Sociology / General</note>
-      <note type="tag">Social Science / Sociology / Marriage &amp; Family</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="journalArticle" xml:id="cushman1991">
-    <analytic>
-      <title level="a">Rich Rastas and Communist Rockers: A Comparative Study of the Origin, Diffusion and Defusion of Revolutionary Musical Codes</title>
-      <author ref="authors.xml#cushman.t">
-        <forename>Thomas</forename>
-        <surname>Cushman</surname>
-      </author>
-      <my:access>
-        <idno type="DOI">10.1111/j.0022-3840.1991.174832.x</idno>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="j">Journal of Popular Culture</title>
-      <imprint>
-        <biblScope unit="volume">25</biblScope>
-        <biblScope unit="issue">3</biblScope>
-        <biblScope unit="page">17-61</biblScope>
-        <date>1991</date>
-      </imprint>
-    </monogr>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="grabarchuk2015">
-    <monogr>
-      <title level="m">The Soundtrack of Stagnation: Paradoxes within Soviet Rock and Pop of the 1970s</title>
-      <author ref="authors.xml#grabarchuk.a">
-        <forename>Alexandra</forename>
-        <surname>Grabarchuk</surname>
-      </author>
-      <imprint>
-        <date>2015</date>
-        <my:thesisType my:degree="PhD" my:label="dissertation"/>
-        <my:institution>University of California, Los Angeles</my:institution>
-      </imprint>
-      <my:access>
-        <my:url type="instRepo" my:repo="UC eScholarship">https://escholarship.org/uc/item/5jm0m00m</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Russian</note>
-      <note type="tag">Soviet</note>
-      <note type="tag">Rock music</note>
-      <note type="tag">Popular music</note>
-      <note type="tag">Communication and the arts</note>
-      <note type="tag">Estrada</note>
-      <note type="tag">Social sciences</note>
-    </note>
-    <my:references my:complete="no">
-      <my:cite>mcmichael2005</my:cite>
-      <my:cite>ramet1990</my:cite>
-      <my:cite>steinholt2003</my:cite>
-      <my:cite>yurchak1999</my:cite>
-      <my:cite>cushman1995</my:cite>
-      <my:cite>macfadyen2001</my:cite>
-      <my:cite>macfadyen2002</my:cite>
-      <my:cite>ramet1994</my:cite>
-      <my:cite>riordan1989</my:cite>
-      <my:cite>risch2015</my:cite>
-      <my:cite>ryback1990</my:cite>
-      <my:cite>steinholt2005</my:cite>
-      <my:cite>stites1992</my:cite>
-      <my:cite>troitsky1987</my:cite>
-      <my:cite>yurchak2006</my:cite>
-      <my:cite>zhuk2010</my:cite>
-    </my:references>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="cornish2020">
-    <monogr>
-      <title level="m">Sounding Socialist, Sounding Modern: Music, Technology, and Everyday Life in the Soviet Union, 1956-1975</title>
-      <author ref="authors.xml#cornish.g">
-        <forename>Gabrielle</forename>
-        <surname>Cornish</surname>
-      </author>
-      <imprint>
-        <date>2020</date>
-        <my:thesisType my:degree="PhD" my:label="dissertation"/>
-        <my:institution>University of Rochester</my:institution>
-      </imprint>
-      <my:access>
-        <my:url type="instRepo" my:repo="UR Research">http://hdl.handle.net/1802/36008</my:url>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Everyday life</note>
-      <note type="tag">Musicology</note>
-      <note type="tag">Organology</note>
-      <note type="tag">Soviet history</note>
-      <note type="tag">Technology</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="newspaperArticle" xml:id="bohlen1993">
-    <analytic>
-      <title level="a">In Russia's Free Market, Cultural Piracy Thrives</title>
-      <author ref="authors.xml#bohlen.c">
-        <forename>Celestine</forename>
-        <surname>Bohlen</surname>
-      </author>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-02-05">https://www.nytimes.com/1993/07/02/world/no-headline-951293.html</my:url>
-      </my:access>
-    </analytic>
-    <monogr>
-      <title level="m">The New York Times</title>
-      <imprint>
-        <biblScope unit="chapter">World</biblScope>
-        <date>1993</date>
-      </imprint>
-      <my:access>
-        <idno type="ISSN">0362-4331</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Books and Literature</note>
-      <note type="tag">COPYRIGHTS</note>
-      <note type="tag">Culture</note>
-      <note type="tag">Law and Legislation</note>
-      <note type="tag">MOTION PICTURES</note>
-      <note type="tag">Music</note>
-      <note type="tag">RECORDINGS (AUDIO)</note>
-      <note type="tag">Russia</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="thesis" xml:id="anderson2006">
-    <monogr>
-      <title level="m">Viktor Tsoi: Rock Star as Soviet Hero: Individual Resistance in the Lermontov Tradition</title>
-      <author ref="authors.xml#anderson.r">
-        <forename>Rebecca Diane</forename>
-        <surname>Anderson</surname>
-      </author>
-      <imprint>
-        <pubPlace>Canada</pubPlace>
-        <date>2006</date>
-        <my:thesisType my:degree="MA" my:label="thesis" my:discipline="History"/>
-        <my:institution>University of Alberta</my:institution>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-0-494-22139-6</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Communication and the arts</note>
-      <note type="tag">Social sciences</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="herbert2019">
-    <monogr>
-      <title level="m">What about Tomorrow?: An Oral History of Russian Punk from the Soviet Era to Pussy Riot</title>
-      <editor ref="authors.xml#herbert.a">
-        <forename>Alexander</forename>
-        <surname>Herbert</surname>
-      </editor>
-      <imprint>
-        <pubPlace>Portland, OR</pubPlace>
-        <publisher>Microcosm Publishing</publisher>
-        <date>2019</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-62106-404-6</idno>
-        <idno type="OCLC">1089890883</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">MUSIC / Ethnic</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="editedCollection" xml:id="coates2015">
-    <monogr>
-      <title level="m">X-ray Audio: The Strange Story of Soviet Music on the Bone</title>
-      <editor ref="authors.xml#coates.s">
-        <forename>Stephen</forename>
-        <surname>Coates</surname>
-      </editor>
-      <my:photographer>
-        <forename>Paul</forename>
-        <surname>Heartfield</surname>
-      </my:photographer>
-      <respStmt>
-        <resp>contributor</resp>
-        <persName>
-          <forename>Rudy</forename>
-          <surname>Fuchs</surname>
-        </persName>
-      </respStmt>
-      <respStmt>
-        <resp>contributor</resp>
-        <persName>
-          <forename>Aleks</forename>
-          <surname>Kolkowski</surname>
-        </persName>
-      </respStmt>
-      <respStmt>
-        <resp>contributor</resp>
-        <persName>
-          <forename>Maksim</forename>
-          <surname>Kravchinsky</surname>
-        </persName>
-      </respStmt>
-      <respStmt ref="authors.xml#troitsky.a">
-        <resp>contributor</resp>
-        <persName>
-          <forename>Artemy</forename>
-          <surname>Troitsky</surname>
-        </persName>
-      </respStmt>
-      <respStmt>
-        <resp>contributor</resp>
-        <persName>
-          <forename>Kolya</forename>
-          <surname>Vasin</surname>
-        </persName>
-      </respStmt>
-      <imprint>
-        <pubPlace>London</pubPlace>
-        <publisher>Strange Attractor Press</publisher>
-        <date>2015</date>
-      </imprint>
-      <my:access>
-        <idno type="ISBN">978-1-907222-38-2</idno>
-        <idno type="callNumber">ML3917.R8 X73 2015</idno>
-        <idno type="OCLC">920853668</idno>
-      </my:access>
-    </monogr>
-    <note type="tags">
-      <note type="tag">Censorship</note>
-      <note type="tag">Communism and music</note>
-      <note type="tag">Films</note>
-      <note type="tag">Music</note>
-      <note type="tag">Pirated editions</note>
-      <note type="tag">Radiography</note>
-      <note type="tag">Sound recordings</note>
-      <note type="tag">Soviet Union</note>
-    </note>
-    <my:references my:complete="no"/>
-  </biblStruct>
-  <biblStruct type="radioBroadcast" xml:id="coates2019">
-    <monogr>
-      <title level="m">Bone Music</title>
-      <respStmt ref="authors.xml#coates.s">
-        <resp>contributor</resp>
-        <persName>
-          <forename>Stephen</forename>
-          <surname>Coates</surname>
-        </persName>
-      </respStmt>
-      <respStmt>
-        <resp>producer</resp>
-        <persName>
-          <forename>Monica</forename>
-          <surname>Whitlock</surname>
-        </persName>
-      </respStmt>
-      <imprint>
-        <date>2019-11-17</date>
-      </imprint>
-      <my:access>
-        <my:url type="main" my:accessDate="2021-02-08">https://www.bbc.co.uk/programmes/m000bdjg</my:url>
-      </my:access>
-    </monogr>
-    <series>
-      <title level="s" type="program">Between the Ears</title>
-      <imprint>
-        <publisher>BBC Radio 3</publisher>
-      </imprint>
-    </series>
-  </biblStruct>
-</listBibl>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Soviet Rock Bibliography</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>A. Ruskin</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Soviet Rock Bibliography</head>
+      <listBibl>
+        <biblStruct type="website" xml:id="xray">
+          <monogr>
+            <title level="m">X-Ray Audio</title>
+            <idno type="live-url">https://www.x-rayaudio.com</idno>
+            <imprint>
+              <date>©2019</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="website" xml:id="unearthing">
+          <monogr>
+            <title level="m">Unearthing the Music: Sound and Creative Experimentation in
+              Non-democratic Europe</title>
+            <idno type="live-url">https://unearthingthemusic.eu/</idno>
+            <imprint>
+              <date>©2021</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="radioBroadcast" xml:id="zhuk2011">
+          <monogr>
+            <title level="m">How Rock and Roll Brought the Soviet Union Down</title>
+            <idno type="live-url"
+              >https://www.pri.org/stories/2011-05-19/how-rock-and-roll-brought-soviet-union-down</idno>
+            <author>
+              <forename>Brigid</forename>
+              <surname>McCarthy</surname>
+            </author>
+            <editor role="host">
+              <forename>Lisa</forename>
+              <surname>Mullins</surname>
+            </editor>
+            <editor role="interviewee" ref="authors.xml#zhuk.s">
+              <forename>Sergei</forename>
+              <surname>Zhuk</surname>
+            </editor>
+            <imprint>
+              <date>2011-05-19</date>
+              <publisher>Public Radio International</publisher>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s" type="program">The World</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="podcast" xml:id="troitsky2020b">
+          <monogr>
+            <title level="m">Bureau Of Lost Culture - A Short History of Soviet Counterculture
+              (26/04/2020)</title>
+            <idno type="live-url"
+              >https://www.mixcloud.com/sohoradio/bureau-of-lost-culture-a-short-history-of-soviet-counterculture-26042020/</idno>
+            <editor role="interviewee" ref="authors.xml#troitsky.a">
+              <forename>Artemy</forename>
+              <surname>Troitsky</surname>
+            </editor>
+            <imprint>
+              <date>2020-04-26</date>
+              <publisher>Mixcloud</publisher>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s" type="alternative">Soho Radio</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="podcast" xml:id="troitsky2019">
+          <monogr>
+            <title level="m">ROCK THE USSR (with Tom Garza)</title>
+            <idno type="live-url"
+              >https://www.slavxradio.com/sovietskyrock</idno>
+            <imprint>
+              <date>2019-10-28</date>
+              <publisher>Texas Podcast Network</publisher>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s" type="alternative">The Slavic Connexion</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="podcast" xml:id="troitsky2020a">
+          <monogr>
+            <title level="m">Rock the USSR Part 2 (with Artemy Troitsky and Tom Garza)</title>
+            <idno type="live-url"
+              >https://www.slavxradio.com/rocktheussr2</idno>
+            <imprint>
+              <date>2020-04-08</date>
+              <publisher>Texas Podcast Network</publisher>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s" type="alternative">The Slavic Connexion</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="lashcheva2019">
+          <analytic>
+            <title level="a"><q>For whatever reason in the cosmos, I’m connected to Russia
+                again.</q> Joanna Stingray brought Soviet rock to the West. We asked her about her
+              old friends and her new book</title>
+            <author ref="authors.xml#lashcheva.m">
+              <forename>Maria</forename>
+              <surname>Lashcheva</surname>
+            </author>
+            <author ref="authors.xml#kohen.h">
+              <forename>Hilah</forename>
+              <surname>Kohen</surname>
+            </author>
+            <editor role="interviewee" ref="authors.xml#stingray.j">
+              <forename>Joanna</forename>
+              <surname>Stingray</surname>
+            </editor>
+            <idno type="live-url"
+              >https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20190417042846/https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again</idno>
+          </analytic>
+          <monogr>
+            <title level="m">Meduza</title>
+            <imprint>
+              <date>2019-04-16</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="nicolov2016a">
+          <analytic>
+            <title level="a">Capturing the Soviet Union’s rock kids of the 1980s</title>
+            <author ref="authors.xml#nicolov.a">
+              <forename>Alice</forename>
+              <surname>Nicolov</surname>
+            </author>
+            <editor role="interviewee">
+              <forename>Igor</forename>
+              <surname>Mukhin</surname>
+            </editor>
+            <idno type="live-url"
+              >https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20160902143629/https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth</idno>
+          </analytic>
+          <monogr>
+            <title level="m">Dazed</title>
+            <imprint>
+              <date>2016-09-01</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="nicolov2016b">
+          <analytic>
+            <title level="a">The secret history of the Soviet X-ray vinyl black market</title>
+            <author ref="authors.xml#nicolov.a">
+              <forename>Alice</forename>
+              <surname>Nicolov</surname>
+            </author>
+            <editor role="interviewee" ref="authors.xml#coates.s">
+              <forename>Stephen</forename>
+              <surname>Coates</surname>
+            </editor>
+            <idno type="live-url"
+              >https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20160805054854/https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union</idno>
+          </analytic>
+          <monogr>
+            <title level="m">Dazed</title>
+            <imprint>
+              <date>2016-08-03</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="MA" xml:id="whalen2015">
+          <monogr>
+            <title level="m"><q>I Will Counterrevolution / I Will Stop All The Motion</q>: Archiving
+              Exile, Samizdat, and Underground Audio from the Eastern Bloc</title>
+            <author ref="authors.xml#whalen.a">
+              <forename>Allie</forename>
+              <surname>Whalen</surname>
+            </author>
+            <imprint>
+              <date>2015</date>
+              <publisher>New York University</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="MA" xml:id="tite2007">
+          <monogr>
+            <title level="m">The Discursive Construction of Punk: Language and Identity in Russia’s
+              Punk-Rock <q>Subculture</q></title>
+            <idno type="HDL">10012/2779</idno>
+            <author ref="authors.xml#tite.m">
+              <forename>Matthew Charles Everingham</forename>
+              <surname>Tite</surname>
+            </author>
+            <imprint>
+              <date>2007</date>
+              <publisher>University of Waterloo</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="PhD" xml:id="kveberg2012">
+          <monogr>
+            <title level="m">Moscow by Night: Musical Subcultures, Identity Formation, and Cultural
+              Evolution in Russia, 1977&#8211;2008</title>
+            <idno type="HDL">2142/42317</idno>
+            <author ref="authors.xml#kveberg.g">
+              <forename>Gregory</forename>
+              <surname>Kveberg</surname>
+            </author>
+            <imprint>
+              <date>2012</date>
+              <publisher>University of Illinois at Urbana Champaign</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="raspopina2016">
+          <analytic>
+            <title level="a">Rock in the USSR: new photos of the Leningrad underground during
+              perestroika</title>
+            <author ref="authors.xml#raspopina.s">
+              <forename>Sasha</forename>
+              <surname>Raspopina</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20160817144853/https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Calvert Journal</title>
+            <imprint>
+              <date>2016-08-16</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="kan2014">
+          <analytic>
+            <title level="a">Underground sound: Alexander Kan’s favourite tracks from 1980s
+              Leningrad</title>
+            <author ref="authors.xml#kan.a">
+              <forename>Alexander</forename>
+              <surname>Kan</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20140516041400/https://www.calvertjournal.com/features/show/2453/bbc-alexander-kan-playlist-music-1980s-leningrad-kino</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Calvert Journal</title>
+            <imprint>
+              <date>2014-05-08</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="fedorova2017">
+          <analytic>
+            <title level="a">Remembering Viktor Tsoi: why the rebellious rock poet is still a hero
+              for our time</title>
+            <author ref="authors.xml#fedorova.a">
+              <forename>Anastasiia</forename>
+              <surname>Fedorova</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.calvertjournal.com/articles/show/8741/viktor-tsoi-rockstar-soviet-music</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Calvert Journal</title>
+            <imprint>
+              <date>2017-08-15</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="schreck2014">
+          <analytic>
+            <title level="a">A Brief History of Soviet Rock and Roll</title>
+            <author ref="authors.xml#schreck.c">
+              <forename>Carl</forename>
+              <surname>Schreck</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Atlantic</title>
+            <imprint>
+              <date>2014-04-21</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="magazineArticle" xml:id="bennetts2014">
+          <analytic>
+            <title level="a">Raging in the cold: the Siberian punk who changed the face of Russian
+              music</title>
+            <author ref="authors.xml#bennetts.m">
+              <forename>Marc</forename>
+              <surname>Bennetts</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20200812165313/https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Calvert Journal</title>
+            <imprint>
+              <date>2014-09-23</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="yoffe2005">
+          <analytic>
+            <title level="a">Conceptual Carnival: National Elements in Russian Nationalist Rock
+              Music</title>
+            <author ref="authors.xml#yoffe.m">
+              <forename>Mark</forename>
+              <surname>Yoffe</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rock &amp; Roll and Nationalism: A Multinational Perspective</title>
+            <idno type="ISBN">978-1-904303-56-5</idno>
+            <idno type="OCLC">799947320</idno>
+            <editor ref="authors.xml#yoffe.m">
+              <forename>Mark</forename>
+              <surname>Yoffe</surname>
+            </editor>
+            <editor>
+              <forename>Andrea</forename>
+              <surname>Collins</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Newcastle-upon-Tyne</pubPlace>
+              <publisher>Cambridge Scholars Press</publisher>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="sosin1975">
+          <analytic>
+            <title level="a">Magnitizdat: The Uncensored Songs of Dissent</title>
+            <author ref="authors.xml#sosin.g">
+              <forename>Gene</forename>
+              <surname>Sosin</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Dissent in the USSR: Politics, Ideology, and People</title>
+            <idno type="ISBN">978-0-8018-1838-7</idno>
+            <idno type="ISBN">978-0-8018-1661-1</idno>
+            <idno type="OCLC">3419256</idno>
+            <idno type="InternetArchive">dissentinussrpol0000unse_k0k5</idno>
+            <idno type="ARK">13960/t49q1nd30</idno>
+            <editor>
+              <forename>Rudolf L.</forename>
+              <surname>Tőkés</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Baltimore, MD</pubPlace>
+              <biblScope unit="page">276&#8211;309</biblScope>
+              <publisher>Johns Hopkins University Press</publisher>
+              <date>1975</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="mcmichael2008a">
+          <analytic>
+            <title level="a">Imagining Soviet Rock: Akvarium’s <hi rend="italics"
+              >Triangle</hi></title>
+            <author ref="authors.xml#mcmichael.p">
+              <forename>Polly</forename>
+              <surname>McMichael</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Picturing Russia: Explorations in Visual Culture</title>
+            <idno type="ISBN">978-0-300-16421-3</idno>
+            <idno type="ISBN">978-0-300-11961-9</idno>
+            <idno type="OCLC">1150935598</idno>
+            <editor>
+              <forename>Valerie A.</forename>
+              <surname>Kivelson</surname>
+            </editor>
+            <editor>
+              <forename>Joan</forename>
+              <surname>Neuberger</surname>
+            </editor>
+            <imprint>
+              <pubPlace>New Haven, CT</pubPlace>
+              <biblScope unit="page">239&#8211;42</biblScope>
+              <publisher>Yale University Press</publisher>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="gololobov2015">
+          <analytic>
+            <title level="a">Russian Punk in ‘the Biggest Village on Earth’</title>
+            <author ref="authors.xml#gololobov.i">
+              <forename>Ivan</forename>
+              <surname>Gololobov</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hopeless Youth!</title>
+            <idno type="ISBN">978-9949-548-10-1</idno>
+            <idno type="callNumber">HQ796 .H657 2015</idno>
+            <idno type="OCLC">938596374</idno>
+            <idno type="live-url"
+              >https://researchportal.helsinki.fi/en/publications/hopeless-youth</idno>
+            <editor>
+              <forename>Francisco</forename>
+              <surname>Martínez</surname>
+            </editor>
+            <editor>
+              <forename>Pille</forename>
+              <surname>Runnel</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Tartu</pubPlace>
+              <biblScope unit="page">331&#8211;48</biblScope>
+              <publisher>Estonian National Museum</publisher>
+              <date>2015</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="glossop1998">
+          <analytic>
+            <title level="a">On the Peculiarities of Soviet Rock and Roll</title>
+            <author ref="authors.xml#glossop.n">
+              <forename>Nicholas</forename>
+              <surname>Glossop</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Intersections and Transpositions: Russian Music, Literature, and
+              Society</title>
+            <idno type="ISBN">978-0-8101-1580-4</idno>
+            <idno type="callNumber">ML3849 .I6 1998</idno>
+            <idno type="OCLC">38474619</idno>
+            <editor>
+              <forename>Andrew</forename>
+              <surname>Wachtel</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Evanston, IL</pubPlace>
+              <biblScope unit="page">274&#8211;98</biblScope>
+              <publisher>Northwestern University Press</publisher>
+              <date>1998</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studies in Russian literature and theory</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="friedman1999">
+          <analytic>
+            <title level="a">Between a Rock and a Hard Place: Holy Rus’ and Its Alternatives in
+              Russian Rock Music</title>
+            <author ref="authors.xml#friedman.j">
+              <forename>Julia P.</forename>
+              <surname>Friedman</surname>
+            </author>
+            <author ref="authors.xml#weiner.a">
+              <forename>Adam</forename>
+              <surname>Weiner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Consuming Russia: Popular Culture, Sex, and Society Since
+              Gorbachev</title>
+            <idno type="ISBN">978-0-8223-9641-3</idno>
+            <idno type="OCLC">1148134281</idno>
+            <idno type="InternetArchive">consumingrussia00adel/</idno>
+            <editor>
+              <forename>Adele Marie</forename>
+              <surname>Barker</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Durham</pubPlace>
+              <biblScope unit="page">110&#8211;37</biblScope>
+              <publisher>Duke University Press</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="pilkington2014">
+          <analytic>
+            <title level="a">Sounds of a ‘Rotting City’: Punk in Russia’s Arctic Hinterland</title>
+            <author ref="authors.xml#pilkington.h">
+              <forename>Hilary</forename>
+              <surname>Pilkington</surname>
+            </author>
+            <idno type="DOI">10.1057/9781137283115_10</idno>
+          </analytic>
+          <monogr>
+            <title level="m">Sounds and the City</title>
+            <idno type="ISBN">978-1-349-44890-6</idno>
+            <idno type="ISBN">978-1-137-28311-5</idno>
+            <idno type="OCLC">1023129998</idno>
+            <idno type="DOI">10.1057/9781137283115</idno>
+            <editor>
+              <forename>Brett</forename>
+              <surname>Lashua</surname>
+            </editor>
+            <editor>
+              <forename>Karl</forename>
+              <surname>Spracklen</surname>
+            </editor>
+            <editor>
+              <forename>Stephen</forename>
+              <surname>Wagg</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="page">162&#8211;82</biblScope>
+              <publisher>Palgrave Macmillan</publisher>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="pilkington2016">
+          <analytic>
+            <title level="a"><q>If You Want to Live, You Better Know How to Fight</q>: Fighting
+              Masculinity on the Russian Punk Scene</title>
+            <author ref="authors.xml#pilkington.h">
+              <forename>Hilary</forename>
+              <surname>Pilkington</surname>
+            </author>
+            <idno type="DOI">10.7765/9781847799616.00010</idno>
+          </analytic>
+          <monogr>
+            <title level="m">Fight Back: Punk, Politics and Resistance</title>
+            <idno type="ISBN">978-1-84779-961-6</idno>
+            <idno type="OCLC">992548960</idno>
+            <idno type="DOI">10.7765/9781847799616</idno>
+            <editor>
+              <forename>The</forename>
+              <surname>Subcultures Network</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Manchester</pubPlace>
+              <publisher>Manchester University Press</publisher>
+              <date>2016</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="MA" xml:id="vonfaust2014">
+          <monogr>
+            <title level="m">Banned in the USSR: Counterculture, State Media, and Public Opinion
+              During the Soviet Union's Final Decade</title>
+            <idno type="DOI">10.7282/T39P2ZX7</idno>
+            <author ref="authors.xml#vonfaust.b">
+              <forename>Boris</forename>
+              <surname>Von Faust</surname>
+            </author>
+            <imprint>
+              <date>2014</date>
+              <publisher>Rutgers, The State University of New Jersey</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zaporozhets2020">
+          <analytic>
+            <title level="a">Music Geography in Russia: Non-Auratic Places and Institutionalization
+                <q>in Becoming</q></title>
+            <author ref="authors.xml#zaporozhets.o">
+              <forename>Oksana</forename>
+              <surname>Zaporozhets</surname>
+            </author>
+            <author ref="authors.xml#kolesnik.a">
+              <forename>Alexandra</forename>
+              <surname>Kolesnik</surname>
+            </author>
+            <idno type="DOI">10.1080/08873631.2019.1703450</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of Cultural Geography</title>
+            <idno type="ISSN">0887-3631, 1940-6320</idno>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">1&#8211;25</biblScope>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="yoffe2020">
+          <analytic>
+            <title level="a">Soviet Rock Collection and International Counterculture Archive at the
+              Global Resources Center of the George Washington University Libraries</title>
+            <author ref="authors.xml#yoffe.m">
+              <forename>Mark</forename>
+              <surname>Yoffe</surname>
+            </author>
+            <idno type="DOI">10.1080/15228886.2020.1756943</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Slavic &amp; East European Information Resources</title>
+            <idno type="ISSN">1522-8886, 1522-9041</idno>
+            <imprint>
+              <biblScope unit="volume">21</biblScope>
+              <biblScope unit="issue">1-2</biblScope>
+              <biblScope unit="page">112&#8211;132</biblScope>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="yoffe2013">
+          <analytic>
+            <title level="a">The <hi rend="italics">Stiob</hi> of Ages: Carnivalesque Traditions in
+              Soviet Rock and Related Counterculture</title>
+            <author ref="authors.xml#yoffe.m">
+              <forename>Mark</forename>
+              <surname>Yoffe</surname>
+            </author>
+            <idno type="DOI">10.1016/j.ruslit.2013.10.010</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Russian Literature</title>
+            <idno type="ISSN">03043479</idno>
+            <imprint>
+              <biblScope unit="volume">74</biblScope>
+              <biblScope unit="issue">1&#8211;2</biblScope>
+              <biblScope unit="page">207&#8211;25</biblScope>
+              <date>2013</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="wickstrom2009">
+          <analytic>
+            <title level="a">Visions of the (Holy) Motherland in Contemporary Russian Popular Music:
+              Nostalgia, Patriotism, Religion and <hi rend="italics">Russkii Rok</hi></title>
+            <author ref="authors.xml#wickstrom.d">
+              <forename>David-Emil</forename>
+              <surname>Wickström</surname>
+            </author>
+            <author ref="authors.xml#steinholt.y">
+              <forename>Yngvar B.</forename>
+              <surname>Steinholt</surname>
+            </author>
+            <idno type="DOI">10.1080/03007760902985668</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music and Society</title>
+            <idno type="ISSN">0300-7766, 1740-1712</idno>
+            <imprint>
+              <biblScope unit="volume">32</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">313&#8211;330</biblScope>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="vonfaust2016">
+          <analytic>
+            <title level="a">Let There Be Rock: <q>Western</q> Heavy Metal in Soviet Press and
+              Public Opinion During the Soviet Union’s Final Decade</title>
+            <author ref="authors.xml#vonfaust.b">
+              <forename>Boris</forename>
+              <surname>Von Faust</surname>
+            </author>
+            <idno type="DOI">10.1386/mms.2.3.377_1</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Metal Music Studies</title>
+            <idno type="ISSN">2052-3998</idno>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">377&#8211;393</biblScope>
+              <date>2016</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="trotter2019">
+          <analytic>
+            <title level="a">A Digital Voice for Russian Rock: Perspectives on Digitization of
+              Russian Rock <hi rend="italics">Zines</hi></title>
+            <author ref="authors.xml#trotter.v">
+              <forename>Veronika</forename>
+              <surname>Trotter</surname>
+            </author>
+            <idno type="DOI">10.1080/15228886.2019.1628499</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Slavic &amp; East European Information Resources</title>
+            <idno type="ISSN">1522-8886, 1522-9041</idno>
+            <imprint>
+              <biblScope unit="volume">20</biblScope>
+              <biblScope unit="issue">1-2</biblScope>
+              <biblScope unit="page">31&#8211;8</biblScope>
+              <date>2019</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="steinholt2012">
+          <analytic>
+            <title level="a">Siberian Punk Shall Emerge Here: Egor Letov and Grazhdanskaia
+              Oborona</title>
+            <author ref="authors.xml#steinholt.y">
+              <forename>Yngvar B.</forename>
+              <surname>Steinholt</surname>
+            </author>
+            <idno type="DOI">10.1017/s0261143012000311</idno>
+            <idno type="JSTOR">23325785</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music</title>
+            <idno type="ISSN">0261-1430</idno>
+            <imprint>
+              <biblScope unit="volume">31</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">401&#8211;15</biblScope>
+              <date>2012</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="steinholt2003">
+          <analytic>
+            <title level="a">You Can't Rid a Song of Its Words: Notes on the Hegemony of Lyrics in
+              Russian Rock Songs</title>
+            <author ref="authors.xml#steinholt.y">
+              <forename>Yngvar B.</forename>
+              <surname>Steinholt</surname>
+            </author>
+            <idno type="DOI">10.1017/S0261143003003064</idno>
+            <idno type="JSTOR">853558</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music</title>
+            <idno type="ISSN">0261-1430</idno>
+            <imprint>
+              <biblScope unit="volume">22</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">89&#8211;108</biblScope>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="six2008">
+          <analytic>
+            <title level="a"><q>Born in the USSR</q>: Searching High and Low for Post-Soviet
+              Identity</title>
+            <author ref="authors.xml#six.i">
+              <forename>Irina</forename>
+              <surname>Six</surname>
+            </author>
+            <idno type="JSTOR">25748190</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Ulbandus Review</title>
+            <idno type="ISSN">0163-450X</idno>
+            <imprint>
+              <biblScope unit="volume">11</biblScope>
+              <biblScope unit="issue">2008</biblScope>
+              <biblScope unit="page">232&#8211;51</biblScope>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="rogatchevski2016">
+          <analytic>
+            <title level="a">Pussy Riot’s Musical Precursors? The National Bolshevik Party Bands,
+              1994&#8211;2007</title>
+            <author ref="authors.xml#rogatchevski.a">
+              <forename>Andrei</forename>
+              <surname>Rogatchevski</surname>
+            </author>
+            <author ref="authors.xml#steinholt.y">
+              <forename>Yngvar B.</forename>
+              <surname>Steinholt</surname>
+            </author>
+            <idno type="DOI">10.1080/03007766.2015.1088287</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music and Society</title>
+            <idno type="ISSN">0300-7766, 1740-1712</idno>
+            <imprint>
+              <biblScope unit="volume">39</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">448&#8211;64</biblScope>
+              <date>2016</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="rayport1995">
+          <analytic>
+            <title level="a">Negotiating Identity in a World Turned Upside Down: Russian Youth
+              Cultural Practice in Leningrad, 1990-1991</title>
+            <author ref="authors.xml#rayport.j">
+              <forename>Jennifer S.</forename>
+              <surname>Rayport</surname>
+            </author>
+            <idno type="DOI">10.1525/pol.1995.18.1.57</idno>
+          </analytic>
+          <monogr>
+            <title level="j">PoLAR: Political and Legal Anthropology Review</title>
+            <idno type="ISSN">1081-6976</idno>
+            <imprint>
+              <biblScope unit="volume">18</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">57&#8211;62</biblScope>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="ramet1990">
+          <analytic>
+            <title level="a">The Soviet Rock Scene</title>
+            <author ref="authors.xml#ramet.s">
+              <forename>Pedro</forename>
+              <surname>Ramet</surname>
+            </author>
+            <author ref="authors.xml#zamascikov.s">
+              <forename>Sergei</forename>
+              <surname>Zamascikov</surname>
+            </author>
+            <idno type="DOI">10.1111/j.0022-3840.1990.00149.x</idno>
+          </analytic>
+          <monogr>
+            <title level="j">The Journal of Popular Culture</title>
+            <idno type="ISSN">00223840</idno>
+            <imprint>
+              <biblScope unit="volume">24</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">149&#8211;74</biblScope>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="pond1987">
+          <analytic>
+            <title level="a">Soviet Rock Lyrics: Their Content and Poetics</title>
+            <author ref="authors.xml#pond.i">
+              <forename>Irina</forename>
+              <surname>Pond</surname>
+            </author>
+            <idno type="DOI">10.1080/03007768708591298</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music and Society</title>
+            <idno type="ISSN">0300-7766, 1740-1712</idno>
+            <imprint>
+              <biblScope unit="volume">11</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">75&#8211;91</biblScope>
+              <date>1987</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="mcmichael2009">
+          <analytic>
+            <title level="a">Prehistories and Afterlives: The Packaging and Re-packaging of Soviet
+              Rock</title>
+            <author ref="authors.xml#mcmichael.p">
+              <forename>Polly</forename>
+              <surname>McMichael</surname>
+            </author>
+            <idno type="DOI">10.1080/03007760902985791</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music and Society</title>
+            <idno type="ISSN">0300-7766, 1740-1712</idno>
+            <imprint>
+              <biblScope unit="volume">32</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">331&#8211;50</biblScope>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="mcmichael2008b">
+          <analytic>
+            <title level="a">Translation, Authorship and Authenticity in Soviet Rock
+              Songwriting</title>
+            <author ref="authors.xml#mcmichael.p">
+              <forename>Polly</forename>
+              <surname>McMichael</surname>
+            </author>
+            <idno type="DOI">10.1080/13556509.2008.10799256</idno>
+          </analytic>
+          <monogr>
+            <title level="j">The Translator</title>
+            <idno type="ISSN">1355-6509, 1757-0409</idno>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">201&#8211;28</biblScope>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="mcmichael2005">
+          <analytic>
+            <title level="a"><q>After All, You're a Rock and Roll Star (At Least, That's What They
+                Say)</q>: <hi rend="italics">Roksi</hi> and the Creation of the Soviet Rock
+              Musician</title>
+            <author ref="authors.xml#mcmichael.p">
+              <forename>Polly</forename>
+              <surname>McMichael</surname>
+            </author>
+            <idno type="JSTOR">4214174</idno>
+          </analytic>
+          <monogr>
+            <title level="j">The Slavonic and East European Review</title>
+            <idno type="ISSN">0037-6795</idno>
+            <imprint>
+              <biblScope unit="volume">83</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">664&#8211;84</biblScope>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="glossop1991">
+          <analytic>
+            <title level="a">Recent Developments in Soviet Record Production</title>
+            <author ref="authors.xml#glossop.n">
+              <forename>Nicholas</forename>
+              <surname>Glossop</surname>
+            </author>
+            <idno type="DOI">10.1017/S0261143000004700</idno>
+            <idno type="JSTOR">853152</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music</title>
+            <idno type="ISSN">0261-1430</idno>
+            <imprint>
+              <biblScope unit="volume">10</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">347&#8211;49</biblScope>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="macfadyen2010">
+          <analytic>
+            <title level="a">The Russian <q>Rockumentary</q>: Documentary Films and Rock, Pop, and
+              Chanson</title>
+            <author ref="authors.xml#macfadyen.d">
+              <forename>David</forename>
+              <surname>Macfadyen</surname>
+            </author>
+            <idno type="DOI">10.1111/j.1467-9434.2010.00586.x</idno>
+          </analytic>
+          <monogr>
+            <title level="j">The Russian Review</title>
+            <idno type="ISSN">00360341</idno>
+            <imprint>
+              <biblScope unit="volume">69</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">670&#8211;88</biblScope>
+              <date>2010</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="furst2014">
+          <analytic>
+            <title level="a">Love, Peace and Rock ’n’ Roll on Gorky Street: The ‘Emotional Style’ of
+              the Soviet Hippie Community</title>
+            <author ref="authors.xml#furst.j">
+              <forename>Juliane</forename>
+              <surname>Fürst</surname>
+            </author>
+            <idno type="DOI">10.1017/S0960777314000320</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Contemporary European History</title>
+            <idno type="ISSN">0960-7773, 1469-2171</idno>
+            <imprint>
+              <biblScope unit="volume">23</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">565&#8211;87</biblScope>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="dobrotvorskaja1992">
+          <analytic>
+            <title level="a">Soviet Teens of the 1970s: Rock Generation, Rock Refusal, Rock
+              Context</title>
+            <author ref="authors.xml#dobrotvorskaja.e">
+              <forename>Ekaterina</forename>
+              <surname>Dobrotvorskaja</surname>
+            </author>
+            <idno type="DOI">10.1111/j.0022-3840.1992.2603_145.x</idno>
+          </analytic>
+          <monogr>
+            <title level="j">The Journal of Popular Culture</title>
+            <idno type="ISSN">00223840</idno>
+            <imprint>
+              <biblScope unit="volume">26</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">145&#8211;50</biblScope>
+              <date>1992</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="daughtry2009">
+          <analytic>
+            <title level="a"><q>Sonic Samizdat</q>: Situating Unofficial Recording in the
+              Post-Stalinist Soviet Union</title>
+            <author ref="authors.xml#daughtry.j">
+              <forename>J. Martin</forename>
+              <surname>Daughtry</surname>
+            </author>
+            <idno type="DOI">10.1215/03335372-2008-002</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Poetics Today</title>
+            <idno type="ISSN">0333-5372, 1527-5507</idno>
+            <imprint>
+              <biblScope unit="volume">30</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">27&#8211;65</biblScope>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="amico2014">
+          <analytic>
+            <title level="a"><q>The Most Martian of Martianesses</q>: Zhanna Aguzarova,
+              (Post-)Soviet Rock ‘n’ Roll, and the Musico-Linguistic Creation of the
+              ‘Outside’</title>
+            <author ref="authors.xml#amico.s">
+              <forename>Stephen</forename>
+              <surname>Amico</surname>
+            </author>
+            <idno type="DOI">10.1017/S0261143014000294</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Popular Music</title>
+            <idno type="ISSN">0261-1430, 1474-0095</idno>
+            <imprint>
+              <biblScope unit="volume">33</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">243&#8211;67</biblScope>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="zaitsev1990">
+          <monogr>
+            <title level="m">Soviet Rock: 25 Years in the Underground + 5 Years of Freedom</title>
+            <idno type="ISBN">978-5-01-001983-9</idno>
+            <idno type="callNumber">ML3534 .S62 1990</idno>
+            <idno type="OCLC">26974356</idno>
+            <idno type="InternetArchive">sovietrock25year00zait</idno>
+            <idno type="ARK">13960/t6nz95r3s</idno>
+            <editor>
+              <forename>Igor</forename>
+              <surname>Zaitsev</surname>
+            </editor>
+            <editor role="translator">
+              <forename>Mark</forename>
+              <surname>Buser</surname>
+            </editor>
+            <editor role="translator">
+              <forename>Dmitry</forename>
+              <surname>Linnik</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Moscow</pubPlace>
+              <publisher>Progress Publishers</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="risch2015">
+          <monogr>
+            <title level="m">Youth and Rock in the Soviet Bloc: Youth Cultures, Music, and the State
+              in Russia and Eastern Europe</title>
+            <idno type="ISBN">978-0-7391-6693-2</idno>
+            <idno type="ISBN">978-0-7391-7823-2</idno>
+            <idno type="callNumber">ML3917.E852 Y68 2015</idno>
+            <idno type="OCLC">892055977</idno>
+            <editor>
+              <forename>William Jay</forename>
+              <surname>Risch</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Lanham, Maryland</pubPlace>
+              <publisher>Lexington Books</publisher>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="ramet1994">
+          <monogr>
+            <title level="m">Rocking the State: Rock Music and Politics in Eastern Europe and
+              Russia</title>
+            <idno type="ISBN">978-0-8133-1762-5</idno>
+            <idno type="ISBN">978-0-8133-1763-2</idno>
+            <idno type="callNumber">ML3534 .R6384 1994</idno>
+            <idno type="OCLC">28798067</idno>
+            <editor ref="authors.xml#ramet.s">
+              <forename>Sabrina P.</forename>
+              <surname>Ramet</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Boulder</pubPlace>
+              <publisher>Westview Press</publisher>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="gololobov2016">
+          <monogr>
+            <title level="m">Punk in Russia: Cultural Mutation from the 'Useless' to the
+              'Moronic'</title>
+            <idno type="ISBN">978-0-415-78810-6</idno>
+            <idno type="OCLC">960836447</idno>
+            <editor ref="authors.xml#gololobov.i">
+              <forename>Ivan</forename>
+              <surname>Gololobov</surname>
+            </editor>
+            <editor ref="authors.xml#pilkington.h">
+              <forename>Hilary</forename>
+              <surname>Pilkington</surname>
+            </editor>
+            <editor ref="authors.xml#steinholt.y">
+              <forename>Yngvar Bordewich</forename>
+              <surname>Steinholt</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London, New York</pubPlace>
+              <publisher>Routledge</publisher>
+              <date>2016</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="furst2017">
+          <monogr>
+            <title level="m">Dropping Out of Socialism: the Creation of Alternative Spheres in the
+              Soviet Bloc</title>
+            <idno type="ISBN">978-1-4985-2515-2 978-1-4985-2514-5</idno>
+            <idno type="OCLC">1100929536</idno>
+            <editor ref="authors.xml#furst.j">
+              <forename>Juliane</forename>
+              <surname>Fürst</surname>
+            </editor>
+            <editor>
+              <forename>Josie</forename>
+              <surname>McLellan</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Lanham</pubPlace>
+              <publisher>Lexington Books</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="bluml2019">
+          <monogr>
+            <title level="m">Popular Music in Communist and Post-Communist Europe</title>
+            <idno type="ISBN">978-3-631-78401-3</idno>
+            <idno type="ISBN">978-3-631-78400-6</idno>
+            <idno type="ISBN">978-3-631-78402-0</idno>
+            <idno type="ISBN">978-3-631-77463-2</idno>
+            <idno type="DOI">10.3726/b15374</idno>
+            <idno type="OCLC">1090283753</idno>
+            <editor>
+              <forename>Jan</forename>
+              <surname>Blüml</surname>
+            </editor>
+            <editor>
+              <forename>Yvetta</forename>
+              <surname>Kajanová</surname>
+            </editor>
+            <editor>
+              <forename>Rüdiger</forename>
+              <surname>Ritter</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Switzerland</pubPlace>
+              <publisher>Peter Lang</publisher>
+              <date>2019</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zhuk2010">
+          <monogr>
+            <title level="m">Rock and Roll in the Rocket City: The West, Identity, and Ideology in
+              Soviet Dniepropetrovsk, 1960–1985</title>
+            <idno type="ISBN">978-0-8018-9550-0</idno>
+            <idno type="callNumber">ML3917.R8 Z58 2010</idno>
+            <idno type="OCLC">468972516</idno>
+            <author ref="authors.xml#zhuk.s">
+              <forename>Sergei I.</forename>
+              <surname>Zhuk</surname>
+            </author>
+            <imprint>
+              <pubPlace>Washington, D.C.</pubPlace>
+              <publisher>Woodrow Wilson Center Press</publisher>
+              <date>2010</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="woodhead2013">
+          <monogr>
+            <title level="m">How the Beatles Rocked the Kremlin: The Untold Story of a Noisy
+              Revolution</title>
+            <idno type="ISBN">978-1-60819-614-2</idno>
+            <idno type="callNumber">ML3534.R8 W66 2012</idno>
+            <idno type="OCLC">795174334</idno>
+            <idno type="InternetArchive">howbeatlesrocked0000wood</idno>
+            <idno type="ARK">13960/t5r84rz3c</idno>
+            <author ref="authors.xml#woodhead.l">
+              <forename>Leslie</forename>
+              <surname>Woodhead</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Bloomsbury</publisher>
+              <date>2013</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="wickstrom2011">
+          <monogr>
+            <title level="m">Rocking St. Petersburg: Transcultural Flows and Identity Politics in
+              Post-Soviet Popular Music</title>
+            <idno type="ISBN">978-3-8382-0100-9</idno>
+            <idno type="callNumber">ML3497.8.S25 W53 2011</idno>
+            <idno type="OCLC">888955842</idno>
+            <author ref="authors.xml#wickstrom.d">
+              <forename>David-Emil</forename>
+              <surname>Wickström</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Ibidem Verlag</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Soviet and post-soviet politics and society</title>
+            <biblScope unit="volume">Vol. 101</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tsipursky2016">
+          <monogr>
+            <title level="m">Socialist Fun: Youth, Consumption, and State-Sponsored Popular Culture
+              in the Soviet Union, 1945-1970</title>
+            <idno type="ISBN">978-0-8229-6396-7</idno>
+            <idno type="callNumber">HQ799.S69 T76 2016</idno>
+            <idno type="OCLC">910334493</idno>
+            <author ref="authors.xml#tsipursky.g">
+              <forename>Gleb</forename>
+              <surname>Tsipursky</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pittsburgh</pubPlace>
+              <publisher>University of Pittsburgh Press</publisher>
+              <date>2016</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Pitt series in Russian and East European studies</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="troitsky1990">
+          <monogr>
+            <title level="m">Tusovka: Who's Who in the New Soviet Rock Culture</title>
+            <idno type="ISBN">978-0-7119-1469-8</idno>
+            <idno type="callNumber">ML3534 .T76 1990</idno>
+            <idno type="OCLC">26806394</idno>
+            <author ref="authors.xml#troitsky.a">
+              <forename>Artemy</forename>
+              <surname>Troitsky</surname>
+            </author>
+            <imprint>
+              <pubPlace>London, New York</pubPlace>
+              <publisher>Omnibus Press</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="troitsky1987">
+          <monogr>
+            <title level="m">Back in the USSR: The True Story of Rock in Russia</title>
+            <idno type="ISBN">978-0-571-12997-3</idno>
+            <idno type="callNumber">ML3497 .T76 1988</idno>
+            <idno type="OCLC">758476375</idno>
+            <idno type="InternetArchive">backinussrtruest00troit</idno>
+            <idno type="ARK">13960/t7pp02w9n</idno>
+            <author ref="authors.xml#troitsky.a">
+              <forename>Artemy</forename>
+              <surname>Troitsky</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Faber</publisher>
+              <date>1987</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="stites1992">
+          <monogr>
+            <title level="m">Russian Popular Culture: Entertainment and Society Since 1900</title>
+            <idno type="ISBN">978-0-521-36214-6</idno>
+            <idno type="ISBN">978-0-521-36986-2</idno>
+            <idno type="callNumber">DK266.4 .S76 1992</idno>
+            <idno type="OCLC">24431153</idno>
+            <idno type="InternetArchive">russianpopularcu00stit</idno>
+            <idno type="ARK">13960/t58d1111h</idno>
+            <author ref="authors.xml#stites.r">
+              <forename>Richard</forename>
+              <surname>Stites</surname>
+            </author>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>Cambridge University Press</publisher>
+              <date>1992</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Cambridge Soviet paperbacks</title>
+            <biblScope unit="volume">7</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="stingray2020">
+          <monogr>
+            <title level="m">Red Wave: An American in the Soviet Music Underground</title>
+            <idno type="ISBN">978-1-73395-792-2</idno>
+            <idno type="OCLC">1142340352</idno>
+            <author ref="authors.xml#stingray.j">
+              <forename>Joanna</forename>
+              <surname>Stingray</surname>
+            </author>
+            <author ref="authors.xml#stingray.m">
+              <forename>Madison</forename>
+              <surname>Stingray</surname>
+            </author>
+            <imprint>
+              <pubPlace>Los Angeles</pubPlace>
+              <publisher>DoppelHouse Press</publisher>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="steinholt2005">
+          <monogr>
+            <title level="m">Rock in the Reservation: Songs from Leningrad Rock Club 1981-86</title>
+            <idno type="ISBN">978-0-9701684-3-6</idno>
+            <idno type="OCLC">165872118</idno>
+            <idno type="HDL">10037/3704</idno>
+            <author ref="authors.xml#steinholt.y">
+              <forename>Yngvar Bordewich</forename>
+              <surname>Steinholt</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Mass Media Music Scholars' Press</publisher>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="ryback1990">
+          <monogr>
+            <title level="m">Rock Around the Bloc: A History of Rock Music in Eastern Europe and the
+              Soviet Union</title>
+            <idno type="ISBN">978-0-19-505633-4</idno>
+            <idno type="callNumber">ML3534 .R9 1990</idno>
+            <idno type="OCLC">19623657</idno>
+            <idno type="InternetArchive">rockaroundblochi0000ryba</idno>
+            <idno type="ARK">13960/t1wf42t73</idno>
+            <author ref="authors.xml#ryback.t">
+              <forename>Timothy W.</forename>
+              <surname>Ryback</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="pierobon2014">
+          <monogr>
+            <title level="m">Music and Political Youth Organizations in Russia</title>
+            <idno type="ISBN">978-3-658-04312-4</idno>
+            <idno type="ISBN">978-3-658-04313-1</idno>
+            <idno type="DOI">10.1007/978-3-658-04313-1</idno>
+            <idno type="OCLC">1066471465</idno>
+            <author ref="authors.xml#pierobon.c">
+              <forename>Chiara</forename>
+              <surname>Pierobon</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>Springer VS</publisher>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="pelyushonok2004">
+          <monogr>
+            <title level="m">Strings for a Beatle Bass: The Beatles Generation in the USSR</title>
+            <idno type="ISBN">978-0-9682258-8-2</idno>
+            <idno type="OCLC">56107984</idno>
+            <author ref="authors.xml#pelyushonok.y">
+              <forename>Yury</forename>
+              <surname>Pelyushonok</surname>
+            </author>
+            <editor role="translator">
+              <forename>Olga</forename>
+              <surname>Sansom</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Ottawa</pubPlace>
+              <publisher>PLY Publisher</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="macfadyen2001">
+          <monogr>
+            <title level="m">Red Stars: Personality and the Soviet Popular Song, 1955-1991</title>
+            <idno type="ISBN">978-0-7735-2106-3</idno>
+            <idno type="callNumber">ML3497 .M33 2001</idno>
+            <idno type="OCLC">45485871</idno>
+            <idno type="JSTOR">j.ctt811qw</idno>
+            <author ref="authors.xml#macfadyen.d">
+              <forename>David</forename>
+              <surname>MacFadyen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Montreal</pubPlace>
+              <publisher>McGill-Queen's University Press</publisher>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="cushman1995">
+          <monogr>
+            <title level="m">Notes from Underground: Rock Music Counterculture in Russia</title>
+            <idno type="ISBN">978-0-7914-2543-5</idno>
+            <idno type="ISBN">978-0-7914-2544-2</idno>
+            <idno type="callNumber">ML3534 .C88 1995</idno>
+            <idno type="OCLC">31937131</idno>
+            <author ref="authors.xml#cushman.t">
+              <forename>Thomas</forename>
+              <surname>Cushman</surname>
+            </author>
+            <imprint>
+              <pubPlace>Albany</pubPlace>
+              <publisher>State University of New York Press</publisher>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">SUNY series in the sociology of culture</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="christgau">
+          <analytic>
+            <author ref="authors.xml#christgau.r">
+              <forename>Robert</forename>
+              <surname>Christgau</surname>
+            </author>
+            <title level="a">Perestroika, Glasnost, Art-Rock</title>
+            <idno type="live-url"
+              >https://www.robertchristgau.com/xg/rock/russia-91.php</idno>
+            <idno type="Wayback"
+              >https://web.archive.org/web/20020323005700/https://www.robertchristgau.com/xg/rock/russia-91.php</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The Village Voice</title>
+            <imprint>
+              <date>1991-01-15</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="easton1989">
+          <analytic>
+            <title level="a">The Rock Music Community</title>
+            <author ref="authors.xml#easton.p">
+              <forename>P.</forename>
+              <surname>Easton</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Soviet Youth Culture</title>
+            <idno type="ISBN">978-1-349-19932-7</idno>
+            <idno type="OCLC">18327428</idno>
+            <idno type="InternetArchive">sovietyouthcultu00rior</idno>
+            <idno type="ARK">13960/t28959q7b</idno>
+            <editor>
+              <forename>James</forename>
+              <surname>Riordan</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Bloomington, IN</pubPlace>
+              <biblScope unit="page">45–82</biblScope>
+              <publisher>Indiana University Press</publisher>
+              <date>1989</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="cushman1991">
+          <analytic>
+            <title level="a">Rich Rastas and Communist Rockers: A Comparative Study of the Origin,
+              Diffusion and Defusion of Revolutionary Musical Codes</title>
+            <author ref="authors.xml#cushman.t">
+              <forename>Thomas</forename>
+              <surname>Cushman</surname>
+            </author>
+            <idno type="DOI">10.1111/j.0022-3840.1991.174832.x</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of Popular Culture</title>
+            <imprint>
+              <biblScope unit="volume">25</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">17-61</biblScope>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="PhD" xml:id="grabarchuk2015">
+          <monogr>
+            <title level="m">The Soundtrack of Stagnation: Paradoxes within Soviet Rock and Pop of
+              the 1970s</title>
+            <idno type="live-url">https://escholarship.org/uc/item/5jm0m00m</idno>
+            <idno type="ARK">13030/m53z1b82</idno>
+            <author ref="authors.xml#grabarchuk.a">
+              <forename>Alexandra</forename>
+              <surname>Grabarchuk</surname>
+            </author>
+            <imprint>
+              <date>2015</date>
+              <publisher>University of California, Los Angeles</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="PhD" xml:id="cornish2020">
+          <monogr>
+            <title level="m">Sounding Socialist, Sounding Modern: Music, Technology, and Everyday
+              Life in the Soviet Union, 1956-1975</title>
+            <idno type="HDL">1802/36008</idno>
+            <author ref="authors.xml#cornish.g">
+              <forename>Gabrielle</forename>
+              <surname>Cornish</surname>
+            </author>
+            <imprint>
+              <date>2020</date>
+              <publisher>University of Rochester</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="bohlen1993">
+          <analytic>
+            <title level="a">In Russia's Free Market, Cultural Piracy Thrives</title>
+            <author ref="authors.xml#bohlen.c">
+              <forename>Celestine</forename>
+              <surname>Bohlen</surname>
+            </author>
+            <idno type="live-url"
+              >https://www.nytimes.com/1993/07/02/world/no-headline-951293.html</idno>
+          </analytic>
+          <monogr>
+            <title level="m">The New York Times</title>
+            <idno type="ISSN">0362-4331</idno>
+            <imprint>
+              <biblScope unit="chapter">World</biblScope>
+              <date>1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" subtype="MA" xml:id="anderson2006">
+          <monogr>
+            <title level="m">Viktor Tsoi: Rock Star as Soviet Hero: Individual Resistance in the
+              Lermontov Tradition</title>
+            <idno type="ISBN">978-0-494-22139-6</idno>
+            <author ref="authors.xml#anderson.r">
+              <forename>Rebecca Diane</forename>
+              <surname>Anderson</surname>
+            </author>
+            <imprint>
+              <pubPlace>Canada</pubPlace>
+              <date>2006</date>
+              <publisher>University of Alberta</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="herbert2019">
+          <monogr>
+            <title level="m">What about Tomorrow?: An Oral History of Russian Punk from the Soviet
+              Era to Pussy Riot</title>
+            <idno type="ISBN">978-1-62106-404-6</idno>
+            <idno type="OCLC">1089890883</idno>
+            <editor ref="authors.xml#herbert.a">
+              <forename>Alexander</forename>
+              <surname>Herbert</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Portland, OR</pubPlace>
+              <publisher>Microcosm Publishing</publisher>
+              <date>2019</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="editedCollection" xml:id="coates2015">
+          <monogr>
+            <title level="m">X-ray Audio: The Strange Story of Soviet Music on the Bone</title>
+            <idno type="ISBN">978-1-907222-38-2</idno>
+            <idno type="callNumber">ML3917.R8 X73 2015</idno>
+            <idno type="OCLC">920853668</idno>
+            <editor ref="authors.xml#coates.s">
+              <forename>Stephen</forename>
+              <surname>Coates</surname>
+            </editor>
+            <editor role="photographer">
+              <forename>Paul</forename>
+              <surname>Heartfield</surname>
+            </editor>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Rudy</forename>
+                <surname>Fuchs</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Aleks</forename>
+                <surname>Kolkowski</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Maksim</forename>
+                <surname>Kravchinsky</surname>
+              </persName>
+            </respStmt>
+            <respStmt ref="authors.xml#troitsky.a">
+              <resp>contributor</resp>
+              <persName>
+                <forename>Artemy</forename>
+                <surname>Troitsky</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Kolya</forename>
+                <surname>Vasin</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Strange Attractor Press</publisher>
+              <date>2015</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="radioBroadcast" xml:id="coates2019">
+          <monogr>
+            <title level="m">Bone Music</title>
+            <idno type="live-url"
+              >https://www.bbc.co.uk/programmes/m000bdjg</idno>
+            <respStmt ref="authors.xml#coates.s">
+              <resp>contributor</resp>
+              <persName>
+                <forename>Stephen</forename>
+                <surname>Coates</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>producer</resp>
+              <persName>
+                <forename>Monica</forename>
+                <surname>Whitlock</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>2019-11-17</date>
+              <publisher>BBC Radio 3</publisher>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s" type="program">Between the Ears</title>
+          </series>
+        </biblStruct>
+      </listBibl>
+    </body>
+  </text>
+</TEI>
