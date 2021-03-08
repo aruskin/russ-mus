@@ -1,401 +1,396 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-<teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>Soviet Rock Bibliography Authors</title>
-    </titleStmt>
-  </fileDesc>
-  <revisionDesc>
-    <listChange>
-      <change when="2021-03-03">Added all people tagged as <att>author</att> in Soviet rock bibliography</change>
-    </listChange>
-  </revisionDesc>
-</teiHeader>
-<text>
-  <body>
-    <head>Soviet Rock Bibliography Authors</head>
-<listPerson>
-<person xml:id="amico.s">
-  <persName>
-    <forename>Stephen</forename>
-    <surname>Amico</surname>
-  </persName>
-  <idno type="viaf">305363023</idno>
-</person>
-<person xml:id="anderson.r">
-  <persName>
-    <forename>Rebecca Diane</forename>
-    <surname>Anderson</surname>
-  </persName>
-  <idno type="viaf">102774944</idno>
-</person>
-<person xml:id="bennetts.m">
-  <persName>
-    <forename>Marc</forename>
-    <surname>Bennetts</surname>
-  </persName>
-  <idno type="viaf">81380619</idno>
-  <idno type="viaf">897154380907030290017</idno>
-</person>
-<person xml:id="bohlen.c">
-  <persName>
-    <forename>Celestine</forename>
-    <surname>Bohlen</surname>
-  </persName>
-  <idno type="viaf">40151110623837062136</idno>
-</person>
-<person xml:id="christgau.r">
-  <persName>
-    <forename>Robert</forename>
-    <surname>Christgau</surname>
-  </persName>
-  <idno type="viaf">91295400</idno>
-</person>
-<person xml:id="coates.s">
-  <persName>
-    <forename>Stephen</forename>
-    <surname>Coates</surname>
-  </persName>
-  <idno type="viaf">193145541818996601218</idno>
-</person>
-<person xml:id="cornish.g">
-  <persName>
-    <forename>Gabrielle</forename>
-    <surname>Cornish</surname>
-  </persName>
-  <idno type="viaf">6160604565816120516</idno>
-</person>
-<person xml:id="cushman.t">
-  <persName>
-    <forename>Thomas</forename>
-    <surname>Cushman</surname>
-  </persName>
-  <idno type="viaf">268225423</idno>
-</person>
-<person xml:id="daughtry.j">
-  <persName>
-    <forename>J. Martin</forename>
-    <surname>Daughtry</surname>
-  </persName>
-  <idno type="viaf">166484251</idno>
-  <idno type="viaf">312619175</idno>
-</person>
-<person xml:id="dobrotvorskaja.e">
-  <persName>
-    <forename>Ekaterina</forename>
-    <surname>Dobrotvorskaja</surname>
-  </persName>
-</person>
-<person xml:id="easton.p">
-  <persName>
-    <forename>Paul</forename>
-    <surname>Easton</surname>
-  </persName>
-</person>
-<person xml:id="fedorova.a">
-  <persName>
-    <forename>Anastasiia</forename>
-    <surname>Fedorova</surname>
-  </persName>
-</person>
-<person xml:id="friedman.j">
-  <persName>
-    <forename type="first">Julia</forename>
-    <forename type="middle" full="init">P.</forename>
-    <surname>Friedman</surname>
-  </persName>
-  <idno type="viaf">77502988</idno>
-  <idno type="viaf">312634130</idno>
-</person>
-<person xml:id="furst.j">
-  <persName>
-    <forename>Juliane</forename>
-    <surname>Fürst</surname>
-  </persName>
-  <idno type="viaf">27383334</idno>
-</person>
-<person xml:id="glossop.n">
-  <persName>
-    <forename>Nicholas</forename>
-    <surname>Glossop</surname>
-  </persName>
-</person>
-<person xml:id="gololobov.i">
-  <persName>
-    <forename>Ivan</forename>
-    <surname>Gololobov</surname>
-  </persName>
-  <idno type="viaf">312785858</idno>
-  <idno type="viaf">305446447</idno>
-</person>
-<person xml:id="grabarchuk.a">
-  <persName>
-    <forename>Alexandra</forename>
-    <surname>Grabarchuk</surname>
-  </persName>
-  <idno type="viaf">296886345</idno>
-</person>
-<person xml:id="herbert.a">
-  <persName>
-    <forename>Alexander</forename>
-    <surname>Herbert</surname>
-  </persName>
-  <idno type="viaf">15155343956906312093</idno>
-</person>
-<person xml:id="kan.a">
-  <persName>
-    <forename>Alexander</forename>
-    <surname>Kan</surname>
-  </persName>
-  <idno type="viaf">120071273</idno>
-</person>
-<person xml:id="kohen.h">
-  <persName>
-    <forename>Hilah</forename>
-    <surname>Kohen</surname>
-  </persName>
-</person>
-<person xml:id="kolesnik.a">
-  <persName>
-    <forename>Alexandra</forename>
-    <surname>Kolesnik</surname>
-  </persName>
-</person>
-<person xml:id="kveberg.g">
-  <persName>
-    <forename>Gregory</forename>
-    <surname>Kveberg</surname>
-  </persName>
-</person>
-<person xml:id="lashcheva.m">
-  <persName>
-    <forename>Maria</forename>
-    <surname>Lashcheva</surname>
-  </persName>
-</person>
-<person xml:id="macfadyen.d">
-  <persName>
-    <forename>David</forename>
-    <surname>MacFadyen</surname>
-  </persName>
-  <idno type="viaf">66681395</idno>
-</person>
-<person xml:id="mcmichael.p">
-  <persName>
-    <forename>Polly</forename>
-    <surname>McMichael</surname>
-  </persName>
-</person>
-<person xml:id="nicolov.a">
-  <persName>
-    <forename>Alice</forename>
-    <surname>Nicolov</surname>
-  </persName>
-</person>
-<person xml:id="pelyushonok.y">
-  <persName>
-    <forename>Yury</forename>
-    <surname>Pelyushonok</surname>
-  </persName>
-  <idno type="viaf">21488518</idno>
-</person>
-<person xml:id="pierobon.c">
-  <persName>
-    <forename>Chiara</forename>
-    <surname>Pierobon</surname>
-  </persName>
-  <idno type="viaf">305437964</idno>
-  <idno type="viaf">130153833229764331860</idno>
-</person>
-<person xml:id="pilkington.h">
-  <persName>
-    <forename>Hilary</forename>
-    <surname>Pilkington</surname>
-  </persName>
-  <idno type="viaf">88060556</idno>
-</person>
-<person xml:id="pond.i">
-  <persName>
-    <forename>Irina</forename>
-    <surname>Pond</surname>
-  </persName>
-</person>
-<person xml:id="ramet.s">
-  <persName>
-    <forename type="first">Sabrina</forename>
-    <forename type="middle">Petra</forename>
-    <surname>Ramet</surname>
-  </persName>
-  <idno type="viaf">200702376</idno>
-  <idno type="viaf">188186414</idno>
-</person>
-<person xml:id="raspopina.s">
-  <persName>
-    <forename>Sasha</forename>
-    <surname>Raspopina</surname>
-  </persName>
-</person>
-<person xml:id="rayport.j">
-  <persName>
-    <forename>Jennifer S.</forename>
-    <surname>Rayport</surname>
-  </persName>
-</person>
-<person xml:id="rogatchevski.a">
-  <persName>
-    <forename>Andrei</forename>
-    <surname>Rogatchevski</surname>
-  </persName>
-  <idno type="viaf">47000538</idno>
-  <idno type="viaf">24155343966406312883</idno>
-</person>
-<person xml:id="ryback.t">
-  <persName>
-    <forename>Timothy W.</forename>
-    <surname>Ryback</surname>
-  </persName>
-  <idno type="viaf">111790345</idno>
-</person>
-<person xml:id="schreck.c">
-  <persName>
-    <forename>Carl</forename>
-    <surname>Schreck</surname>
-  </persName>
-</person>
-<person xml:id="six.i">
-  <persName>
-    <forename>Irina</forename>
-    <surname>Six</surname>
-  </persName>
-</person>
-<person xml:id="sosin.g">
-  <persName>
-    <forename>Gene</forename>
-    <surname>Sosin</surname>
-  </persName>
-  <idno type="viaf">79190582</idno>
-  <idno type="viaf">2710656</idno>
-</person>
-<person xml:id="steinholt.y">
-  <persName>
-    <forename type="first">Yngvar</forename>
-    <forename type="patronym">Bordewich</forename>
-    <surname>Steinholt</surname>
-  </persName>
-  <idno type="viaf">261075699</idno>
-</person>
-<person xml:id="stingray.j">
-  <persName>
-    <forename>Joanna</forename>
-    <surname>Stingray</surname>
-  </persName>
-  <idno type="viaf">217157827991654550007</idno>
-</person>
-<person xml:id="stringray.m">
-  <persName>
-    <forename>Madison</forename>
-    <surname>Stingray</surname>
-  </persName>
-  <idno type="viaf">11160060084035601434</idno>
-  <idno type="viaf">1156856182949600169</idno>
-</person>
-<person xml:id="stites.r">
-  <persName>
-    <forename>Richard</forename>
-    <surname>Stites</surname>
-  </persName>
-  <idno type="viaf">4948685</idno>
-</person>
-<person xml:id="tite.m">
-  <persName>
-    <forename>Matthew Charles Everingham</forename>
-    <surname>Tite</surname>
-  </persName>
-</person>
-<person xml:id="troitsky.a">
-  <persName>
-    <forename>Artemy</forename>
-    <surname>Troitsky</surname>
-  </persName>
-  <idno type="viaf">92178998</idno>
-</person>
-<person xml:id="trotter.v">
-  <persName>
-    <forename>Veronika</forename>
-    <surname>Trotter</surname>
-  </persName>
-</person>
-<person xml:id="tsipursky.g">
-  <persName>
-    <forename>Gleb</forename>
-    <surname>Tsipursky</surname>
-  </persName>
-  <idno type="viaf">260709528</idno>
-</person>
-<person xml:id="vonfaust.b">
-  <persName>
-    <forename>Boris</forename>
-    <surname>Von Faust</surname>
-  </persName>
-</person>
-<person xml:id="weiner.a">
-  <persName>
-    <forename>Adam</forename>
-    <surname>Weiner</surname>
-  </persName>
-  <idno type="viaf">161483578</idno>
-</person>
-<person xml:id="whalen.a">
-  <persName>
-    <forename>Allie</forename>
-    <surname>Whalen</surname>
-  </persName>
-</person>
-<person xml:id="wickstrom.d">
-  <persName>
-    <forename>David-Emil</forename>
-    <surname>Wickström</surname>
-  </persName>
-  <idno type="viaf">171272101</idno>
-</person>
-<person xml:id="woodhead.l">
-  <persName>
-    <forename>Leslie</forename>
-    <surname>Woodhead</surname>
-  </persName>
-  <idno type="viaf">14981490 </idno>
-</person>
-<person xml:id="yoffe.m">
-  <persName>
-    <forename>Mark</forename>
-    <surname>Yoffe</surname>
-  </persName>
-  <idno type="viaf">35374808</idno>
-</person>
-<person>
-  <persName>
-    <forename>Sergei</forename>
-    <surname>Zamascikov</surname>
-  </persName>
-</person>
-<person xml:id="zaporozhets.o">
-  <persName>
-    <forename>Oksana</forename>
-    <surname>Zaporozhets</surname>
-  </persName>
-  <idno type="viaf">316795575</idno>
-</person>
-<person xml:id="zhuk.s">
-  <persName>
-    <forename type="first">Sergei</forename> 
-    <forename type="patronym">Ivanovich</forename>
-    <surname>Zhuk</surname>
-  </persName>
-  <idno type="viaf">64265778</idno>
-  <idno type="viaf">220712978</idno>
-</person>
-</listPerson>
-</body>
-</text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soviet Rock Bibliography Authors</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Soviet Rock Bibliography Authors</head>
+			<listPerson>
+				<person xml:id="amico.s">
+					<persName>
+						<forename>Stephen</forename>
+						<surname>Amico</surname>
+					</persName>
+					<idno type="viaf">305363023</idno>
+				</person>
+				<person xml:id="anderson.r">
+					<persName>
+						<forename>Rebecca Diane</forename>
+						<surname>Anderson</surname>
+					</persName>
+					<idno type="viaf">102774944</idno>
+				</person>
+				<person xml:id="bennetts.m">
+					<persName>
+						<forename>Marc</forename>
+						<surname>Bennetts</surname>
+					</persName>
+					<idno type="viaf">81380619</idno>
+					<idno type="viaf">897154380907030290017</idno>
+				</person>
+				<person xml:id="bohlen.c">
+					<persName>
+						<forename>Celestine</forename>
+						<surname>Bohlen</surname>
+					</persName>
+					<idno type="viaf">40151110623837062136</idno>
+				</person>
+				<person xml:id="christgau.r">
+					<persName>
+						<forename>Robert</forename>
+						<surname>Christgau</surname>
+					</persName>
+					<idno type="viaf">91295400</idno>
+				</person>
+				<person xml:id="coates.s">
+					<persName>
+						<forename>Stephen</forename>
+						<surname>Coates</surname>
+					</persName>
+					<idno type="viaf">193145541818996601218</idno>
+				</person>
+				<person xml:id="cornish.g">
+					<persName>
+						<forename>Gabrielle</forename>
+						<surname>Cornish</surname>
+					</persName>
+					<idno type="viaf">6160604565816120516</idno>
+				</person>
+				<person xml:id="cushman.t">
+					<persName>
+						<forename>Thomas</forename>
+						<surname>Cushman</surname>
+					</persName>
+					<idno type="viaf">268225423</idno>
+				</person>
+				<person xml:id="daughtry.j">
+					<persName>
+						<forename>J. Martin</forename>
+						<surname>Daughtry</surname>
+					</persName>
+					<idno type="viaf">166484251</idno>
+					<idno type="viaf">312619175</idno>
+				</person>
+				<person xml:id="dobrotvorskaja.e">
+					<persName>
+						<forename>Ekaterina</forename>
+						<surname>Dobrotvorskaja</surname>
+					</persName>
+				</person>
+				<person xml:id="easton.p">
+					<persName>
+						<forename>Paul</forename>
+						<surname>Easton</surname>
+					</persName>
+				</person>
+				<person xml:id="fedorova.a">
+					<persName>
+						<forename>Anastasiia</forename>
+						<surname>Fedorova</surname>
+					</persName>
+				</person>
+				<person xml:id="friedman.j">
+					<persName>
+						<forename type="first">Julia</forename>
+						<forename type="middle" full="init">P.</forename>
+						<surname>Friedman</surname>
+					</persName>
+					<idno type="viaf">77502988</idno>
+					<idno type="viaf">312634130</idno>
+				</person>
+				<person xml:id="furst.j">
+					<persName>
+						<forename>Juliane</forename>
+						<surname>Fürst</surname>
+					</persName>
+					<idno type="viaf">27383334</idno>
+				</person>
+				<person xml:id="glossop.n">
+					<persName>
+						<forename>Nicholas</forename>
+						<surname>Glossop</surname>
+					</persName>
+				</person>
+				<person xml:id="gololobov.i">
+					<persName>
+						<forename>Ivan</forename>
+						<surname>Gololobov</surname>
+					</persName>
+					<idno type="viaf">312785858</idno>
+					<idno type="viaf">305446447</idno>
+				</person>
+				<person xml:id="grabarchuk.a">
+					<persName>
+						<forename>Alexandra</forename>
+						<surname>Grabarchuk</surname>
+					</persName>
+					<idno type="viaf">296886345</idno>
+				</person>
+				<person xml:id="herbert.a">
+					<persName>
+						<forename>Alexander</forename>
+						<surname>Herbert</surname>
+					</persName>
+					<idno type="viaf">15155343956906312093</idno>
+				</person>
+				<person xml:id="kan.a">
+					<persName>
+						<forename>Alexander</forename>
+						<surname>Kan</surname>
+					</persName>
+					<idno type="viaf">120071273</idno>
+				</person>
+				<person xml:id="kohen.h">
+					<persName>
+						<forename>Hilah</forename>
+						<surname>Kohen</surname>
+					</persName>
+				</person>
+				<person xml:id="kolesnik.a">
+					<persName>
+						<forename>Alexandra</forename>
+						<surname>Kolesnik</surname>
+					</persName>
+				</person>
+				<person xml:id="kveberg.g">
+					<persName>
+						<forename>Gregory</forename>
+						<surname>Kveberg</surname>
+					</persName>
+				</person>
+				<person xml:id="lashcheva.m">
+					<persName>
+						<forename>Maria</forename>
+						<surname>Lashcheva</surname>
+					</persName>
+				</person>
+				<person xml:id="macfadyen.d">
+					<persName>
+						<forename>David</forename>
+						<surname>MacFadyen</surname>
+					</persName>
+					<idno type="viaf">66681395</idno>
+				</person>
+				<person xml:id="mcmichael.p">
+					<persName>
+						<forename>Polly</forename>
+						<surname>McMichael</surname>
+					</persName>
+				</person>
+				<person xml:id="nicolov.a">
+					<persName>
+						<forename>Alice</forename>
+						<surname>Nicolov</surname>
+					</persName>
+				</person>
+				<person xml:id="pelyushonok.y">
+					<persName>
+						<forename>Yury</forename>
+						<surname>Pelyushonok</surname>
+					</persName>
+					<idno type="viaf">21488518</idno>
+				</person>
+				<person xml:id="pierobon.c">
+					<persName>
+						<forename>Chiara</forename>
+						<surname>Pierobon</surname>
+					</persName>
+					<idno type="viaf">305437964</idno>
+					<idno type="viaf">130153833229764331860</idno>
+				</person>
+				<person xml:id="pilkington.h">
+					<persName>
+						<forename>Hilary</forename>
+						<surname>Pilkington</surname>
+					</persName>
+					<idno type="viaf">88060556</idno>
+				</person>
+				<person xml:id="pond.i">
+					<persName>
+						<forename>Irina</forename>
+						<surname>Pond</surname>
+					</persName>
+				</person>
+				<person xml:id="ramet.s">
+					<persName>
+						<forename type="first">Sabrina</forename>
+						<forename type="middle">Petra</forename>
+						<surname>Ramet</surname>
+					</persName>
+					<idno type="viaf">200702376</idno>
+					<idno type="viaf">188186414</idno>
+				</person>
+				<person xml:id="raspopina.s">
+					<persName>
+						<forename>Sasha</forename>
+						<surname>Raspopina</surname>
+					</persName>
+				</person>
+				<person xml:id="rayport.j">
+					<persName>
+						<forename>Jennifer S.</forename>
+						<surname>Rayport</surname>
+					</persName>
+				</person>
+				<person xml:id="rogatchevski.a">
+					<persName>
+						<forename>Andrei</forename>
+						<surname>Rogatchevski</surname>
+					</persName>
+					<idno type="viaf">47000538</idno>
+					<idno type="viaf">24155343966406312883</idno>
+				</person>
+				<person xml:id="ryback.t">
+					<persName>
+						<forename>Timothy W.</forename>
+						<surname>Ryback</surname>
+					</persName>
+					<idno type="viaf">111790345</idno>
+				</person>
+				<person xml:id="schreck.c">
+					<persName>
+						<forename>Carl</forename>
+						<surname>Schreck</surname>
+					</persName>
+				</person>
+				<person xml:id="six.i">
+					<persName>
+						<forename>Irina</forename>
+						<surname>Six</surname>
+					</persName>
+				</person>
+				<person xml:id="sosin.g">
+					<persName>
+						<forename>Gene</forename>
+						<surname>Sosin</surname>
+					</persName>
+					<idno type="viaf">79190582</idno>
+					<idno type="viaf">2710656</idno>
+				</person>
+				<person xml:id="steinholt.y">
+					<persName>
+						<forename type="first">Yngvar</forename>
+						<forename type="patronym">Bordewich</forename>
+						<surname>Steinholt</surname>
+					</persName>
+					<idno type="viaf">261075699</idno>
+				</person>
+				<person xml:id="stingray.j">
+					<persName>
+						<forename>Joanna</forename>
+						<surname>Stingray</surname>
+					</persName>
+					<idno type="viaf">217157827991654550007</idno>
+				</person>
+				<person xml:id="stringray.m">
+					<persName>
+						<forename>Madison</forename>
+						<surname>Stingray</surname>
+					</persName>
+					<idno type="viaf">11160060084035601434</idno>
+					<idno type="viaf">1156856182949600169</idno>
+				</person>
+				<person xml:id="stites.r">
+					<persName>
+						<forename>Richard</forename>
+						<surname>Stites</surname>
+					</persName>
+					<idno type="viaf">4948685</idno>
+				</person>
+				<person xml:id="tite.m">
+					<persName>
+						<forename>Matthew Charles Everingham</forename>
+						<surname>Tite</surname>
+					</persName>
+				</person>
+				<person xml:id="troitsky.a">
+					<persName>
+						<forename>Artemy</forename>
+						<surname>Troitsky</surname>
+					</persName>
+					<idno type="viaf">92178998</idno>
+				</person>
+				<person xml:id="trotter.v">
+					<persName>
+						<forename>Veronika</forename>
+						<surname>Trotter</surname>
+					</persName>
+				</person>
+				<person xml:id="tsipursky.g">
+					<persName>
+						<forename>Gleb</forename>
+						<surname>Tsipursky</surname>
+					</persName>
+					<idno type="viaf">260709528</idno>
+				</person>
+				<person xml:id="vonfaust.b">
+					<persName>
+						<forename>Boris</forename>
+						<surname>Von Faust</surname>
+					</persName>
+				</person>
+				<person xml:id="weiner.a">
+					<persName>
+						<forename>Adam</forename>
+						<surname>Weiner</surname>
+					</persName>
+					<idno type="viaf">161483578</idno>
+				</person>
+				<person xml:id="whalen.a">
+					<persName>
+						<forename>Allie</forename>
+						<surname>Whalen</surname>
+					</persName>
+				</person>
+				<person xml:id="wickstrom.d">
+					<persName>
+						<forename>David-Emil</forename>
+						<surname>Wickström</surname>
+					</persName>
+					<idno type="viaf">171272101</idno>
+				</person>
+				<person xml:id="woodhead.l">
+					<persName>
+						<forename>Leslie</forename>
+						<surname>Woodhead</surname>
+					</persName>
+					<idno type="viaf">14981490 </idno>
+				</person>
+				<person xml:id="yoffe.m">
+					<persName>
+						<forename>Mark</forename>
+						<surname>Yoffe</surname>
+					</persName>
+					<idno type="viaf">35374808</idno>
+				</person>
+				<person>
+					<persName>
+						<forename>Sergei</forename>
+						<surname>Zamascikov</surname>
+					</persName>
+				</person>
+				<person xml:id="zaporozhets.o">
+					<persName>
+						<forename>Oksana</forename>
+						<surname>Zaporozhets</surname>
+					</persName>
+					<idno type="viaf">316795575</idno>
+				</person>
+				<person xml:id="zhuk.s">
+					<persName>
+						<forename type="first">Sergei</forename>
+						<forename type="patronym">Ivanovich</forename>
+						<surname>Zhuk</surname>
+					</persName>
+					<idno type="viaf">64265778</idno>
+					<idno type="viaf">220712978</idno>
+				</person>
+			</listPerson>
+		</body>
+	</text>
 </TEI>
