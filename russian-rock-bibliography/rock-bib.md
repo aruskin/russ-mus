@@ -58,6 +58,11 @@ Tsipursky, Gleb. 2016. _Socialist Fun: Youth, Consumption, and State-Sponsored P
 
 *   Find on [WorldCat](http://www.worldcat.org/oclc/910334493)
 
+Urban, Michael, and Andrei Evdokimov. 2004. _Russia Gets the Blues: Music, Culture, and Community in Unsettled Times_. Ithaca : Cornell University Press.
+
+* Find on [WorldCat](http://www.worldcat.org/oclc/1105531160)
+* [JSTOR stable link](https://www.jstor.org/stable/10.7591/j.ctv1nhmn7)
+
 Wickström, David-Emil. 2011. _Rocking St. Petersburg: Transcultural Flows and Identity Politics in Post-Soviet Popular Music_. Stuttgart: Ibidem Verlag.
 
 *   Find on [WorldCat](http://www.worldcat.org/oclc/888955842)
@@ -155,6 +160,10 @@ Yoffe, Mark. 2005. “Conceptual Carnival: National Elements in Russian National
 Academic Journal Articles
 -------------------------
 
+Adams, Kevin. 2021. “Slavic, East European, and Eurasian Punk Alternative Publications: Challenges to Fugitive Materials.” _Slavic & East European Information Resources_, 22 (1): 32–52.
+
+* DOI: [10.1080/15228886.2021.1874303](http://doi.org/10.1080/15228886.2021.1874303)
+
 Amico, Stephen. 2014. “The Most Martian of Martianesses: Zhanna Aguzarova, (Post-)Soviet Rock ‘n’ Roll, and the Musico-Linguistic Creation of the ‘Outside’.” _Popular Music_, 33 (2): 243–67.
 
 *   DOI: [10.1017/S0261143014000294](http://doi.org/10.1017/S0261143014000294)
@@ -212,6 +221,10 @@ Rogatchevski, Andrei, and Yngvar B. Steinholt. 2016. “Pussy Riot’s Musical P
 
 *   DOI: [10.1080/03007766.2015.1088287](http://doi.org/10.1080/03007766.2015.1088287)
 
+Sirotkina, Irina. 2018. “Costume as Truth and as a New Mythology: Dressed Performances of _Perestroika_.” _Fashion Theory_, 22 (2): 199–217. 
+
+* DOI: [10.1080/1362704X.2018.1417813](http://doi.org/10.1080/1362704X.2018.1417813)
+
 Six, Irina. 2008. “Born in the USSR: Searching High and Low for Post-Soviet Identity.” _Ulbandus Review_, 11 (2008): 232–51.
 
 *   [JSTOR stable link](https://www.jstor.org/stable/25748190)
@@ -246,6 +259,10 @@ Yoffe, Mark. 2020. “Soviet Rock Collection and International Counterculture Ar
 
 *   DOI: [10.1080/15228886.2020.1756943](http://doi.org/10.1080/15228886.2020.1756943)
 
+Yoffe, Mark. 2021. “Why Collect Zines?: Notes on the Soviet and Russian Rock Zine Collection in the Global Resources Center of George Washington University Libraries.” _Slavic & East European Information Resources_, 22(3-4): 276–286.
+
+* DOI: [10.1080/15228886.2021.2018246](http://doi.org/10.1080/15228886.2021.2018246)
+
 Zaporozhets, Oksana, and Alexandra Kolesnik. 2020. “Music Geography in Russia: Non-Auratic Places and Institutionalization in Becoming.” _Journal of Cultural Geography_, 37 (1): 1–25.
 
 *   DOI: [10.1080/08873631.2019.1703450](http://doi.org/10.1080/08873631.2019.1703450)
@@ -264,6 +281,12 @@ Cornish, Gabrielle. 2020. “Sounding Socialist, Sounding Modern: Music, Technol
 Grabarchuk, Alexandra. 2015. “The Soundtrack of Stagnation: Paradoxes within Soviet Rock and Pop of the 1970s.” PhD dissertation. University of California, Los Angeles.
 
 *   [Institutional repository (UC eScholarship)](https://escholarship.org/uc/item/5jm0m00m)
+
+Hazle, Dawn. 2018. “Delusions of Grandeur?: Aria and the Development of Soviet Metal Music.” MA thesis. University of Nottingham.
+
+* [Institutional repository (Nottingham eTheses)](http://eprints.nottingham.ac.uk/÷50791/)
+
+Hillen, Shaun Patrick. 2020. “Nationalism and Its Discontents: Transformations of Identity in Contemporary Russian Music on and off the Web.” PhD dissertation. Arizona State University.
 
 Kveberg, Gregory. 2012. “Moscow by Night: Musical Subcultures, Identity Formation, and Cultural Evolution in Russia, 1977–2008.” PhD dissertation. University of Illinois at Urbana Champaign.
 
@@ -284,6 +307,12 @@ Whalen, Allie. 2015. “I Will Counterrevolution / I Will Stop All The Motion: A
 Newspaper/Magazine Articles
 ---------------------------
 
+1976-07-14. “Rock Group Tells of Life In Soviet Underground.” _The New York Times_. [https://www.nytimes.com/1976/07/14/archives/rock-group-tells-of-life-in-soviet-underground.html](https://www.nytimes.com/1976/07/14/archives/rock-group-tells-of-life-in-soviet-underground.html)
+
+2018-09-03. “Kolya Vasin: Russian fan who gave the Beatles all his loving.” _BBC News_. [https://www.bbc.com/news/world-europe-45402514](https://www.bbc.com/news/world-europe-45402514)
+
+Aksenov, Pavel. 2012-10-05. “Beatles for sale: The vinyl underground in the USSR.” _BBC News_. [https://www.bbc.com/news/entertainment-arts-19827438](https://www.bbc.com/news/entertainment-arts-19827438)
+
 Bennetts, Marc. 2014-09-23. “Raging in the cold: the Siberian punk who changed the face of Russian music.” _The Calvert Journal_. [https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb](https://www.calvertjournal.com/articles/show/3116/yegor-letov-Siberian-punk-GrOb)
 
 Bohlen, Celestine. 1993. “In Russia's Free Market, Cultural Piracy Thrives.” _The New York Times_. [https://www.nytimes.com/1993/07/02/world/no-headline-951293.html](https://www.nytimes.com/1993/07/02/world/no-headline-951293.html)
@@ -296,13 +325,25 @@ Kan, Alexander. 2014-05-08. “Underground sound: Alexander Kan’s favourite tr
 
 Lashcheva, Maria, and Hilah Kohen. 2019-04-16. “For whatever reason in the cosmos, I’m connected to Russia again. Joanna Stingray brought Soviet rock to the West. We asked her about her old friends and her new book.” Interview with Joanna Stingray. _Meduza_. [https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again](https://meduza.io/en/feature/2019/04/16/for-whatever-reason-in-the-cosmos-i-m-connected-to-russia-again)
 
+Maynes, Charles. 2021-08-14. “Russia's Iconic Leningrad Rock Club Celebrates Its 40th Anniversary.” _NPR_. [https://www.npr.org/2021/08/14/1027689237/russias-iconic-leningrad-rock-club-celebrates-its-40th-anniversary](https://www.npr.org/2021/08/14/1027689237/russias-iconic-leningrad-rock-club-celebrates-its-40th-anniversary)
+
+McGrane, Sally. 2014-10-21. “Boris Grebenshikov: ‘The Bob Dylan of Russia’.” _BBC Culture_. [https://www.bbc.com/culture/article/20141013-meet-the-bob-dylan-of-russia](https://www.bbc.com/culture/article/20141013-meet-the-bob-dylan-of-russia)
+
 Nicolov, Alice. 2016-09-01. “Capturing the Soviet Union’s rock kids of the 1980s.” Interview with Igor Mukhin. _Dazed_. [https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth](https://www.dazeddigital.com/photography/article/32618/1/photos-of-soviet-80s-rock-scene-ussr-youth)
 
 Nicolov, Alice. 2016-08-03. “The secret history of the Soviet X-ray vinyl black market.” Interview with Stephen Coates. _Dazed_. [https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union](https://www.dazeddigital.com/music/article/32308/1/russia-x-ray-vinyl-music-soviet-union)
 
+Ouzilevski, Aron. 2021-07-20. “‘A folkloric hallucination’: Zvuki Mu, Soviet Russia’s most glorious band.” _The Guardian_. [https://www.theguardian.com/music/2021/jul/20/a-folkloric-hallucination-zvuki-mu-soviet-russias-most-glorious-band](https://www.theguardian.com/music/2021/jul/20/a-folkloric-hallucination-zvuki-mu-soviet-russias-most-glorious-band)
+
 Raspopina, Sasha. 2016-08-16. “Rock in the USSR: new photos of the Leningrad underground during perestroika.” _The Calvert Journal_. [https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi](https://www.calvertjournal.com/features/show/6563/igor-mukhin-leningrad-photos-perestroika-viktor-tsoi)
 
+Razor, Sasha. 2020-10-17. “'This Decadent Western Thing': Joanna Stingray on the Soviet Underground Rock Scene.” _Los Angeles Review of Books_. [https://lareviewofbooks.org/article/this-decadent-western-thing-a-conversation-with-joanna-stingray/](https://lareviewofbooks.org/article/this-decadent-western-thing-a-conversation-with-joanna-stingray/)
+
+Schreck, Carl. 2014-04-18. “Spies, Spooks, And Rock 'n' Roll At Twilight Of The Cold War.” _RadioFreeEurope/RadioLiberty_. [https://www.rferl.org/a/spies-spooks-and-rock-n-roll-at-twilight-of-the-cold-war/25354132.html](https://www.rferl.org/a/spies-spooks-and-rock-n-roll-at-twilight-of-the-cold-war/25354132.html)
+
 Schreck, Carl. 2014-04-21. “A Brief History of Soviet Rock and Roll.” _The Atlantic_. [https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/](https://www.theatlantic.com/international/archive/2014/04/brief-history-soviet-rock-and-roll/361004/)
+
+Woodhead, Leslie. 2009-09-04. “How the Beatles rocked the Eastern Bloc.” _BBC News Magazine_. [http://news.bbc.co.uk/2/hi/uk_news/magazine/8232235.stm](http://news.bbc.co.uk/2/hi/uk_news/magazine/8232235.stm)
 
 * * *
 
@@ -319,9 +360,13 @@ Audio Resources
 
 ### Radio Programs
 
+“Russia's Iconic Leningrad Rock Club Celebrates Its 40th Anniversary.” 2021-08-14. Weekend Edition Saturday. _NPR_. [https://www.npr.org/2021/08/14/1027689237/russias-iconic-leningrad-rock-club-celebrates-its-40th-anniversary](https://www.npr.org/2021/08/14/1027689237/russias-iconic-leningrad-rock-club-celebrates-its-40th-anniversary)
+
 “Bone Music.” 2019-11-17. Between the Ears. _BBC Radio 3_. [https://www.bbc.co.uk/programmes/m000bdjg](https://www.bbc.co.uk/programmes/m000bdjg)
 
 “How Rock and Roll Brought the Soviet Union Down.” 2011-05-19. Interview with Sergei Zhuk. The World. _Public Radio International_. [https://www.pri.org/stories/2011-05-19/how-rock-and-roll-brought-soviet-union-down](https://www.pri.org/stories/2011-05-19/how-rock-and-roll-brought-soviet-union-down)
+
+“BBC World Service - Masterpiece, Interview with Boris Grebenshikov.” 2005-05-26. Interview with Boris Grebenshikov. BBC World Service. _BBC_. [https://www.bbc.co.uk/programmes/p03cgdkd](https://www.bbc.co.uk/programmes/p03cgdkd)
 
 * * *
 
